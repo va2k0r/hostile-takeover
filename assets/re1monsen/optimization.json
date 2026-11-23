@@ -1,0 +1,114 @@
+[
+  {
+    "asset": "fighter",
+    "lod": 0,
+    "triangles": 31702,
+    "file": "fighter.glb",
+    "fileBytes": 2608848,
+    "sha256": "358466efc31a5631420033c60738d68219401a4bb580759e37eb671271289d54"
+  },
+  {
+    "asset": "fighter",
+    "lod": 1,
+    "triangles": 1054,
+    "file": "fighter.glb",
+    "fileBytes": 2608848,
+    "sha256": "358466efc31a5631420033c60738d68219401a4bb580759e37eb671271289d54"
+  },
+  {
+    "asset": "cargo",
+    "lod": 0,
+    "triangles": 35791,
+    "file": "cargo.glb",
+    "fileBytes": 6687372,
+    "sha256": "0f95676bd59950c5e2b046c2a9e1d26c9aa26b09d04f7992ceb2a3731f4ecb4e"
+  },
+  {
+    "asset": "cargo",
+    "lod": 1,
+    "triangles": 1074,
+    "file": "cargo.glb",
+    "fileBytes": 6687372,
+    "sha256": "0f95676bd59950c5e2b046c2a9e1d26c9aa26b09d04f7992ceb2a3731f4ecb4e"
+  },
+  {
+    "asset": "corvette",
+    "lod": 0,
+    "triangles": 26981,
+    "file": "corvette.glb",
+    "fileBytes": 7350396,
+    "sha256": "6ab9d3459a6155489b70e986542f32a51790bddfa713d1191cc7c1dcf679099e"
+  },
+  {
+    "asset": "corvette",
+    "lod": 1,
+    "triangles": 1231,
+    "file": "corvette.glb",
+    "fileBytes": 7350396,
+    "sha256": "6ab9d3459a6155489b70e986542f32a51790bddfa713d1191cc7c1dcf679099e"
+  },
+  {
+    "asset": "cannon",
+    "lod": 0,
+    "triangles": 23122,
+    "file": "cannon.glb",
+    "fileBytes": 4186496,
+    "sha256": "a906677735b5c92ecce82a061a211ca3f11f3996dbcb5910f890325075af9452"
+  },
+  {
+    "asset": "cannon",
+    "lod": 1,
+    "triangles": 2371,
+    "file": "cannon.glb",
+    "fileBytes": 4186496,
+    "sha256": "a906677735b5c92ecce82a061a211ca3f11f3996dbcb5910f890325075af9452"
+  },
+  {
+    "asset": "gantry",
+    "lod": 0,
+    "triangles": 4694,
+    "file": "station-modules.glb",
+    "fileBytes": 2203964,
+    "sha256": "317b2abdbf19b4ad7e64373c78a40e20625adbf149a76843ca7a1ad43ad0077e"
+  },
+  {
+    "asset": "gantry",
+    "lod": 1,
+    "triangles": 1444,
+    "file": "station-modules.glb",
+    "fileBytes": 2203964,
+    "sha256": "317b2abdbf19b4ad7e64373c78a40e20625adbf149a76843ca7a1ad43ad0077e"
+  },
+  {
+    "asset": "platform",
+    "lod": 0,
+    "triangles": 1533,
+    "file": "station-modules.glb",
+    "fileBytes": 2203964,
+    "sha256": "317b2abdbf19b4ad7e64373c78a40e20625adbf149a76843ca7a1ad43ad0077e"
+  },
+  {
+    "asset": "platform",
+    "lod": 1,
+    "triangles": 457,
+    "file": "station-modules.glb",
+    "fileBytes": 2203964,
+    "sha256": "317b2abdbf19b4ad7e64373c78a40e20625adbf149a76843ca7a1ad43ad0077e"
+  },
+  {
+    "asset": "machinery",
+    "lod": 0,
+    "triangles": 2591,
+    "file": "station-modules.glb",
+    "fileBytes": 2203964,
+    "sha256": "317b2abdbf19b4ad7e64373c78a40e20625adbf149a76843ca7a1ad43ad0077e"
+  },
+  {
+    "asset": "machinery",
+    "lod": 1,
+    "triangles": 776,
+    "file": "station-modules.glb",
+    "fileBytes": 2203964,
+    "sha256": "317b2abdbf19b4ad7e64373c78a40e20625adbf149a76843ca7a1ad43ad0077e"
+  }
+]

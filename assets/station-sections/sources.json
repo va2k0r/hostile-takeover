@@ -1,0 +1,217 @@
+{
+  "author": "Gerardo Justel (re1monsen)",
+  "profile": "https://sketchfab.com/re1monsen",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "adaptation": "Hostile Takeover cut, closed, reoriented and assembled licensed station structures, retaining their original UVs and PBR maps. Each orbit contains exactly three rigid copies of the selected section rotated through 120 degrees.",
+  "sources": [
+    {
+      "id": "station13",
+      "title": "Spacestation 7 - Procedural",
+      "fab": "https://www.fab.com/listings/bf84b4bd-71d7-447d-96ba-9491646fd00f",
+      "original": "https://sketchfab.com/3d-models/5e8cb801870f4cbc89246ba4f9c8e6b2",
+      "sha256": "55c29ae36d7b9a4d7f707866bd286a84ecc0673cf2c6bb7902d04f7a6e9339b5"
+    },
+    {
+      "id": "ring3",
+      "title": "Space Station 3",
+      "fab": "https://www.fab.com/listings/192bc415-7e24-4515-993d-fc55dd8a4e53",
+      "original": "https://sketchfab.com/3d-models/a7a6ad10261149cab31aa394bfcf8940",
+      "sha256": "0957e148f9260e0829f08231a690cc21d22858dd8ec03f916f58a52db57fcae3"
+    },
+    {
+      "id": "ring4",
+      "title": "Space Station 4",
+      "fab": "https://www.fab.com/listings/a50ebf13-2db6-49a2-8753-7cb9ffc09223",
+      "original": "https://sketchfab.com/3d-models/cf80075368174bf9895f4fd266cf17e3",
+      "sha256": "4cba44cc7adad9963b8efc201d24c69f01e861b99ff683c06fd37f484a8b2148"
+    },
+    {
+      "id": "drone",
+      "title": "Drone Concept",
+      "fab": "https://www.fab.com/listings/56eeffce-2423-42b8-9c4b-cf44078ad877",
+      "original": "https://sketchfab.com/3d-models/49a01e710d9545ceb13dfd8c9fe11fea",
+      "sha256": "1bc6257de85bc074e11c91de81e14da0881fc18c52b8ee2e42eaf081992db547"
+    },
+    {
+      "id": "generator",
+      "title": "Sci fi Portable Generator",
+      "fab": "https://www.fab.com/listings/b854cfdd-78f4-45e9-bf54-05f08e2f5196",
+      "original": "https://sketchfab.com/3d-models/87628b234b194bee9ed81a6815f96286",
+      "sha256": "2286065cb5310927e75ff4f678465a56324632b873e49771f36593512f2598bf"
+    },
+    {
+      "id": "lift",
+      "title": "Rigged Sci-Fi Lift - Mobile Platform - Elevator",
+      "fab": "https://www.fab.com/listings/23470cba-18b6-4383-98ad-0c2288dbfd2e",
+      "original": "https://sketchfab.com/3d-models/eb53f74f3a8942608925358cdc21ca3d",
+      "sha256": "5a1d5a8fcf9af3cf531297905020df259b7a3ff58e9ac5e9a57d3fab254342f2"
+    },
+    {
+      "id": "ship5",
+      "title": "Spaceship 5",
+      "fab": "https://www.fab.com/listings/47310bab-1e33-4f0a-ace9-0604274008ea",
+      "original": "https://sketchfab.com/3d-models/48a6d100860d4014baa2125c16744993",
+      "sha256": "1923e8fbc3701a728a728a67467aca5d13282a3b777313b63f6fbe549b2f098e"
+    },
+    {
+      "id": "station-9042",
+      "title": "Space Station",
+      "fab": "https://www.fab.com/listings/9042d765-4f32-4ef3-892a-aca6c14f8f60",
+      "original": "https://sketchfab.com/3d-models/0da4a24e7edd49159737675ffcc06228",
+      "sha256": "9ac1634a56d8bd401f9309fd5e6dbb8e1ccdefeb4e4e3afd7bc9f017a6af6009"
+    },
+    {
+      "id": "station-03fc",
+      "title": "Space Station",
+      "fab": "https://www.fab.com/listings/03fc052f-e479-4fef-afe9-7efb324dc375",
+      "original": "https://sketchfab.com/3d-models/cc8b011bea6543d0807285a108076463",
+      "sha256": "ee3871c9631b8274e2b61a6370a9be0e2180decfb9d143ac566d188c6762da3a"
+    }
+  ],
+  "sectionSources": {
+    "mine-headframe": [
+      "station13"
+    ],
+    "mine-jaw": [
+      "station13",
+      "lift",
+      "drone"
+    ],
+    "mine-trestle": [
+      "lift",
+      "ship5",
+      "generator",
+      "drone"
+    ],
+    "mine-bucketwheel": [
+      "ring3",
+      "lift",
+      "ship5",
+      "drone",
+      "generator"
+    ],
+    "mine-haulage": [
+      "lift",
+      "drone",
+      "generator"
+    ],
+    "refinery-columns": [
+      "ring4"
+    ],
+    "refinery-bank": [
+      "ring4",
+      "lift",
+      "drone",
+      "generator"
+    ],
+    "refinery-annulus": [
+      "ring3",
+      "drone"
+    ],
+    "refinery-cascade": [
+      "ring4",
+      "lift"
+    ],
+    "refinery-fan": [
+      "ring4",
+      "lift"
+    ],
+    "yard-tiered": [
+      "ring4"
+    ],
+    "yard-slip": [
+      "ring4",
+      "ship5",
+      "lift"
+    ],
+    "yard-collars": [
+      "ring3",
+      "ship5",
+      "lift"
+    ],
+    "yard-cantilever": [
+      "ring4",
+      "lift",
+      "ship5"
+    ],
+    "yard-cradle": [
+      "ring4",
+      "ship5",
+      "lift"
+    ],
+    "base-twinwheel": [
+      "ring3"
+    ],
+    "base-chord": [
+      "ring4",
+      "drone",
+      "lift"
+    ],
+    "base-petal": [
+      "ring3",
+      "lift"
+    ],
+    "base-spindle": [
+      "ring4",
+      "ring3",
+      "lift",
+      "ship5"
+    ],
+    "base-weave": [
+      "ring4",
+      "lift",
+      "drone"
+    ],
+    "mine-tandem": [
+      "station-03fc",
+      "lift",
+      "drone",
+      "generator",
+      "ship5"
+    ],
+    "refinery-kiln": [
+      "station-03fc",
+      "ring4",
+      "generator",
+      "drone",
+      "lift"
+    ],
+    "yard-hanging": [
+      "station-9042",
+      "lift",
+      "ship5"
+    ],
+    "base-suspended": [
+      "station-9042",
+      "lift",
+      "ship5"
+    ]
+  },
+  "componentSources": {
+    "reference-mine": "station13",
+    "ore-jaw": "station13",
+    "hub": "lift",
+    "reactor": "drone",
+    "box-boom": "lift",
+    "open-truss": "ship5",
+    "gear": "generator",
+    "radial-platform": "lift",
+    "wheel-rim": "ring3",
+    "process": "generator",
+    "rack": "generator",
+    "reference-refinery": "ring4",
+    "condenser": "ring4",
+    "cradle": "ring4",
+    "pressure-column": "ring4",
+    "reference-yard": "ring4",
+    "berth-deck": "ring4",
+    "drydock-collar": "ring3",
+    "wheel-third": "ring3",
+    "gallery-arc": "ring3",
+    "new-drive-shaft": "station-03fc",
+    "new-kiln-shell": "station-03fc",
+    "new-hanging-quay": "station-9042",
+    "new-cable-arc": "station-9042"
+  }
+}

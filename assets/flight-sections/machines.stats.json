@@ -1,0 +1,278 @@
+{
+  "source": "public/assets/machine-sections/sections.glb",
+  "sourceSha256": "692d6e6941f1f50c78feea4195553fea9f84067e0ffc4cb780d4e87945dec025",
+  "sha256": "5e5f367ce046a42ef0905a6e2b30a81bc8762c26bfb880e88a22af54b9966c25",
+  "bytes": 2866688,
+  "sections": [
+    {
+      "name": "fighter-bow-axial-optic",
+      "sourceTriangles": 6361,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 1223,
+          "error": 0.039369
+        },
+        {
+          "triangles": 216,
+          "error": 0.1196462
+        }
+      ]
+    },
+    {
+      "name": "fighter-mid-rescue-rotors",
+      "sourceTriangles": 5620,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1198,
+          "error": 0.0373819
+        },
+        {
+          "triangles": 225,
+          "error": 0.1308074
+        }
+      ]
+    },
+    {
+      "name": "fighter-stern-turntable",
+      "sourceTriangles": 6292,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1244,
+          "error": 0.0398195
+        },
+        {
+          "triangles": 216,
+          "error": 0.1027995
+        }
+      ]
+    },
+    {
+      "name": "capital-bow-recessed-prow",
+      "sourceTriangles": 8786,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 2031,
+          "error": 0.0396327
+        },
+        {
+          "triangles": 296,
+          "error": 0.1644715
+        }
+      ]
+    },
+    {
+      "name": "capital-mid-gimbal",
+      "sourceTriangles": 6479,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2023,
+          "error": 0.0385379
+        },
+        {
+          "triangles": 290,
+          "error": 0.1706428
+        }
+      ]
+    },
+    {
+      "name": "capital-stern-stator",
+      "sourceTriangles": 6270,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2007,
+          "error": 0.0399267
+        },
+        {
+          "triangles": 292,
+          "error": 0.1555093
+        }
+      ]
+    },
+    {
+      "name": "cargo-bow-loading-hatch",
+      "sourceTriangles": 2826,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1996,
+          "error": 0.0122134
+        },
+        {
+          "triangles": 279,
+          "error": 0.0931345
+        }
+      ]
+    },
+    {
+      "name": "cargo-mid-roller-pallet",
+      "sourceTriangles": 6590,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 2020,
+          "error": 0.0303163
+        },
+        {
+          "triangles": 305,
+          "error": 0.1705577
+        }
+      ]
+    },
+    {
+      "name": "cargo-mid-keel-cage",
+      "sourceTriangles": 9097,
+      "draws": 9,
+      "levels": [
+        {
+          "triangles": 2038,
+          "error": 0.0397708
+        },
+        {
+          "triangles": 307,
+          "error": 0.1470185
+        }
+      ]
+    },
+    {
+      "name": "cargo-stern-pump-cowl",
+      "sourceTriangles": 5303,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2003,
+          "error": 0.0378606
+        },
+        {
+          "triangles": 291,
+          "error": 0.0975142
+        }
+      ]
+    },
+    {
+      "name": "freighter-bow-slant-hood",
+      "sourceTriangles": 6274,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2022,
+          "error": 0.0329526
+        },
+        {
+          "triangles": 291,
+          "error": 0.1359068
+        }
+      ]
+    },
+    {
+      "name": "freighter-mid-duplex-tanks",
+      "sourceTriangles": 12876,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 2016,
+          "error": 0.0392989
+        },
+        {
+          "triangles": 324,
+          "error": 0.1324336
+        }
+      ]
+    },
+    {
+      "name": "freighter-stern-recessed-tail",
+      "sourceTriangles": 8816,
+      "draws": 7,
+      "levels": [
+        {
+          "triangles": 2037,
+          "error": 0.0393086
+        },
+        {
+          "triangles": 301,
+          "error": 0.0898289
+        }
+      ]
+    },
+    {
+      "name": "builder-bow-capture-tines",
+      "sourceTriangles": 6687,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1996,
+          "error": 0.0241209
+        },
+        {
+          "triangles": 286,
+          "error": 0.1588057
+        }
+      ]
+    },
+    {
+      "name": "builder-mid-service-drum",
+      "sourceTriangles": 7146,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 2061,
+          "error": 0.0379277
+        },
+        {
+          "triangles": 295,
+          "error": 0.1496371
+        }
+      ]
+    },
+    {
+      "name": "builder-stern-recovery-deck",
+      "sourceTriangles": 6349,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1998,
+          "error": 0.0363553
+        },
+        {
+          "triangles": 293,
+          "error": 0.0750998
+        }
+      ]
+    },
+    {
+      "name": "refinery-counterflow",
+      "sourceTriangles": 42034,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 4192,
+          "error": 0.0397101
+        },
+        {
+          "triangles": 658,
+          "error": 0.1776797
+        }
+      ]
+    },
+    {
+      "name": "base-parallax",
+      "sourceTriangles": 30035,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 4190,
+          "error": 0.0102605
+        },
+        {
+          "triangles": 631,
+          "error": 0.1071436
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1497 @@
+{
+  "sources": "credits.html",
+  "sourceModels": {
+    "patrol": "https://www.fab.com/listings/18110412-cf22-4148-b2d4-bb022d25f13a",
+    "war": "https://www.fab.com/listings/f2bb6a86-c63c-499f-9d27-16a6bfbc0305",
+    "haul": "https://www.fab.com/listings/47310bab-1e33-4f0a-ace9-0604274008ea",
+    "a01": "https://www.fab.com/listings/9b89d5b9-507a-48d1-b72b-e7266cf72ca8",
+    "derelict": "https://www.fab.com/listings/0af83cf3-0761-4b93-bba9-8011e528c040",
+    "saucer": "https://www.fab.com/listings/3ac20a1f-f426-4a6d-bff2-cf654ec54501",
+    "orb": "https://www.fab.com/listings/ea3f1f02-c596-4d43-8e7f-6a23d964eb21",
+    "ducted": "https://www.fab.com/listings/dbc6edb9-e221-499c-aa74-3627d602d798",
+    "launch": "https://www.fab.com/listings/9042d765-4f32-4ef3-892a-aca6c14f8f60",
+    "courier": "https://www.fab.com/listings/9042d765-4f32-4ef3-892a-aca6c14f8f60"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "sha256": "8eb54f0fa4d1ee3c65414a5d52bb58029d2ad59e846673dbc9e9b7080e6225bd",
+  "sections": [
+    {
+      "id": "fighter-bow-needle",
+      "label": "Stiletto",
+      "form": "needle",
+      "donor": "patrol-fore",
+      "length": 1.28,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 1803
+    },
+    {
+      "id": "fighter-bow-kite",
+      "label": "Arrowhead",
+      "form": "wedge",
+      "donor": "ducted-fore",
+      "length": 0.92,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 2847
+    },
+    {
+      "id": "fighter-bow-mandibles",
+      "label": "Split prow",
+      "form": "fork",
+      "donor": "derelict-fore",
+      "length": 1.14,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 10612
+    },
+    {
+      "id": "fighter-bow-visor",
+      "label": "Visor",
+      "form": "hammer",
+      "donor": "saucer-fore",
+      "length": 0.73,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 3816
+    },
+    {
+      "id": "fighter-bow-wingswept",
+      "label": "Wing sweep",
+      "form": "native",
+      "donor": "ducted-fore",
+      "length": 0.82,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 4556,
+      "nativeCut": {
+        "uniformScale": 0.77736,
+        "cutPlanes": [
+          0.04264,
+          0.82
+        ]
+      }
+    },
+    {
+      "id": "fighter-bow-orbital-eye",
+      "label": "Survey lens",
+      "form": "native",
+      "donor": "orb-fore",
+      "length": 0.18,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 3726,
+      "nativeCut": {
+        "uniformScale": 0.17064,
+        "cutPlanes": [
+          0.00936,
+          0.18
+        ]
+      }
+    },
+    {
+      "id": "fighter-bow-berth-launch",
+      "label": "Dock launch bow",
+      "form": "native",
+      "donor": "launch-fore",
+      "length": 0.7,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 660,
+      "nativeCut": {
+        "uniformScale": 0.6636,
+        "cutPlanes": [
+          0.0364,
+          0.7
+        ]
+      }
+    },
+    {
+      "id": "fighter-mid-delta",
+      "label": "Delta wing",
+      "form": "delta",
+      "donor": "patrol-mid",
+      "length": 1.05,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 6156
+    },
+    {
+      "id": "fighter-mid-coupled",
+      "label": "Ducted wing",
+      "form": "ducts",
+      "donor": "ducted-mid",
+      "length": 0.96,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 16398
+    },
+    {
+      "id": "fighter-mid-blade",
+      "label": "Dorsal blade",
+      "form": "tower",
+      "donor": "derelict-mid",
+      "length": 0.83,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 6968
+    },
+    {
+      "id": "fighter-mid-dart",
+      "label": "Lozenge",
+      "form": "diamond",
+      "donor": "haul-mid",
+      "length": 1.19,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 1919
+    },
+    {
+      "id": "fighter-mid-turbines",
+      "label": "Lift fans",
+      "form": "native",
+      "donor": "ducted-mid",
+      "length": 1.08,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 27745,
+      "nativeCut": {
+        "uniformScale": 0.96768,
+        "cutPlanes": [
+          -0.48384,
+          0.48384
+        ]
+      }
+    },
+    {
+      "id": "fighter-stern-jet",
+      "label": "Single bell",
+      "form": "single",
+      "donor": "patrol-aft",
+      "length": 0.85,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 2665
+    },
+    {
+      "id": "fighter-stern-forked",
+      "label": "Twin jets",
+      "form": "twins",
+      "donor": "derelict-aft",
+      "length": 0.96,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 11429
+    },
+    {
+      "id": "fighter-stern-fan",
+      "label": "Fan tail",
+      "form": "fan",
+      "donor": "haul-aft",
+      "length": 0.75,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 8596
+    },
+    {
+      "id": "fighter-stern-vertical",
+      "label": "Stacked drives",
+      "form": "stack",
+      "donor": "war-aft",
+      "length": 0.87,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 2999
+    },
+    {
+      "id": "fighter-stern-thrust-frame",
+      "label": "Patrol afterburner",
+      "form": "native",
+      "donor": "patrol-aft",
+      "length": 0.93,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "triangles": 3848,
+      "nativeCut": {
+        "uniformScale": 0.88164,
+        "cutPlanes": [
+          -0.93,
+          -0.04836
+        ]
+      }
+    },
+    {
+      "id": "capital-bow-lance",
+      "label": "Armored lance",
+      "form": "needle",
+      "donor": "war-fore",
+      "length": 1.58,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 1842
+    },
+    {
+      "id": "capital-bow-anvil",
+      "label": "Anvil",
+      "form": "hammer",
+      "donor": "haul-fore",
+      "length": 1.04,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 1856
+    },
+    {
+      "id": "capital-bow-ram",
+      "label": "Battering ram",
+      "form": "axe",
+      "donor": "derelict-fore",
+      "length": 1.2,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 3612
+    },
+    {
+      "id": "capital-bow-breach",
+      "label": "Pincers",
+      "form": "fork",
+      "donor": "patrol-fore",
+      "length": 1.34,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 5185
+    },
+    {
+      "id": "capital-bow-derelict-prow",
+      "label": "Derelict prow",
+      "form": "native",
+      "donor": "derelict-fore",
+      "length": 1.18,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 9463,
+      "nativeCut": {
+        "uniformScale": 1.11864,
+        "cutPlanes": [
+          0.06136,
+          1.18
+        ]
+      }
+    },
+    {
+      "id": "capital-bow-native-lance",
+      "label": "Dreadnought foredeck",
+      "form": "native",
+      "donor": "war-fore",
+      "length": 1.39,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 2215,
+      "nativeCut": {
+        "uniformScale": 1.31772,
+        "cutPlanes": [
+          0.07228,
+          1.39
+        ]
+      }
+    },
+    {
+      "id": "capital-mid-citadel",
+      "label": "Citadel",
+      "form": "tower",
+      "donor": "war-mid",
+      "length": 1.54,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 3700
+    },
+    {
+      "id": "capital-mid-broadside",
+      "label": "Broadside",
+      "form": "twin",
+      "donor": "derelict-mid",
+      "length": 1.73,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 13648
+    },
+    {
+      "id": "capital-mid-cruciform",
+      "label": "Cruciform",
+      "form": "cross",
+      "donor": "saucer-mid",
+      "length": 1.36,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 9484
+    },
+    {
+      "id": "capital-mid-monitor",
+      "label": "Monitor",
+      "form": "diamond",
+      "donor": "patrol-mid",
+      "length": 1.89,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 2180
+    },
+    {
+      "id": "capital-mid-derelict-vault",
+      "label": "Derelict vault",
+      "form": "native",
+      "donor": "derelict-mid",
+      "length": 1.4,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 9772,
+      "nativeCut": {
+        "uniformScale": 1.2544,
+        "cutPlanes": [
+          -0.6272,
+          0.6272
+        ]
+      }
+    },
+    {
+      "id": "capital-mid-native-broadside",
+      "label": "Dreadnought spine",
+      "form": "native",
+      "donor": "war-mid",
+      "length": 1.54,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 2196,
+      "nativeCut": {
+        "uniformScale": 1.37984,
+        "cutPlanes": [
+          -0.68992,
+          0.68992
+        ]
+      }
+    },
+    {
+      "id": "capital-stern-battery",
+      "label": "Triple battery",
+      "form": "fan",
+      "donor": "war-aft",
+      "length": 1.08,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 4164
+    },
+    {
+      "id": "capital-stern-bastion",
+      "label": "Bastion",
+      "form": "single",
+      "donor": "orb-aft",
+      "length": 0.93,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 4436
+    },
+    {
+      "id": "capital-stern-booms",
+      "label": "Armored booms",
+      "form": "twins",
+      "donor": "derelict-aft",
+      "length": 1.38,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 11429
+    },
+    {
+      "id": "capital-stern-spires",
+      "label": "Engine towers",
+      "form": "stack",
+      "donor": "patrol-aft",
+      "length": 1.17,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 7259
+    },
+    {
+      "id": "capital-stern-derelict-quarter",
+      "label": "Derelict quarter",
+      "form": "native",
+      "donor": "derelict-aft",
+      "length": 1.3,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 9419,
+      "nativeCut": {
+        "uniformScale": 1.2324,
+        "cutPlanes": [
+          -1.3,
+          -0.0676
+        ]
+      }
+    },
+    {
+      "id": "capital-stern-native-engines",
+      "label": "Dreadnought drives",
+      "form": "native",
+      "donor": "war-aft",
+      "length": 1.44,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "triangles": 845,
+      "nativeCut": {
+        "uniformScale": 1.36512,
+        "cutPlanes": [
+          -1.44,
+          -0.07488
+        ]
+      }
+    },
+    {
+      "id": "cargo-bow-tug",
+      "label": "Pusher",
+      "form": "blunt",
+      "donor": "haul-fore",
+      "length": 0.66,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 1856
+    },
+    {
+      "id": "cargo-bow-cab",
+      "label": "Cab wedge",
+      "form": "wedge",
+      "donor": "orb-fore",
+      "length": 0.89,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 2484
+    },
+    {
+      "id": "cargo-bow-forklift",
+      "label": "Loading forks",
+      "form": "fork",
+      "donor": "war-fore",
+      "length": 0.82,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 5302
+    },
+    {
+      "id": "cargo-bow-observation",
+      "label": "Raised bridge",
+      "form": "axe",
+      "donor": "derelict-fore",
+      "length": 0.73,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 3612
+    },
+    {
+      "id": "cargo-bow-boxcab",
+      "label": "Hauler cab",
+      "form": "native",
+      "donor": "haul-fore",
+      "length": 0.94,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 3351,
+      "nativeCut": {
+        "uniformScale": 0.89112,
+        "cutPlanes": [
+          0.04888,
+          0.94
+        ]
+      }
+    },
+    {
+      "id": "cargo-bow-observatory",
+      "label": "Orbital cab",
+      "form": "native",
+      "donor": "orb-fore",
+      "length": 0.24,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 3726,
+      "nativeCut": {
+        "uniformScale": 0.22752,
+        "cutPlanes": [
+          0.01248,
+          0.24
+        ]
+      }
+    },
+    {
+      "id": "cargo-bow-berth-courier",
+      "label": "Dock courier cab",
+      "form": "native",
+      "donor": "courier-fore",
+      "length": 0.68,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 509,
+      "nativeCut": {
+        "uniformScale": 0.64464,
+        "cutPlanes": [
+          0.03536,
+          0.68
+        ]
+      }
+    },
+    {
+      "id": "cargo-mid-flatbed",
+      "label": "Flatbed",
+      "form": "barge",
+      "donor": "haul-mid",
+      "length": 1.34,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 2079,
+      "cargo": [
+        {
+          "position": [
+            -0.2604,
+            0.2346,
+            -0.2412
+          ],
+          "width": 0.3844,
+          "depth": 0.3886
+        },
+        {
+          "position": [
+            0.2604,
+            0.23441,
+            -0.2412
+          ],
+          "width": 0.3844,
+          "depth": 0.3886
+        },
+        {
+          "position": [
+            -0.2604,
+            0.20937,
+            0.2546
+          ],
+          "width": 0.3844,
+          "depth": 0.3886
+        },
+        {
+          "position": [
+            0.2604,
+            0.20805,
+            0.2546
+          ],
+          "width": 0.3844,
+          "depth": 0.3886
+        }
+      ]
+    },
+    {
+      "id": "cargo-mid-sidecars",
+      "label": "Side saddles",
+      "form": "twin",
+      "donor": "a01-mid",
+      "length": 1.03,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 7184,
+      "cargo": [
+        {
+          "position": [
+            -0.6435,
+            0.26174,
+            0
+          ],
+          "width": 0.38,
+          "depth": 0.29869999999999997
+        },
+        {
+          "position": [
+            0.6435,
+            0.26174,
+            0
+          ],
+          "width": 0.38,
+          "depth": 0.29869999999999997
+        }
+      ]
+    },
+    {
+      "id": "cargo-mid-tandem",
+      "label": "Tandem hold",
+      "form": "diamond",
+      "donor": "derelict-mid",
+      "length": 1.72,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 3652,
+      "cargo": [
+        {
+          "position": [
+            0,
+            0.23046,
+            -0.3784
+          ],
+          "width": 0.42,
+          "depth": 0.41
+        },
+        {
+          "position": [
+            0,
+            0.24163,
+            0.3784
+          ],
+          "width": 0.42,
+          "depth": 0.41
+        }
+      ]
+    },
+    {
+      "id": "cargo-mid-crossdock",
+      "label": "Cross dock",
+      "form": "cross",
+      "donor": "patrol-mid",
+      "length": 0.93,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 4248,
+      "cargo": [
+        {
+          "position": [
+            -0.5992,
+            0.19551,
+            0
+          ],
+          "width": 0.42,
+          "depth": 0.2697
+        },
+        {
+          "position": [
+            0.5992,
+            0.19551,
+            0
+          ],
+          "width": 0.42,
+          "depth": 0.2697
+        }
+      ]
+    },
+    {
+      "id": "cargo-mid-container-frame",
+      "label": "Hauler chassis",
+      "form": "native",
+      "donor": "haul-mid",
+      "length": 1.28,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 3686,
+      "nativeCut": {
+        "uniformScale": 1.14688,
+        "cutPlanes": [
+          -0.57344,
+          0.57344
+        ]
+      },
+      "cargo": [
+        {
+          "position": [
+            0,
+            0.22635,
+            -0.2816
+          ],
+          "width": 0.42,
+          "depth": 0.3712
+        },
+        {
+          "position": [
+            0,
+            0.1896,
+            0.2816
+          ],
+          "width": 0.42,
+          "depth": 0.3712
+        }
+      ]
+    },
+    {
+      "id": "cargo-stern-drive",
+      "label": "Engine block",
+      "form": "single",
+      "donor": "haul-aft",
+      "length": 0.68,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 2353
+    },
+    {
+      "id": "cargo-stern-mules",
+      "label": "Twin mules",
+      "form": "twins",
+      "donor": "war-aft",
+      "length": 0.88,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 2999
+    },
+    {
+      "id": "cargo-stern-stacker",
+      "label": "Double deck",
+      "form": "stack",
+      "donor": "derelict-aft",
+      "length": 0.64,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 11429
+    },
+    {
+      "id": "cargo-stern-flat",
+      "label": "Drive bar",
+      "form": "bar",
+      "donor": "saucer-aft",
+      "length": 0.55,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 5848
+    },
+    {
+      "id": "cargo-stern-carrier-tail",
+      "label": "Hauler transom",
+      "form": "native",
+      "donor": "haul-aft",
+      "length": 1.07,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "triangles": 4016,
+      "nativeCut": {
+        "uniformScale": 1.01436,
+        "cutPlanes": [
+          -1.07,
+          -0.05564
+        ]
+      }
+    },
+    {
+      "id": "freighter-bow-sounder",
+      "label": "Long sounder",
+      "form": "needle",
+      "donor": "a01-fore",
+      "length": 1.54,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 1838
+    },
+    {
+      "id": "freighter-bow-breaker",
+      "label": "Wavebreaker",
+      "form": "wedge",
+      "donor": "war-fore",
+      "length": 1.09,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 1842
+    },
+    {
+      "id": "freighter-bow-bonnet",
+      "label": "Disc shield",
+      "form": "blunt",
+      "donor": "saucer-fore",
+      "length": 0.86,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 3816
+    },
+    {
+      "id": "freighter-bow-pickets",
+      "label": "Twin pickets",
+      "form": "fork",
+      "donor": "derelict-fore",
+      "length": 1.36,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 10612
+    },
+    {
+      "id": "freighter-bow-disc-crescent",
+      "label": "Saucer crescent",
+      "form": "native",
+      "donor": "saucer-fore",
+      "length": 1.09,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 14174,
+      "nativeCut": {
+        "uniformScale": 1.03332,
+        "cutPlanes": [
+          0.05668,
+          1.09
+        ]
+      }
+    },
+    {
+      "id": "freighter-mid-inductor",
+      "label": "Induction hoops",
+      "form": "coil",
+      "donor": "derelict-mid",
+      "length": 1.6,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 11548,
+      "cargo": [
+        {
+          "position": [
+            0,
+            0.25676,
+            -0.56
+          ],
+          "width": 0.36,
+          "depth": 0.41
+        },
+        {
+          "position": [
+            0,
+            0.26098,
+            0.56
+          ],
+          "width": 0.36,
+          "depth": 0.41
+        }
+      ]
+    },
+    {
+      "id": "freighter-mid-catamaran",
+      "label": "Catamaran",
+      "form": "twin",
+      "donor": "haul-mid",
+      "length": 1.76,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 7116,
+      "cargo": [
+        {
+          "position": [
+            -0.611,
+            0.35489,
+            0
+          ],
+          "width": 0.38,
+          "depth": 0.41
+        },
+        {
+          "position": [
+            0.611,
+            0.35489,
+            0
+          ],
+          "width": 0.38,
+          "depth": 0.41
+        }
+      ]
+    },
+    {
+      "id": "freighter-mid-carrier",
+      "label": "Through deck",
+      "form": "barge",
+      "donor": "a01-mid",
+      "length": 2.03,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 2096,
+      "cargo": [
+        {
+          "position": [
+            -0.2856,
+            0.27116,
+            -0.3654
+          ],
+          "width": 0.42160000000000003,
+          "depth": 0.41
+        },
+        {
+          "position": [
+            0.2856,
+            0.27116,
+            -0.3654
+          ],
+          "width": 0.42160000000000003,
+          "depth": 0.41
+        },
+        {
+          "position": [
+            -0.2856,
+            0.26282,
+            0.3857
+          ],
+          "width": 0.42160000000000003,
+          "depth": 0.41
+        },
+        {
+          "position": [
+            0.2856,
+            0.26282,
+            0.3857
+          ],
+          "width": 0.42160000000000003,
+          "depth": 0.41
+        }
+      ]
+    },
+    {
+      "id": "freighter-mid-keel",
+      "label": "Radial keel",
+      "form": "diamond",
+      "donor": "patrol-mid",
+      "length": 1.83,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 2260,
+      "cargo": [
+        {
+          "position": [
+            0,
+            0.49843,
+            -0.4026
+          ],
+          "width": 0.36,
+          "depth": 0.41
+        },
+        {
+          "position": [
+            0,
+            0.53696,
+            0.4026
+          ],
+          "width": 0.36,
+          "depth": 0.41
+        }
+      ]
+    },
+    {
+      "id": "freighter-mid-disc-belt",
+      "label": "Saucer belt",
+      "form": "native",
+      "donor": "saucer-mid",
+      "length": 1.36,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 29303,
+      "nativeCut": {
+        "uniformScale": 1.21856,
+        "cutPlanes": [
+          -0.60928,
+          0.60928
+        ]
+      },
+      "cargo": [
+        {
+          "position": [
+            0,
+            0.38237,
+            -0.2992
+          ],
+          "width": 0.36,
+          "depth": 0.39440000000000003
+        },
+        {
+          "position": [
+            0,
+            0.38237,
+            0.2992
+          ],
+          "width": 0.36,
+          "depth": 0.39440000000000003
+        }
+      ]
+    },
+    {
+      "id": "freighter-stern-funnel",
+      "label": "FTL bell",
+      "form": "single",
+      "donor": "orb-aft",
+      "length": 1.05,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 4436
+    },
+    {
+      "id": "freighter-stern-outriggers",
+      "label": "Outboard drives",
+      "form": "twins",
+      "donor": "ducted-aft",
+      "length": 1.36,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 15578
+    },
+    {
+      "id": "freighter-stern-trident",
+      "label": "Trident",
+      "form": "fan",
+      "donor": "derelict-aft",
+      "length": 1.18,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 15404
+    },
+    {
+      "id": "freighter-stern-tower",
+      "label": "Drive column",
+      "form": "stack",
+      "donor": "patrol-aft",
+      "length": 1.12,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 7259
+    },
+    {
+      "id": "freighter-stern-disc-quarter",
+      "label": "Saucer quarter",
+      "form": "native",
+      "donor": "saucer-aft",
+      "length": 1.23,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 14174,
+      "nativeCut": {
+        "uniformScale": 1.16604,
+        "cutPlanes": [
+          -1.23,
+          -0.06396
+        ]
+      }
+    },
+    {
+      "id": "freighter-stern-orb-drive",
+      "label": "Orbital drive",
+      "form": "native",
+      "donor": "orb-aft",
+      "length": 0.28,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "triangles": 17623,
+      "nativeCut": {
+        "uniformScale": 0.26544,
+        "cutPlanes": [
+          -0.28,
+          -0.01456
+        ]
+      }
+    },
+    {
+      "id": "builder-bow-rake",
+      "label": "Rake",
+      "form": "fork",
+      "donor": "a01-fore",
+      "length": 1.02,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 5290
+    },
+    {
+      "id": "builder-bow-roller",
+      "label": "Push head",
+      "form": "hammer",
+      "donor": "haul-fore",
+      "length": 0.69,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 1856
+    },
+    {
+      "id": "builder-bow-pilot",
+      "label": "Pilot house",
+      "form": "axe",
+      "donor": "derelict-fore",
+      "length": 0.88,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 3612
+    },
+    {
+      "id": "builder-bow-shear",
+      "label": "Shear",
+      "form": "needle",
+      "donor": "patrol-fore",
+      "length": 1.22,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 1803
+    },
+    {
+      "id": "builder-bow-tender-prow",
+      "label": "A01 foredeck",
+      "form": "native",
+      "donor": "a01-fore",
+      "length": 0.91,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 4772,
+      "nativeCut": {
+        "uniformScale": 0.86268,
+        "cutPlanes": [
+          0.04732,
+          0.91
+        ]
+      }
+    },
+    {
+      "id": "builder-mid-crane",
+      "label": "Crane tower",
+      "form": "tower",
+      "donor": "orb-mid",
+      "length": 1.13,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 6576,
+      "arm": {
+        "position": [
+          0,
+          0.54531,
+          0.00565
+        ],
+        "width": 0.31,
+        "depth": 0.31,
+        "scale": 0.71,
+        "yaw": 0.79
+      }
+    },
+    {
+      "id": "builder-mid-bridge",
+      "label": "Gantry",
+      "form": "cross",
+      "donor": "war-mid",
+      "length": 1,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 4216,
+      "arm": {
+        "position": [
+          0.54,
+          0.19066,
+          0.025
+        ],
+        "width": 0.31,
+        "depth": 0.31,
+        "scale": 0.71,
+        "yaw": 0.79
+      }
+    },
+    {
+      "id": "builder-mid-outrigger",
+      "label": "Stabilizers",
+      "form": "twin",
+      "donor": "haul-mid",
+      "length": 1.3,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 7568,
+      "arm": {
+        "position": [
+          0.5696,
+          0.25112,
+          0.0325
+        ],
+        "width": 0.31,
+        "depth": 0.31,
+        "scale": 0.71,
+        "yaw": 1
+      }
+    },
+    {
+      "id": "builder-mid-crawler",
+      "label": "Ducted work deck",
+      "form": "ducts",
+      "donor": "ducted-mid",
+      "length": 1.54,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 16930,
+      "arm": {
+        "position": [
+          0,
+          0.17215,
+          0.0385
+        ],
+        "width": 0.31,
+        "depth": 0.31,
+        "scale": 0.71,
+        "yaw": 0.79
+      }
+    },
+    {
+      "id": "builder-mid-tender-frame",
+      "label": "A01 hull frame",
+      "form": "native",
+      "donor": "a01-mid",
+      "length": 1.16,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 5512,
+      "nativeCut": {
+        "uniformScale": 1.03936,
+        "cutPlanes": [
+          -0.51968,
+          0.51968
+        ]
+      },
+      "arm": {
+        "position": [
+          0,
+          0.54081,
+          0.029
+        ],
+        "width": 0.31,
+        "depth": 0.31,
+        "scale": 0.71,
+        "yaw": 0.79
+      }
+    },
+    {
+      "id": "builder-mid-orb-chamber",
+      "label": "Spherical work chamber",
+      "form": "native",
+      "donor": "orb-mid",
+      "length": 0.26,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 7136,
+      "nativeCut": {
+        "uniformScale": 0.23296,
+        "cutPlanes": [
+          -0.11648,
+          0.11648
+        ]
+      },
+      "arm": {
+        "position": [
+          0,
+          0.41752,
+          0.0065
+        ],
+        "width": 0.31,
+        "depth": 0.31,
+        "scale": 0.71,
+        "yaw": 0.79
+      }
+    },
+    {
+      "id": "builder-stern-single",
+      "label": "Tractor",
+      "form": "single",
+      "donor": "war-aft",
+      "length": 0.77,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 1245
+    },
+    {
+      "id": "builder-stern-split",
+      "label": "Drive shoulders",
+      "form": "twins",
+      "donor": "a01-aft",
+      "length": 0.93,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 6323
+    },
+    {
+      "id": "builder-stern-wall",
+      "label": "Winch bar",
+      "form": "bar",
+      "donor": "saucer-aft",
+      "length": 0.59,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 5848
+    },
+    {
+      "id": "builder-stern-cradle",
+      "label": "Counterweight",
+      "form": "stack",
+      "donor": "derelict-aft",
+      "length": 0.76,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 11429
+    },
+    {
+      "id": "builder-stern-tender-drive",
+      "label": "A01 stern",
+      "form": "native",
+      "donor": "a01-aft",
+      "length": 1,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "triangles": 4803,
+      "nativeCut": {
+        "uniformScale": 0.948,
+        "cutPlanes": [
+          -1,
+          -0.052
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "3D shape models of meteoroid and terrestrial rock fragments (OBJ format)",
+  "creator": "David Čapek",
+  "institution": "Astronomical Institute of the Czech Academy of Sciences",
+  "year": 2025,
+  "sourceSite": "https://shapemodels.asu.cas.cz/",
+  "record": "https://doi.org/10.5281/zenodo.14850374",
+  "paper": "https://doi.org/10.1051/0004-6361/202452886",
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "recordMetadata": "https://zenodo.org/api/records/14850374"
+  },
+  "originalArchive": {
+    "name": "L01.zip",
+    "url": "https://zenodo.org/api/records/14850374/files/L01.zip/content",
+    "md5": "e7c48b8902b9ac9f31432136713476fe"
+  },
+  "subject": "Fragments of the NWA 869 ordinary chondrite (L3–6), produced by a hypervelocity impact and scanned by X-ray microtomography.",
+  "adaptation": "Five shapes with different proportions selected from the 386 published L01 fragments. Simplified with meshoptimizer, centered at each mesh volume centroid, normalized to unit circumradius about that centroid, positions rounded, and exported as indexed triangle meshes. The game's asteroid instances reuse these shape models at visual scales.",
+  "models": [
+    {
+      "name": "L01D192a",
+      "profile": "compact",
+      "archiveEntry": "L01D192a.obj",
+      "originalSha256": "43a3309ff776035ef5455560f47b732a2699ed8ecec77eeb41b4b4feee6b4b21",
+      "sourceTriangles": 20928,
+      "shippedVertices": 30,
+      "shippedTriangles": 56
+    },
+    {
+      "name": "L01D166a",
+      "profile": "elongated",
+      "archiveEntry": "L01D166a.obj",
+      "originalSha256": "a898349cfb211e6614482e9602f2ee1bf09a43be723617ab01a4dbfc6248800d",
+      "sourceTriangles": 27970,
+      "shippedVertices": 34,
+      "shippedTriangles": 64
+    },
+    {
+      "name": "L01D180a",
+      "profile": "tabular",
+      "archiveEntry": "L01D180a.obj",
+      "originalSha256": "bba7fd6b2b04f7b2f105bbca074f0948898dbbd918f372f3c53d1f54a09a4d12",
+      "sourceTriangles": 39232,
+      "shippedVertices": 31,
+      "shippedTriangles": 58
+    },
+    {
+      "name": "L01D057a",
+      "profile": "blade-like",
+      "archiveEntry": "L01D057a.obj",
+      "originalSha256": "43ccc6e5095ed84b3917429908b22b073e1e133b6154f0b3e7260311f8695b6a",
+      "sourceTriangles": 38632,
+      "shippedVertices": 37,
+      "shippedTriangles": 70
+    },
+    {
+      "name": "L01D109a",
+      "profile": "irregular",
+      "archiveEntry": "L01D109a.obj",
+      "originalSha256": "8ea7da4f548b0c7b504b3d1d9a8ea966428b78ee7f8a0977197a9c0520e70a03",
+      "sourceTriangles": 39702,
+      "shippedVertices": 33,
+      "shippedTriangles": 62
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "asset": "donor-parts.glb",
+  "sources": "sources.json",
+  "axes": {
+    "up": "+Y",
+    "forward": "+Z",
+    "starboard": "+X"
+  },
+  "normalization": "Both levels of detail share the center of the original assembly. Its largest dimension is one unit.",
+  "nodes": "<id>-lod0 and <id>-lod1",
+  "sha256": "8afad1a7ccdc0728c608b1648f54aab6a11fb00878eff76d1baa99a1b7cf851c",
+  "parts": [
+    {
+      "id": "armored-keel",
+      "source": "ship4",
+      "mount": "keel",
+      "contactFace": "-Y",
+      "size": [
+        0.13402,
+        0.19103,
+        1
+      ],
+      "triangles": [
+        1850,
+        230
+      ]
+    },
+    {
+      "id": "bridge-shell",
+      "source": "ship5",
+      "mount": "dorsal",
+      "contactFace": "-Y",
+      "size": [
+        0.33621,
+        0.28128,
+        1
+      ],
+      "triangles": [
+        1250,
+        179
+      ]
+    },
+    {
+      "id": "clamp-hub",
+      "source": "lift",
+      "mount": "bearing",
+      "contactFace": "-Z",
+      "size": [
+        1,
+        0.90615,
+        0.60201
+      ],
+      "triangles": [
+        850,
+        160
+      ]
+    },
+    {
+      "id": "coolant-elbow",
+      "source": "generator",
+      "mount": "process",
+      "contactFace": "-Y",
+      "size": [
+        0.89947,
+        1,
+        0.99108
+      ],
+      "triangles": [
+        700,
+        104
+      ]
+    },
+    {
+      "id": "dock-deck",
+      "source": "lift",
+      "mount": "deck",
+      "contactFace": "-Y",
+      "size": [
+        1,
+        0.47742,
+        0.99978
+      ],
+      "triangles": [
+        2295,
+        298
+      ]
+    },
+    {
+      "id": "engine-bell",
+      "source": "drone",
+      "mount": "engine",
+      "contactFace": "+Z",
+      "size": [
+        0.99874,
+        1,
+        0.75436
+      ],
+      "triangles": [
+        2400,
+        280
+      ]
+    },
+    {
+      "id": "freight-rack",
+      "source": "generator",
+      "mount": "cargo",
+      "contactFace": "-Y",
+      "size": [
+        0.47619,
+        0.47619,
+        1
+      ],
+      "triangles": [
+        1499,
+        183
+      ]
+    },
+    {
+      "id": "lift-boom",
+      "source": "lift",
+      "mount": "beam",
+      "contactFace": "-Z",
+      "size": [
+        0.48923,
+        0.74524,
+        1
+      ],
+      "triangles": [
+        949,
+        148
+      ]
+    },
+    {
+      "id": "power-coupler",
+      "source": "generator",
+      "mount": "power",
+      "contactFace": "-Z",
+      "size": [
+        1,
+        1,
+        0.8281
+      ],
+      "triangles": [
+        849,
+        114
+      ]
+    },
+    {
+      "id": "pump-bank",
+      "source": "generator",
+      "mount": "process",
+      "contactFace": "-Y",
+      "size": [
+        0.74285,
+        0.83051,
+        1
+      ],
+      "triangles": [
+        1050,
+        159
+      ]
+    },
+    {
+      "id": "reactor-spine",
+      "source": "drone",
+      "mount": "keel",
+      "contactFace": "-Z",
+      "size": [
+        0.31706,
+        0.32071,
+        1
+      ],
+      "triangles": [
+        1799,
+        189
+      ]
+    },
+    {
+      "id": "scan-dome",
+      "source": "scout",
+      "mount": "sensor",
+      "contactFace": "-Z",
+      "size": [
+        1,
+        1,
+        0.43917
+      ],
+      "triangles": [
+        1798,
+        190
+      ]
+    },
+    {
+      "id": "sensor-pod",
+      "source": "scout",
+      "mount": "sensor",
+      "contactFace": "-Z",
+      "size": [
+        0.81425,
+        0.7932,
+        1
+      ],
+      "triangles": [
+        1150,
+        149
+      ]
+    },
+    {
+      "id": "split-vane",
+      "source": "ship5",
+      "mount": "wing",
+      "contactFace": "-X",
+      "size": [
+        1,
+        0.22796,
+        0.41082
+      ],
+      "triangles": [
+        949,
+        160
+      ]
+    },
+    {
+      "id": "swept-blade",
+      "source": "ship4",
+      "mount": "wing",
+      "contactFace": "-X",
+      "size": [
+        1,
+        0.38385,
+        0.59453
+      ],
+      "triangles": [
+        1750,
+        214
+      ]
+    },
+    {
+      "id": "truss-gantry",
+      "source": "ship5",
+      "mount": "beam",
+      "contactFace": "-Z",
+      "size": [
+        0.12083,
+        0.18103,
+        1
+      ],
+      "triangles": [
+        2300,
+        275
+      ]
+    },
+    {
+      "id": "vent-cowl",
+      "source": "drone",
+      "mount": "engine",
+      "contactFace": "+Z",
+      "size": [
+        1,
+        0.99863,
+        0.52952
+      ],
+      "triangles": [
+        740,
+        100
+      ]
+    }
+  ]
+}

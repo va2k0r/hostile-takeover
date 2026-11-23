@@ -1,0 +1,864 @@
+{
+  "title": "Hostile Takeover — fonti degli studi modulari",
+  "artist": "Gerardo Justel (re1monsen)",
+  "artistProfile": "https://sketchfab.com/re1monsen",
+  "fabSeller": "https://www.fab.com/sellers/Gerardo%20Justel",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "verification": "Download pubblico e gratuito da ciascuna scheda Fab. Il dialogo mostrava Creative Commons (CC-BY). È stata verificata anche la licenza del modello corrispondente nelle API pubbliche Sketchfab dell’autore. Il digest SHA-256 riguarda esattamente i byte consegnati da Fab, prima di qualunque conversione.",
+  "archiveDirectory": "output/assets-source/section-donors",
+  "sources": [
+    {
+      "id": "derelict",
+      "title": "Christmas 2022 - The Derelict",
+      "classification": "astronave",
+      "description": "Fusoliera curva e asimmetrica con gusci, tubazioni e nervature.",
+      "artist": "Gerardo Justel (re1monsen)",
+      "fab": "https://www.fab.com/listings/0af83cf3-0761-4b93-bba9-8011e528c040",
+      "sketchfab": "https://sketchfab.com/3d-models/christmas-2022-the-derelict-f84bb3906bcb404191ca6baa1c7b0bb4",
+      "sketchfabUid": "f84bb3906bcb404191ca6baa1c7b0bb4",
+      "sketchfabMetadata": "https://api.sketchfab.com/v3/models/f84bb3906bcb404191ca6baa1c7b0bb4",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "downloadedOn": "2026-11-21",
+      "previouslyArchived": false,
+      "distributionName": "christmas_2022_the_derelict.glb",
+      "archiveName": "derelict.glb",
+      "archiveBytes": 81297636,
+      "sha256": "8d88992a50e34c7e1bb9d8ef748fed058350ee2543e9ed1c52d270fcc96c3f4f",
+      "suppliedGeometry": [
+        "christmas_2022_the_derelict.glb"
+      ],
+      "workshopUses": [
+        {
+          "role": "fighter",
+          "slot": "bow",
+          "option": "mandibles",
+          "label": "Split prow",
+          "component": "derelict-fore"
+        },
+        {
+          "role": "fighter",
+          "slot": "mid",
+          "option": "blade",
+          "label": "Dorsal blade",
+          "component": "derelict-mid"
+        },
+        {
+          "role": "fighter",
+          "slot": "stern",
+          "option": "forked",
+          "label": "Twin jets",
+          "component": "derelict-aft"
+        },
+        {
+          "role": "capital",
+          "slot": "bow",
+          "option": "ram",
+          "label": "Battering ram",
+          "component": "derelict-fore"
+        },
+        {
+          "role": "capital",
+          "slot": "bow",
+          "option": "derelict-prow",
+          "label": "Derelict prow",
+          "component": "derelict-fore"
+        },
+        {
+          "role": "capital",
+          "slot": "mid",
+          "option": "broadside",
+          "label": "Broadside",
+          "component": "derelict-mid"
+        },
+        {
+          "role": "capital",
+          "slot": "mid",
+          "option": "derelict-vault",
+          "label": "Derelict vault",
+          "component": "derelict-mid"
+        },
+        {
+          "role": "capital",
+          "slot": "stern",
+          "option": "booms",
+          "label": "Armored booms",
+          "component": "derelict-aft"
+        },
+        {
+          "role": "capital",
+          "slot": "stern",
+          "option": "derelict-quarter",
+          "label": "Derelict quarter",
+          "component": "derelict-aft"
+        },
+        {
+          "role": "cargo",
+          "slot": "bow",
+          "option": "observation",
+          "label": "Raised bridge",
+          "component": "derelict-fore"
+        },
+        {
+          "role": "cargo",
+          "slot": "mid",
+          "option": "tandem",
+          "label": "Tandem hold",
+          "component": "derelict-mid"
+        },
+        {
+          "role": "cargo",
+          "slot": "stern",
+          "option": "stacker",
+          "label": "Double deck",
+          "component": "derelict-aft"
+        },
+        {
+          "role": "freighter",
+          "slot": "bow",
+          "option": "pickets",
+          "label": "Twin pickets",
+          "component": "derelict-fore"
+        },
+        {
+          "role": "freighter",
+          "slot": "mid",
+          "option": "inductor",
+          "label": "Induction hoops",
+          "component": "derelict-mid"
+        },
+        {
+          "role": "freighter",
+          "slot": "stern",
+          "option": "trident",
+          "label": "Trident",
+          "component": "derelict-aft"
+        },
+        {
+          "role": "builder",
+          "slot": "bow",
+          "option": "pilot",
+          "label": "Pilot house",
+          "component": "derelict-fore"
+        },
+        {
+          "role": "builder",
+          "slot": "stern",
+          "option": "cradle",
+          "label": "Counterweight",
+          "component": "derelict-aft"
+        }
+      ],
+      "workshopExample": "../../factions.html?class=capital&bow=derelict-prow&mid=derelict-vault&stern=derelict-quarter",
+      "catalogCategory": "Ships"
+    },
+    {
+      "id": "ufo-doodle",
+      "title": "UFO Doodle",
+      "classification": "disco volante",
+      "description": "Disco volante con corazze radiali e un involucro bombato.",
+      "artist": "Gerardo Justel (re1monsen)",
+      "fab": "https://www.fab.com/listings/3ac20a1f-f426-4a6d-bff2-cf654ec54501",
+      "sketchfab": "https://sketchfab.com/3d-models/ufo-doodle-d78d1fff4fdd450791726b3c93a02fdb",
+      "sketchfabUid": "d78d1fff4fdd450791726b3c93a02fdb",
+      "sketchfabMetadata": "https://api.sketchfab.com/v3/models/d78d1fff4fdd450791726b3c93a02fdb",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "downloadedOn": "2026-11-21",
+      "previouslyArchived": true,
+      "distributionName": "ufo_doodle.zip",
+      "archiveName": "ufo-doodle.zip",
+      "archiveBytes": 65100746,
+      "sha256": "5125b5fce5b701274a60a107aa2c6c2757283a4bea95ad3119c72b4ff3c5a457",
+      "suppliedGeometry": [
+        "scene.gltf"
+      ],
+      "workshopUses": [
+        {
+          "role": "fighter",
+          "slot": "bow",
+          "option": "visor",
+          "label": "Visor",
+          "component": "saucer-fore"
+        },
+        {
+          "role": "capital",
+          "slot": "mid",
+          "option": "cruciform",
+          "label": "Cruciform",
+          "component": "saucer-mid"
+        },
+        {
+          "role": "cargo",
+          "slot": "stern",
+          "option": "flat",
+          "label": "Drive bar",
+          "component": "saucer-aft"
+        },
+        {
+          "role": "freighter",
+          "slot": "bow",
+          "option": "bonnet",
+          "label": "Disc shield",
+          "component": "saucer-fore"
+        },
+        {
+          "role": "freighter",
+          "slot": "bow",
+          "option": "disc-crescent",
+          "label": "Saucer crescent",
+          "component": "saucer-fore"
+        },
+        {
+          "role": "freighter",
+          "slot": "mid",
+          "option": "disc-belt",
+          "label": "Saucer belt",
+          "component": "saucer-mid"
+        },
+        {
+          "role": "freighter",
+          "slot": "stern",
+          "option": "disc-quarter",
+          "label": "Saucer quarter",
+          "component": "saucer-aft"
+        },
+        {
+          "role": "builder",
+          "slot": "stern",
+          "option": "wall",
+          "label": "Winch bar",
+          "component": "saucer-aft"
+        }
+      ],
+      "previousDownloadOn": "2026-11-20",
+      "sameSha256AsPreviousDownload": true,
+      "workshopExample": "../../factions.html?class=freighter&bow=disc-crescent&mid=disc-belt&stern=disc-quarter"
+    },
+    {
+      "id": "drone-ducted",
+      "title": "Drone",
+      "classification": "aeromobile a doppio condotto",
+      "description": "Cellula alare con due rotori intubati e pannelli sagomati.",
+      "artist": "Gerardo Justel (re1monsen)",
+      "fab": "https://www.fab.com/listings/dbc6edb9-e221-499c-aa74-3627d602d798",
+      "sketchfab": "https://sketchfab.com/3d-models/drone-86276be987ec4368bb3653ca246c1829",
+      "sketchfabUid": "86276be987ec4368bb3653ca246c1829",
+      "sketchfabMetadata": "https://api.sketchfab.com/v3/models/86276be987ec4368bb3653ca246c1829",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "downloadedOn": "2026-11-21",
+      "previouslyArchived": false,
+      "distributionName": "drone.zip",
+      "archiveName": "drone-ducted.zip",
+      "archiveBytes": 44275533,
+      "sha256": "cd1c50b8041fd2a0c1e20403150cc53fa8b2f87987eacba108257b47abe0001c",
+      "suppliedGeometry": [
+        "source/304_Drone.fbx"
+      ],
+      "workshopUses": [
+        {
+          "role": "fighter",
+          "slot": "bow",
+          "option": "kite",
+          "label": "Arrowhead",
+          "component": "ducted-fore"
+        },
+        {
+          "role": "fighter",
+          "slot": "bow",
+          "option": "wingswept",
+          "label": "Wing sweep",
+          "component": "ducted-fore"
+        },
+        {
+          "role": "fighter",
+          "slot": "mid",
+          "option": "coupled",
+          "label": "Ducted wing",
+          "component": "ducted-mid"
+        },
+        {
+          "role": "fighter",
+          "slot": "mid",
+          "option": "turbines",
+          "label": "Lift fans",
+          "component": "ducted-mid"
+        },
+        {
+          "role": "freighter",
+          "slot": "stern",
+          "option": "outriggers",
+          "label": "Outboard drives",
+          "component": "ducted-aft"
+        },
+        {
+          "role": "builder",
+          "slot": "mid",
+          "option": "crawler",
+          "label": "Ducted work deck",
+          "component": "ducted-mid"
+        }
+      ],
+      "workshopExample": "../../factions.html?class=fighter&bow=wingswept&mid=turbines&stern=jet",
+      "workingGlb": {
+        "derived": "drone-ducted.glb",
+        "derivedBytes": 44378720,
+        "derivedSha256": "8d6caf7ffbfb0dbd81cf037c96428dba125f383104242fa40db2be6c3d01c003",
+        "conversionScript": "scripts/prepare-ship-sections.ducted.py",
+        "command": "blender --background --factory-startup --python scripts/prepare-ship-sections.ducted.py -- drone-ducted.zip drone-ducted.glb"
+      }
+    },
+    {
+      "id": "drone-orb",
+      "title": "Drone Sketch",
+      "classification": "drone sferico",
+      "description": "Guscio sferico con calotta, cerchiatura e sensori esterni.",
+      "artist": "Gerardo Justel (re1monsen)",
+      "fab": "https://www.fab.com/listings/ea3f1f02-c596-4d43-8e7f-6a23d964eb21",
+      "sketchfab": "https://sketchfab.com/3d-models/drone-sketch-0d58702a02d74cdda172e31639b0ef28",
+      "sketchfabUid": "0d58702a02d74cdda172e31639b0ef28",
+      "sketchfabMetadata": "https://api.sketchfab.com/v3/models/0d58702a02d74cdda172e31639b0ef28",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "downloadedOn": "2026-11-21",
+      "previouslyArchived": false,
+      "distributionName": "drone_sketch.glb",
+      "archiveName": "drone-orb.glb",
+      "archiveBytes": 111364708,
+      "sha256": "7bd0772e30ee75ac8eca234bbd6039da560f7a2f66858275922f64e1d2357ac6",
+      "suppliedGeometry": [
+        "drone_sketch.glb"
+      ],
+      "workshopUses": [
+        {
+          "role": "fighter",
+          "slot": "bow",
+          "option": "orbital-eye",
+          "label": "Survey lens",
+          "component": "orb-fore"
+        },
+        {
+          "role": "capital",
+          "slot": "stern",
+          "option": "bastion",
+          "label": "Bastion",
+          "component": "orb-aft"
+        },
+        {
+          "role": "cargo",
+          "slot": "bow",
+          "option": "cab",
+          "label": "Cab wedge",
+          "component": "orb-fore"
+        },
+        {
+          "role": "cargo",
+          "slot": "bow",
+          "option": "observatory",
+          "label": "Orbital cab",
+          "component": "orb-fore"
+        },
+        {
+          "role": "freighter",
+          "slot": "stern",
+          "option": "funnel",
+          "label": "FTL bell",
+          "component": "orb-aft"
+        },
+        {
+          "role": "freighter",
+          "slot": "stern",
+          "option": "orb-drive",
+          "label": "Orbital drive",
+          "component": "orb-aft"
+        },
+        {
+          "role": "builder",
+          "slot": "mid",
+          "option": "crane",
+          "label": "Crane tower",
+          "component": "orb-mid"
+        },
+        {
+          "role": "builder",
+          "slot": "mid",
+          "option": "orb-chamber",
+          "label": "Spherical work chamber",
+          "component": "orb-mid"
+        }
+      ],
+      "workshopExample": "../../factions.html?class=fighter&bow=orbital-eye&mid=delta&stern=jet"
+    },
+    {
+      "id": "station-9042",
+      "title": "Space Station",
+      "classification": "stazione orbitale a disco",
+      "description": "Corpo a disco con apparati radiali, anelli e tratti di rivestimento indipendenti.",
+      "artist": "Gerardo Justel (re1monsen)",
+      "fab": "https://www.fab.com/listings/9042d765-4f32-4ef3-892a-aca6c14f8f60",
+      "sketchfab": "https://sketchfab.com/3d-models/space-station-0da4a24e7edd49159737675ffcc06228",
+      "sketchfabUid": "0da4a24e7edd49159737675ffcc06228",
+      "sketchfabMetadata": "https://api.sketchfab.com/v3/models/0da4a24e7edd49159737675ffcc06228",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "downloadedOn": "2026-11-21",
+      "previouslyArchived": false,
+      "distributionName": "space_station.glb",
+      "archiveName": "station-9042.glb",
+      "archiveBytes": 39750872,
+      "sha256": "9ac1634a56d8bd401f9309fd5e6dbb8e1ccdefeb4e4e3afd7bc9f017a6af6009",
+      "suppliedGeometry": [
+        "space_station.glb"
+      ],
+      "workshopUses": [
+        {
+          "role": "fighter",
+          "slot": "bow",
+          "option": "berth-launch",
+          "label": "Dock launch bow",
+          "component": "launch-fore",
+          "sourceNode": "spacestation.026_low_Main_0"
+        },
+        {
+          "role": "cargo",
+          "slot": "bow",
+          "option": "berth-courier",
+          "label": "Dock courier cab",
+          "component": "courier-fore",
+          "sourceNode": "spacestation.027_low_Main_0"
+        },
+        {
+          "role": "shipyard",
+          "option": "yard-hanging",
+          "components": [
+            "new-hanging-quay"
+          ]
+        },
+        {
+          "role": "subFtlStation",
+          "option": "base-suspended",
+          "components": [
+            "new-cable-arc"
+          ]
+        }
+      ],
+      "workshopExample": "../../factions.html?class=subFtlStation&sector=base-suspended&view=module",
+      "additionalWorkshopExamples": [
+        {
+          "label": "Prua della lancia sul caccia",
+          "sourceNode": "spacestation.026_low_Main_0",
+          "path": "../../factions.html?class=fighter&bow=berth-launch&mid=delta&stern=jet"
+        },
+        {
+          "label": "Prua del corriere sul cargo",
+          "sourceNode": "spacestation.027_low_Main_0",
+          "path": "../../factions.html?class=cargo&bow=berth-courier&mid=flatbed&stern=drive"
+        }
+      ]
+    },
+    {
+      "id": "station-03fc",
+      "title": "Space Station",
+      "classification": "base cilindrica su asteroide",
+      "description": "Complesso verticale con strutture cilindriche e pannelli, inserito in un campo di asteroidi.",
+      "artist": "Gerardo Justel (re1monsen)",
+      "fab": "https://www.fab.com/listings/03fc052f-e479-4fef-afe9-7efb324dc375",
+      "sketchfab": "https://sketchfab.com/3d-models/space-station-cc8b011bea6543d0807285a108076463",
+      "sketchfabUid": "cc8b011bea6543d0807285a108076463",
+      "sketchfabMetadata": "https://api.sketchfab.com/v3/models/cc8b011bea6543d0807285a108076463",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "downloadedOn": "2026-11-21",
+      "previouslyArchived": false,
+      "distributionName": "space_station.glb",
+      "archiveName": "station-03fc.glb",
+      "archiveBytes": 14432960,
+      "sha256": "ee3871c9631b8274e2b61a6370a9be0e2180decfb9d143ac566d188c6762da3a",
+      "suppliedGeometry": [
+        "space_station.glb"
+      ],
+      "workshopUses": [
+        {
+          "role": "mine",
+          "option": "mine-tandem",
+          "components": [
+            "new-drive-shaft"
+          ]
+        },
+        {
+          "role": "refinery",
+          "option": "refinery-kiln",
+          "components": [
+            "new-kiln-shell"
+          ]
+        }
+      ],
+      "workshopExample": "../../factions.html?class=refinery&sector=refinery-kiln&view=module"
+    },
+    {
+      "id": "dx2-rescue",
+      "title": "First Aid DX2 - 300 Followers Celebration",
+      "classification": "drone da soccorso con veicolo di appoggio",
+      "description": "Il quadricottero a quattro rotori, la sua custodia e il carro di soccorso sono tre geometrie distinte nella stessa scena.",
+      "artist": "Gerardo Justel (re1monsen)",
+      "fab": "https://www.fab.com/listings/c3902c90-4041-45da-ba49-72661d9387fe",
+      "sketchfab": "https://sketchfab.com/3d-models/none-c5ddfa9e6309403083bbce60bdcc3d71",
+      "sketchfabUid": "c5ddfa9e6309403083bbce60bdcc3d71",
+      "sketchfabMetadata": "https://api.sketchfab.com/v3/models/c5ddfa9e6309403083bbce60bdcc3d71",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "downloadedOn": "2026-11-21",
+      "previouslyArchived": false,
+      "acquisitionBatch": "hangar-validation",
+      "distributionName": "first_aid_dx2_300_followers_celebration.glb",
+      "archiveDirectory": "output/assets-source/section-donors",
+      "archiveName": "dx2-rescue.glb",
+      "archiveBytes": 111727872,
+      "sha256": "331d3b2ef67964e1e721d2d31168a522619b67c71f6249a9146a705e2099fa30",
+      "catalogCategory": "Modules and robots",
+      "designAttribution": "NUONE DESIGN (idea originale, come indicato da Gerardo Justel)",
+      "suppliedGeometry": [
+        "Quadricottero completo con quattro rotori separati",
+        "Custodia di servizio del drone",
+        "Carro di soccorso su ruote"
+      ],
+      "workshopUses": [
+        {
+          "role": "fighter",
+          "slot": "mid",
+          "option": "rescue-rotors",
+          "label": "Four-rotor frame",
+          "component": "rescue-mid"
+        },
+        {
+          "role": "cargo",
+          "slot": "bow",
+          "option": "loading-hatch",
+          "label": "Loading hatch",
+          "component": "locker-fore"
+        },
+        {
+          "role": "cargo",
+          "slot": "mid",
+          "option": "roller-pallet",
+          "label": "Roller pallet",
+          "component": "carrier-mid"
+        },
+        {
+          "role": "builder",
+          "slot": "stern",
+          "option": "recovery-deck",
+          "label": "Recovery deck",
+          "component": "carrier-aft"
+        }
+      ],
+      "workshopExample": "../../factions.html?class=fighter&bow=axial-optic&mid=rescue-rotors&stern=turntable"
+    },
+    {
+      "id": "copper-guide",
+      "title": "Copper - Robot Guide",
+      "classification": "robot guida autonomo",
+      "description": "Basamento rotante, pannelli e anelli del robot guida Copper.",
+      "artist": "Gerardo Justel (re1monsen)",
+      "fab": "https://www.fab.com/listings/eaf76a1d-2a68-4bc9-8a32-53a5d9887548",
+      "sketchfab": "https://sketchfab.com/3d-models/none-5c41480a945246ba90c80eaeef480d5b",
+      "sketchfabUid": "5c41480a945246ba90c80eaeef480d5b",
+      "sketchfabMetadata": "https://api.sketchfab.com/v3/models/5c41480a945246ba90c80eaeef480d5b",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "downloadedOn": "2026-11-21",
+      "previouslyArchived": false,
+      "acquisitionBatch": "hangar-validation",
+      "distributionName": "copper_robot_guide_200_followers_celebration.glb",
+      "archiveDirectory": "output/assets-source/section-donors",
+      "archiveName": "copper-guide.glb",
+      "archiveBytes": 92731396,
+      "sha256": "16a7ad35e19b2aebe1c628fc505f94637f9a1cae26acbcdffb053b4cfe23010e",
+      "catalogCategory": "Modules and robots",
+      "suppliedGeometry": [
+        "copper_robot_guide_200_followers_celebration.glb"
+      ],
+      "workshopUses": [
+        {
+          "role": "fighter",
+          "slot": "stern",
+          "option": "turntable",
+          "label": "Capstan exhaust",
+          "component": "copper-aft"
+        },
+        {
+          "role": "builder",
+          "slot": "mid",
+          "option": "service-drum",
+          "label": "Service saddle",
+          "component": "copper-mid"
+        },
+        {
+          "role": "refinery",
+          "option": "refinery-counterflow",
+          "label": "Counterflow manifold",
+          "components": [
+            "counterflow-header"
+          ]
+        },
+        {
+          "role": "subFtlStation",
+          "option": "base-parallax",
+          "label": "Parallax observatory",
+          "components": [
+            "transfer-bearing"
+          ]
+        }
+      ],
+      "workshopExample": "../../factions.html?class=builder&bow=capture-tines&mid=service-drum&stern=recovery-deck"
+    },
+    {
+      "id": "irrigation-control",
+      "title": "Irrigation control Robot",
+      "classification": "robot per il controllo dell’irrigazione",
+      "description": "La scocca a colonna e la testata ventilata forniscono pannelli, un deflettore e carenature industriali.",
+      "artist": "Gerardo Justel (re1monsen)",
+      "fab": "https://www.fab.com/listings/4d2f7212-386c-4fd4-9d3a-082e58b1cc38",
+      "sketchfab": "https://sketchfab.com/3d-models/none-2e897765c2a54a8486c8849cf696aaf0",
+      "sketchfabUid": "2e897765c2a54a8486c8849cf696aaf0",
+      "sketchfabMetadata": "https://api.sketchfab.com/v3/models/2e897765c2a54a8486c8849cf696aaf0",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "downloadedOn": "2026-11-21",
+      "previouslyArchived": false,
+      "acquisitionBatch": "hangar-validation",
+      "distributionName": "irrigation_control_robot.glb",
+      "archiveDirectory": "output/assets-source/section-donors",
+      "archiveName": "irrigation-control.glb",
+      "archiveBytes": 131548704,
+      "sha256": "b3e39ba3fb29b4ef7e6f5ce7e62244c7407ecf3d76465cfed8e9bf363d8a79e5",
+      "catalogCategory": "Modules and robots",
+      "suppliedGeometry": [
+        "irrigation_control_robot.glb"
+      ],
+      "workshopUses": [
+        {
+          "role": "cargo",
+          "slot": "stern",
+          "option": "pump-cowl",
+          "label": "Louvered pump cowl",
+          "component": "irrigator-aft"
+        },
+        {
+          "role": "freighter",
+          "slot": "bow",
+          "option": "slant-hood",
+          "label": "Slant hood",
+          "component": "irrigator-fore"
+        },
+        {
+          "role": "refinery",
+          "option": "refinery-counterflow",
+          "label": "Counterflow manifold",
+          "components": [
+            "pump-vault"
+          ]
+        }
+      ],
+      "workshopExample": "../../factions.html?class=refinery&sector=refinery-counterflow&view=module"
+    },
+    {
+      "id": "faired-chassis",
+      "title": "Mixed Workflow 1 - Subd/Cad/Decals/Trims",
+      "classification": "contenitore industriale carenato",
+      "description": "Il contenitore del file Blender ha fianchi rientranti, nervature e piedini metallici. Le sezioni conservano le superfici portanti e i raccordi della scocca.",
+      "artist": "Gerardo Justel (re1monsen)",
+      "fab": "https://www.fab.com/listings/f3ad91ea-89ba-470c-8c61-e0b63c729fc8",
+      "sketchfab": "https://sketchfab.com/3d-models/none-32eb9255948840f2a93319d206e98241",
+      "sketchfabUid": "32eb9255948840f2a93319d206e98241",
+      "sketchfabMetadata": "https://api.sketchfab.com/v3/models/32eb9255948840f2a93319d206e98241",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "downloadedOn": "2026-11-21",
+      "previouslyArchived": false,
+      "acquisitionBatch": "hangar-validation",
+      "distributionName": "mixed-workflow-1-subdcaddecalstrims.zip",
+      "archiveDirectory": "output/assets-source/section-donors",
+      "archiveName": "faired-chassis.zip",
+      "archiveBytes": 103684865,
+      "sha256": "25fdbd704784fadf08683f5b561df1d99fd5541c334261ab8acf6f27bc2ba5cc",
+      "catalogCategory": "Cargo",
+      "suppliedGeometry": [
+        "source/p_138_ScifiContainer_008.blend"
+      ],
+      "derivedGeometry": {
+        "name": "faired-chassis.glb",
+        "bytes": 14475980,
+        "sha256": "a4d2bec95a2e787f88d0d8b27167fe7a2ce76c2c6ca0be5265d3aa1aebcb559a",
+        "procedure": "scripts/prepare-faired-chassis.py",
+        "modifications": "Applicazione dei modificatori Blender, esportazione delle 17 mesh portanti, UV, normal map, occlusione e fattori PBR originali delle finiture trim. Pavimento, figura di scala e decalcomanie separate sono esclusi."
+      },
+      "workshopUses": [
+        {
+          "role": "capital",
+          "slot": "bow",
+          "option": "recessed-prow",
+          "label": "Recessed bulkhead",
+          "component": "fairing-fore"
+        },
+        {
+          "role": "cargo",
+          "slot": "mid",
+          "option": "keel-cage",
+          "label": "Recessed cargo keel",
+          "component": "fairing-mid"
+        },
+        {
+          "role": "freighter",
+          "slot": "stern",
+          "option": "recessed-tail",
+          "label": "Recessed tailframe",
+          "component": "fairing-aft"
+        }
+      ],
+      "workshopExample": "../../factions.html?class=cargo&bow=loading-hatch&mid=keel-cage&stern=pump-cowl"
+    },
+    {
+      "id": "scout",
+      "title": "Scout Drone Sketch",
+      "classification": "drone da ricognizione",
+      "description": "Il disco ottico e il giunto cardanico del drone da ricognizione forniscono un muso, un centro di capitale e il ricevitore di un osservatorio.",
+      "artist": "Gerardo Justel (re1monsen)",
+      "fab": "https://www.fab.com/listings/d73bfa8e-d1e3-4f8e-b721-4671bb4c0fc7",
+      "sketchfab": "https://sketchfab.com/3d-models/none-6e58f9c825db44e39b17d1f539248bcf",
+      "sketchfabUid": "6e58f9c825db44e39b17d1f539248bcf",
+      "sketchfabMetadata": "https://api.sketchfab.com/v3/models/6e58f9c825db44e39b17d1f539248bcf",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "downloadedOn": "2026-11-21",
+      "previouslyArchived": true,
+      "acquisitionBatch": "earlier-faction-kit",
+      "distributionName": "700_followers_celebration_scout_drone_sketch.glb",
+      "archiveDirectory": "output/assets-source/faction-donors",
+      "archiveName": "scout.glb",
+      "archiveBytes": 198732936,
+      "sha256": "0f6b0e0a33bc7e0507a4080a8ca5a28c33230d67ab209757ab588d88e783977d",
+      "catalogCategory": "Modules and robots",
+      "suppliedGeometry": [
+        "700_followers_celebration_scout_drone_sketch.glb"
+      ],
+      "workshopUses": [
+        {
+          "role": "fighter",
+          "slot": "bow",
+          "option": "axial-optic",
+          "label": "Axial rangefinder",
+          "component": "scout-fore"
+        },
+        {
+          "role": "capital",
+          "slot": "mid",
+          "option": "gimbal",
+          "label": "Gimbal ring",
+          "component": "scout-mid"
+        },
+        {
+          "role": "subFtlStation",
+          "option": "base-parallax",
+          "label": "Parallax observatory",
+          "components": [
+            "gimballed-receiver"
+          ]
+        }
+      ],
+      "workshopExample": "../../factions.html?class=capital&bow=recessed-prow&mid=gimbal&stern=stator"
+    },
+    {
+      "id": "drone",
+      "title": "Drone Concept",
+      "classification": "drone a corpo cilindrico",
+      "description": "Il corpo in pressione, lo statore e gli appigli del drone alimentano i serbatoi, le prese e le condotte di due settori.",
+      "artist": "Gerardo Justel (re1monsen)",
+      "fab": "https://www.fab.com/listings/56eeffce-2423-42b8-9c4b-cf44078ad877",
+      "sketchfab": "https://sketchfab.com/3d-models/none-49a01e710d9545ceb13dfd8c9fe11fea",
+      "sketchfabUid": "49a01e710d9545ceb13dfd8c9fe11fea",
+      "sketchfabMetadata": "https://api.sketchfab.com/v3/models/49a01e710d9545ceb13dfd8c9fe11fea",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "downloadedOn": "2026-11-21",
+      "previouslyArchived": true,
+      "acquisitionBatch": "earlier-faction-kit",
+      "distributionName": "drone_concept_500_followers_celebration.glb",
+      "archiveDirectory": "output/assets-source/faction-donors",
+      "archiveName": "drone.glb",
+      "archiveBytes": 95445808,
+      "sha256": "1bc6257de85bc074e11c91de81e14da0881fc18c52b8ee2e42eaf081992db547",
+      "catalogCategory": "Modules and robots",
+      "suppliedGeometry": [
+        "drone_concept_500_followers_celebration.glb"
+      ],
+      "workshopUses": [
+        {
+          "role": "capital",
+          "slot": "stern",
+          "option": "stator",
+          "label": "Induction stator",
+          "component": "pressure-aft"
+        },
+        {
+          "role": "freighter",
+          "slot": "mid",
+          "option": "duplex-tanks",
+          "label": "Duplex pressure tanks",
+          "component": "pressure-mid"
+        },
+        {
+          "role": "builder",
+          "slot": "bow",
+          "option": "capture-tines",
+          "label": "Capture tines",
+          "component": "grapple-fore"
+        },
+        {
+          "role": "refinery",
+          "option": "refinery-counterflow",
+          "label": "Counterflow manifold",
+          "components": [
+            "induction-vessel",
+            "counterflow-header"
+          ]
+        },
+        {
+          "role": "subFtlStation",
+          "option": "base-parallax",
+          "label": "Parallax observatory",
+          "components": [
+            "optical-trunk"
+          ]
+        }
+      ],
+      "workshopExample": "../../factions.html?class=freighter&bow=slant-hood&mid=duplex-tanks&stern=recessed-tail"
+    }
+  ],
+  "flightDerivation": {
+    "use": "Le stesse sezioni selezionabili nel laboratorio formano le navi e le installazioni generate per le fazioni in partita.",
+    "changes": "Per i due livelli di dettaglio di volo, Hostile Takeover raggruppa le superfici per materiale, semplifica la triangolazione con conservazione delle UV e ricampiona le mappe PBR originali.",
+    "build": "scripts/prepare-flight-sections.mjs",
+    "reports": [
+      "../flight-sections/ships.stats.json",
+      "../flight-sections/stations.stats.json",
+      "../flight-sections/machines.stats.json"
+    ]
+  },
+  "archiveOnly": [
+    {
+      "id": "asteroid-ships",
+      "title": "Asteroid Base USD Workflow Test 4",
+      "author": "Gerardo Justel (re1monsen)",
+      "source": "https://www.fab.com/listings/0e1ea049-6918-4887-b565-b18b1a3b978f",
+      "original": "https://sketchfab.com/3d-models/8297fd9b0cda4e9099f805d862094466",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceBytes": 143020460,
+      "sourceSha256": "ed5ffc2d277f0eed1d50bbb00fa7af3987241af4019d49a3b7cdf843f737ccd5",
+      "path": "output/assets-source/asteroid-ships.glb",
+      "use": "Originale aggiuntivo già acquisito nell’archivio comune. La disponibilità nel catalogo è indipendente dalle ricette canoniche specifiche della versione."
+    }
+  ]
+}

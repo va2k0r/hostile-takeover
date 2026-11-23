@@ -1,0 +1,1552 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "hostile-universe",
+    "version": "1.3.0"
+  },
+  "seed": "PERSEUS-01",
+  "name": "Perseus Reach",
+  "config": {
+    "systemCount": 8,
+    "planetsMin": 5,
+    "planetsMax": 8
+  },
+  "systems": [
+    {
+      "id": "s-1bqyqp7-0",
+      "name": "Lysara",
+      "position": [
+        -2.00582250247302,
+        -1.5324690036242827,
+        5.908740905345181
+      ],
+      "plane": {
+        "tilt": -0.20550185433821755,
+        "node": 0.9195657788057376
+      },
+      "star": {
+        "id": "s-1bqyqp7-0-star",
+        "name": "Lysara",
+        "spectralClass": "A",
+        "massSolar": 1.9,
+        "radiusSolar": 1.7,
+        "temperatureK": 8840,
+        "color": "#a8d8ff"
+      },
+      "planets": [
+        {
+          "id": "s-1bqyqp7-0-p0",
+          "name": "Cinder",
+          "kind": "desert",
+          "radiusEarth": 1.501459072995931,
+          "orbit": {
+            "radiusAU": 0.33830728246551006,
+            "periodDays": 52.14113060937959,
+            "phase": 2.2641355925043225
+          },
+          "rotationHours": 329.1589861083776,
+          "axialTilt": -0.29956039711833,
+          "moonCount": 2,
+          "appearance": {
+            "seed": 566312464,
+            "color": "#b78957",
+            "accent": "#ecc985",
+            "atmosphere": 0.22,
+            "atmosphereColor": "#edc188",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 64,
+            "Volatiles": 10
+          }
+        },
+        {
+          "id": "s-1bqyqp7-0-p1",
+          "name": "Pelagos",
+          "kind": "ocean",
+          "radiusEarth": 0.9815241176635028,
+          "orbit": {
+            "radiusAU": 0.4700597234190672,
+            "periodDays": 85.39707295494564,
+            "phase": 4.305234563589051
+          },
+          "rotationHours": 187.4487913493067,
+          "axialTilt": 0.22820276431739328,
+          "moonCount": 2,
+          "appearance": {
+            "seed": 583090083,
+            "color": "#254b70",
+            "accent": "#818357",
+            "atmosphere": 0.7,
+            "atmosphereColor": "#8cbeeb",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 35,
+            "Volatiles": 71
+          }
+        },
+        {
+          "id": "s-1bqyqp7-0-p2",
+          "name": "Serein",
+          "kind": "gas",
+          "radiusEarth": 8.237201493233442,
+          "orbit": {
+            "radiusAU": 0.739744963610031,
+            "periodDays": 168.59180085102747,
+            "phase": 0.8251848146524123
+          },
+          "rotationHours": 328.05232820566744,
+          "axialTilt": -0.14095861902460455,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 599867702,
+            "color": "#bc8e62",
+            "accent": "#f4dbaf",
+            "atmosphere": 0.45,
+            "atmosphereColor": "#f9d0a0",
+            "rings": {
+              "innerRadius": 1.4,
+              "outerRadius": 2.6867920459015293,
+              "color": "#d8c5a1",
+              "opacity": 0.8624886532779783
+            }
+          },
+          "resources": {
+            "Metals": 0,
+            "Volatiles": 81
+          }
+        },
+        {
+          "id": "s-1bqyqp7-0-p3",
+          "name": "Aureole",
+          "kind": "ice",
+          "radiusEarth": 1.7166207029484213,
+          "orbit": {
+            "radiusAU": 1.1370060194444906,
+            "periodDays": 321.26067682042674,
+            "phase": 2.9770411440627864
+          },
+          "rotationHours": 124.97556652408093,
+          "axialTilt": 0.1423664909787476,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 616645321,
+            "color": "#75afa7",
+            "accent": "#e3ece2",
+            "atmosphere": 0.16,
+            "atmosphereColor": "#a1ddd6",
+            "rings": {
+              "innerRadius": 1.4,
+              "outerRadius": 2.348673889483325,
+              "color": "#d8c5a1",
+              "opacity": 0.8754786600824445
+            }
+          },
+          "resources": {
+            "Metals": 24,
+            "Volatiles": 65
+          }
+        },
+        {
+          "id": "s-1bqyqp7-0-p4",
+          "name": "Nivalis",
+          "kind": "volcanic",
+          "radiusEarth": 1.9514107993803917,
+          "orbit": {
+            "radiusAU": 1.6751022159831284,
+            "periodDays": 574.4806351262098,
+            "phase": 5.300220250176324
+          },
+          "rotationHours": 485.1647159131244,
+          "axialTilt": 0.5910866802558302,
+          "moonCount": 0,
+          "appearance": {
+            "seed": 633422940,
+            "color": "#333247",
+            "accent": "#fa9345",
+            "atmosphere": 0,
+            "atmosphereColor": "#d98d68",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 84,
+            "Volatiles": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "s-1bqyqp7-1",
+      "name": "Orison",
+      "position": [
+        -5.179145330356138,
+        3.1746142817894,
+        -1.758148887152723
+      ],
+      "plane": {
+        "tilt": -0.05271264289040119,
+        "node": 1.7163573281434423
+      },
+      "star": {
+        "id": "s-1bqyqp7-1-star",
+        "name": "Orison",
+        "spectralClass": "K",
+        "massSolar": 0.78,
+        "radiusSolar": 0.82,
+        "temperatureK": 4650,
+        "color": "#ffb98e"
+      },
+      "planets": [
+        {
+          "id": "s-1bqyqp7-1-p0",
+          "name": "Saffron",
+          "kind": "gas",
+          "radiusEarth": 7.124835531227291,
+          "orbit": {
+            "radiusAU": 0.26096866886392234,
+            "periodDays": 55.13475877229105,
+            "phase": 2.392231198054656
+          },
+          "rotationHours": 597.6962636969984,
+          "axialTilt": 0.05338552007451653,
+          "moonCount": 2,
+          "appearance": {
+            "seed": 491475283,
+            "color": "#9c786f",
+            "accent": "#e6d3b9",
+            "atmosphere": 0.45,
+            "atmosphereColor": "#ebc3ad",
+            "rings": {
+              "innerRadius": 1.4,
+              "outerRadius": 2.546489154640585,
+              "color": "#91b5c5",
+              "opacity": 0.7152714433614165
+            }
+          },
+          "resources": {
+            "Metals": 0,
+            "Volatiles": 84
+          }
+        },
+        {
+          "id": "s-1bqyqp7-1-p1",
+          "name": "Obsidian",
+          "kind": "ice",
+          "radiusEarth": 1.8468933710828424,
+          "orbit": {
+            "radiusAU": 0.380175988260358,
+            "periodDays": 96.94377977944504,
+            "phase": 4.601603182550475
+          },
+          "rotationHours": 490.8606860600412,
+          "axialTilt": 0.40059355879202485,
+          "moonCount": 0,
+          "appearance": {
+            "seed": 474697664,
+            "color": "#96c8d0",
+            "accent": "#e6e8db",
+            "atmosphere": 0.16,
+            "atmosphereColor": "#91d8ea",
+            "rings": {
+              "innerRadius": 1.4,
+              "outerRadius": 2.44912554284092,
+              "color": "#91b5c5",
+              "opacity": 0.8376092053949833
+            }
+          },
+          "resources": {
+            "Metals": 22,
+            "Volatiles": 76
+          }
+        },
+        {
+          "id": "s-1bqyqp7-1-p2",
+          "name": "Thalassa",
+          "kind": "volcanic",
+          "radiusEarth": 1.4834816573187708,
+          "orbit": {
+            "radiusAU": 0.5920142395444481,
+            "periodDays": 188.38275870045186,
+            "phase": 0.9900233658701021
+          },
+          "rotationHours": 175.04694464616477,
+          "axialTilt": -0.46867207568138836,
+          "moonCount": 2,
+          "appearance": {
+            "seed": 525030521,
+            "color": "#322c31",
+            "accent": "#ff7332",
+            "atmosphere": 0,
+            "atmosphereColor": "#d77b54",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 66,
+            "Volatiles": 0
+          }
+        },
+        {
+          "id": "s-1bqyqp7-1-p3",
+          "name": "Ivoire",
+          "kind": "rocky",
+          "radiusEarth": 0.6829024263541215,
+          "orbit": {
+            "radiusAU": 0.849701368926187,
+            "periodDays": 323.9234580912864,
+            "phase": 2.873286638687386
+          },
+          "rotationHours": 130.14513242989779,
+          "axialTilt": -0.5324964291416109,
+          "moonCount": 2,
+          "appearance": {
+            "seed": 508252902,
+            "color": "#56606e",
+            "accent": "#b2b9c7",
+            "atmosphere": 0,
+            "atmosphereColor": "#b3cad3",
+            "rings": {
+              "innerRadius": 1.377088963240385,
+              "outerRadius": 2.062729202839546,
+              "color": "#b8b7c1",
+              "opacity": 0.5975122782005928
+            }
+          },
+          "resources": {
+            "Metals": 64,
+            "Volatiles": 12
+          }
+        },
+        {
+          "id": "s-1bqyqp7-1-p4",
+          "name": "Caldera",
+          "kind": "desert",
+          "radiusEarth": 1.9355429206974804,
+          "orbit": {
+            "radiusAU": 1.208306086446641,
+            "periodDays": 549.2984428940879,
+            "phase": 5.49616418739414
+          },
+          "rotationHours": 356.0818029846996,
+          "axialTilt": 0.5539847183972597,
+          "moonCount": 0,
+          "appearance": {
+            "seed": 558585759,
+            "color": "#bd6241",
+            "accent": "#efbf83",
+            "atmosphere": 0.22,
+            "atmosphereColor": "#eab175",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 61,
+            "Volatiles": 13
+          }
+        },
+        {
+          "id": "s-1bqyqp7-1-p5",
+          "name": "Zephyr",
+          "kind": "ocean",
+          "radiusEarth": 0.8240256017073989,
+          "orbit": {
+            "radiusAU": 1.8382553534636012,
+            "periodDays": 1030.7460576148655,
+            "phase": 1.6241531012506165
+          },
+          "rotationHours": 551.8612285424024,
+          "axialTilt": 0.4118142102845013,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 541808140,
+            "color": "#0d4672",
+            "accent": "#728f68",
+            "atmosphere": 0.7,
+            "atmosphereColor": "#62cce7",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 25,
+            "Volatiles": 65
+          }
+        }
+      ]
+    },
+    {
+      "id": "s-1bqyqp7-2",
+      "name": "Meridian",
+      "position": [
+        4.5074296955823945,
+        0.7598525856371953,
+        8.084670641470423
+      ],
+      "plane": {
+        "tilt": -0.06118821741547436,
+        "node": 2.6552772951630907
+      },
+      "star": {
+        "id": "s-1bqyqp7-2-star",
+        "name": "Meridian",
+        "spectralClass": "F",
+        "massSolar": 1.3,
+        "radiusSolar": 1.25,
+        "temperatureK": 6710,
+        "color": "#e5edff"
+      },
+      "planets": [
+        {
+          "id": "s-1bqyqp7-2-p0",
+          "name": "Zephyr",
+          "kind": "volcanic",
+          "radiusEarth": 1.0837462089955807,
+          "orbit": {
+            "radiusAU": 0.8532489179410971,
+            "periodDays": 252.4830150591596,
+            "phase": 2.166332298451021
+          },
+          "rotationHours": 433.45963513012975,
+          "axialTilt": 0.30013024220243095,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 539486510,
+            "color": "#322c31",
+            "accent": "#ff7332",
+            "atmosphere": 0,
+            "atmosphereColor": "#d77b54",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 80,
+            "Volatiles": 12
+          }
+        },
+        {
+          "id": "s-1bqyqp7-2-p1",
+          "name": "Solace",
+          "kind": "rocky",
+          "radiusEarth": 0.7412226469488814,
+          "orbit": {
+            "radiusAU": 1.3987118751128675,
+            "periodDays": 529.9207696836925,
+            "phase": 4.63782839496243
+          },
+          "rotationHours": 229.62636128533632,
+          "axialTilt": -0.18264779252931476,
+          "moonCount": 0,
+          "appearance": {
+            "seed": 556264129,
+            "color": "#8d999e",
+            "accent": "#ddd5bd",
+            "atmosphere": 0,
+            "atmosphereColor": "#b8cbd1",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 72,
+            "Volatiles": 12
+          }
+        },
+        {
+          "id": "s-1bqyqp7-2-p2",
+          "name": "Rhea",
+          "kind": "desert",
+          "radiusEarth": 1.0977976499125361,
+          "orbit": {
+            "radiusAU": 2.340597948139583,
+            "periodDays": 1147.119806331203,
+            "phase": 0.955800107328205
+          },
+          "rotationHours": 546.3270072406158,
+          "axialTilt": 0.3273601312190294,
+          "moonCount": 0,
+          "appearance": {
+            "seed": 505931272,
+            "color": "#945e50",
+            "accent": "#dcc29b",
+            "atmosphere": 0.22,
+            "atmosphereColor": "#df9777",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 69,
+            "Volatiles": 36
+          }
+        },
+        {
+          "id": "s-1bqyqp7-2-p3",
+          "name": "Sable",
+          "kind": "ocean",
+          "radiusEarth": 0.8049982640892268,
+          "orbit": {
+            "radiusAU": 3.9447115551951484,
+            "periodDays": 2509.8133605220464,
+            "phase": 3.28205351852721
+          },
+          "rotationHours": 233.55372169055045,
+          "axialTilt": 0.25812505977228284,
+          "moonCount": 0,
+          "appearance": {
+            "seed": 522708891,
+            "color": "#0d4672",
+            "accent": "#728f68",
+            "atmosphere": 0.7,
+            "atmosphereColor": "#62cce7",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 39,
+            "Volatiles": 72
+          }
+        },
+        {
+          "id": "s-1bqyqp7-2-p4",
+          "name": "Halcyon",
+          "kind": "gas",
+          "radiusEarth": 7.076203043572605,
+          "orbit": {
+            "radiusAU": 6.825976291254102,
+            "periodDays": 5713.019569573977,
+            "phase": 5.2340905728527005
+          },
+          "rotationHours": 515.6999270012602,
+          "axialTilt": -0.2667295108549297,
+          "moonCount": 2,
+          "appearance": {
+            "seed": 606596986,
+            "color": "#557f96",
+            "accent": "#c1d5cd",
+            "atmosphere": 0.45,
+            "atmosphereColor": "#a5d4df",
+            "rings": {
+              "innerRadius": 1.4,
+              "outerRadius": 2.573437379277311,
+              "color": "#d8c5a1",
+              "opacity": 0.8328223722055554
+            }
+          },
+          "resources": {
+            "Metals": 0,
+            "Volatiles": 84
+          }
+        },
+        {
+          "id": "s-1bqyqp7-2-p5",
+          "name": "Sirocco",
+          "kind": "ice",
+          "radiusEarth": 1.4544483317062258,
+          "orbit": {
+            "radiusAU": 12.725920110363797,
+            "periodDays": 14542.944182615605,
+            "phase": 1.6802035067622505
+          },
+          "rotationHours": 390.5396106466651,
+          "axialTilt": -0.3197262858040631,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 623374605,
+            "color": "#96c8d0",
+            "accent": "#e6e8db",
+            "atmosphere": 0.16,
+            "atmosphereColor": "#91d8ea",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 30,
+            "Volatiles": 71
+          }
+        },
+        {
+          "id": "s-1bqyqp7-2-p6",
+          "name": "Cerulea",
+          "kind": "volcanic",
+          "radiusEarth": 1.7511467956006528,
+          "orbit": {
+            "radiusAU": 23.68605371078574,
+            "periodDays": 36928.155260427695,
+            "phase": 3.817280566523909
+          },
+          "rotationHours": 217.88363601546735,
+          "axialTilt": -0.24490811750292776,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 573041748,
+            "color": "#333247",
+            "accent": "#fa9345",
+            "atmosphere": 0,
+            "atmosphereColor": "#d98d68",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 84,
+            "Volatiles": 12
+          }
+        },
+        {
+          "id": "s-1bqyqp7-2-p7",
+          "name": "Ashen",
+          "kind": "metallic",
+          "radiusEarth": 1.279965534619987,
+          "orbit": {
+            "radiusAU": 39.464437111697116,
+            "periodDays": 79419.54920045385,
+            "phase": 0.005614861226792556
+          },
+          "rotationHours": 534.4353256560862,
+          "axialTilt": -0.24313220176845787,
+          "moonCount": 0,
+          "appearance": {
+            "seed": 589819367,
+            "color": "#6c5655",
+            "accent": "#c9ab9b",
+            "atmosphere": 0,
+            "atmosphereColor": "#bcb0a3",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 77,
+            "Volatiles": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "s-1bqyqp7-3",
+      "name": "Asterion",
+      "position": [
+        3.582527585375143,
+        1.8964197012146393,
+        13.940181399699139
+      ],
+      "plane": {
+        "tilt": 0.011051513184793294,
+        "node": 0.8614185419284955
+      },
+      "star": {
+        "id": "s-1bqyqp7-3-star",
+        "name": "Asterion",
+        "spectralClass": "M",
+        "massSolar": 0.46,
+        "radiusSolar": 0.55,
+        "temperatureK": 3520,
+        "color": "#ff9b7e"
+      },
+      "planets": [
+        {
+          "id": "s-1bqyqp7-3-p0",
+          "name": "Sirocco",
+          "kind": "desert",
+          "radiusEarth": 1.9093679034151136,
+          "orbit": {
+            "radiusAU": 0.47250086665004487,
+            "periodDays": 174.91023484416868,
+            "phase": 2.4832238958486466
+          },
+          "rotationHours": 506.5909030428156,
+          "axialTilt": 0.036263776011765,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 612715073,
+            "color": "#b78957",
+            "accent": "#ecc985",
+            "atmosphere": 0.22,
+            "atmosphereColor": "#edc188",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 61,
+            "Volatiles": 35
+          }
+        },
+        {
+          "id": "s-1bqyqp7-3-p1",
+          "name": "Cerulea",
+          "kind": "ocean",
+          "radiusEarth": 1.1856300075538457,
+          "orbit": {
+            "radiusAU": 0.7579919495041828,
+            "periodDays": 355.3924508529201,
+            "phase": 4.510963028721466
+          },
+          "rotationHours": 233.4834730764851,
+          "axialTilt": -0.4939428457058966,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 595937454,
+            "color": "#0d4672",
+            "accent": "#728f68",
+            "atmosphere": 0.7,
+            "atmosphereColor": "#62cce7",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 37,
+            "Volatiles": 74
+          }
+        },
+        {
+          "id": "s-1bqyqp7-3-p2",
+          "name": "Ashen",
+          "kind": "gas",
+          "radiusEarth": 7.290759534575045,
+          "orbit": {
+            "radiusAU": 1.1265552921017945,
+            "periodDays": 643.9321024352549,
+            "phase": 0.6451332568395722
+          },
+          "rotationHours": 498.8142923731357,
+          "axialTilt": -0.33093048334121705,
+          "moonCount": 2,
+          "appearance": {
+            "seed": 579159835,
+            "color": "#bc8e62",
+            "accent": "#f4dbaf",
+            "atmosphere": 0.45,
+            "atmosphereColor": "#f9d0a0",
+            "rings": {
+              "innerRadius": 1.4,
+              "outerRadius": 2.6379400199046357,
+              "color": "#91b5c5",
+              "opacity": 0.7406527465209365
+            }
+          },
+          "resources": {
+            "Metals": 0,
+            "Volatiles": 68
+          }
+        },
+        {
+          "id": "s-1bqyqp7-3-p3",
+          "name": "Boreal",
+          "kind": "ice",
+          "radiusEarth": 1.8281107604503632,
+          "orbit": {
+            "radiusAU": 1.8908096531769998,
+            "periodDays": 1400.1772759649953,
+            "phase": 3.115887967170238
+          },
+          "rotationHours": 247.6966305449605,
+          "axialTilt": 0.5382613322697579,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 562382216,
+            "color": "#75afa7",
+            "accent": "#e3ece2",
+            "atmosphere": 0.16,
+            "atmosphereColor": "#a1ddd6",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 24,
+            "Volatiles": 81
+          }
+        },
+        {
+          "id": "s-1bqyqp7-3-p4",
+          "name": "Umbra",
+          "kind": "volcanic",
+          "radiusEarth": 1.0477221311070024,
+          "orbit": {
+            "radiusAU": 2.8011815487074534,
+            "periodDays": 2524.7779825990465,
+            "phase": 5.495731475414768
+          },
+          "rotationHours": 514.4643025752157,
+          "axialTilt": 0.34911078410223123,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 679825549,
+            "color": "#322c31",
+            "accent": "#ff7332",
+            "atmosphere": 0,
+            "atmosphereColor": "#d77b54",
+            "rings": {
+              "innerRadius": 1.3849812055379154,
+              "outerRadius": 2.0952044985070826,
+              "color": "#c2a08b",
+              "opacity": 0.5539641801104881
+            }
+          },
+          "resources": {
+            "Metals": 70,
+            "Volatiles": 0
+          }
+        },
+        {
+          "id": "s-1bqyqp7-3-p5",
+          "name": "Opaline",
+          "kind": "rocky",
+          "radiusEarth": 0.540340235887561,
+          "orbit": {
+            "radiusAU": 6.582776639462516,
+            "periodDays": 9095.466689537487,
+            "phase": 1.6189245491214983
+          },
+          "rotationHours": 313.05234286002815,
+          "axialTilt": 0.16207138672471047,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 663047930,
+            "color": "#886f66",
+            "accent": "#c6afa0",
+            "atmosphere": 0,
+            "atmosphereColor": "#a79691",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 61,
+            "Volatiles": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "s-1bqyqp7-4",
+      "name": "Vesper",
+      "position": [
+        10.762488727594574,
+        2.1506468808774395,
+        8.789654997955365
+      ],
+      "plane": {
+        "tilt": 0.17092907846672462,
+        "node": 0.25420342754167713
+      },
+      "star": {
+        "id": "s-1bqyqp7-4-star",
+        "name": "Vesper",
+        "spectralClass": "G",
+        "massSolar": 1.04,
+        "radiusSolar": 1.1,
+        "temperatureK": 5870,
+        "color": "#ffdfac"
+      },
+      "planets": [
+        {
+          "id": "s-1bqyqp7-4-p0",
+          "name": "Opaline",
+          "kind": "gas",
+          "radiusEarth": 6.199526923708618,
+          "orbit": {
+            "radiusAU": 0.4048119340227684,
+            "periodDays": 92.24726860010229,
+            "phase": 2.2847294131097495
+          },
+          "rotationHours": 172.64129780698568,
+          "axialTilt": -0.20701559269800782,
+          "moonCount": 3,
+          "appearance": {
+            "seed": 4072466572,
+            "color": "#9c786f",
+            "accent": "#e6d3b9",
+            "atmosphere": 0.45,
+            "atmosphereColor": "#ebc3ad",
+            "rings": {
+              "innerRadius": 1.4,
+              "outerRadius": 2.648794137826189,
+              "color": "#d8c5a1",
+              "opacity": 0.7550542479846626
+            }
+          },
+          "resources": {
+            "Metals": 0,
+            "Volatiles": 62
+          }
+        },
+        {
+          "id": "s-1bqyqp7-4-p1",
+          "name": "Dune",
+          "kind": "crystalline",
+          "radiusEarth": 1.8690267047844826,
+          "orbit": {
+            "radiusAU": 0.6246885354721204,
+            "periodDays": 176.8352572217357,
+            "phase": 4.632326276931867
+          },
+          "rotationHours": 352.8147607622668,
+          "axialTilt": 0.3625104071572423,
+          "moonCount": 2,
+          "appearance": {
+            "seed": 4089244191,
+            "color": "#554577",
+            "accent": "#d6c6f6",
+            "atmosphere": 0,
+            "atmosphereColor": "#abb4de",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 69,
+            "Volatiles": 68
+          }
+        },
+        {
+          "id": "s-1bqyqp7-4-p2",
+          "name": "Cirrus",
+          "kind": "volcanic",
+          "radiusEarth": 1.8001660258509218,
+          "orbit": {
+            "radiusAU": 1.468018058359483,
+            "periodDays": 637.0457928108113,
+            "phase": 0.42854980926214026
+          },
+          "rotationHours": 275.74268891941756,
+          "axialTilt": 0.42909641219303013,
+          "moonCount": 0,
+          "appearance": {
+            "seed": 4106021810,
+            "color": "#322c31",
+            "accent": "#ff7332",
+            "atmosphere": 0,
+            "atmosphereColor": "#d77b54",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 69,
+            "Volatiles": 0
+          }
+        },
+        {
+          "id": "s-1bqyqp7-4-p3",
+          "name": "Glacia",
+          "kind": "rocky",
+          "radiusEarth": 0.49486340121366085,
+          "orbit": {
+            "radiusAU": 2.447369559169236,
+            "periodDays": 1371.2697189364676,
+            "phase": 3.029566467412769
+          },
+          "rotationHours": 306.8506815517321,
+          "axialTilt": 0.3424544071778655,
+          "moonCount": 2,
+          "appearance": {
+            "seed": 4122799429,
+            "color": "#56606e",
+            "accent": "#b2b9c7",
+            "atmosphere": 0,
+            "atmosphereColor": "#b3cad3",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 70,
+            "Volatiles": 0
+          }
+        },
+        {
+          "id": "s-1bqyqp7-4-p4",
+          "name": "Ember",
+          "kind": "desert",
+          "radiusEarth": 1.6750506245531143,
+          "orbit": {
+            "radiusAU": 4.095268623379434,
+            "periodDays": 2968.2272368182475,
+            "phase": 5.622320502601621
+          },
+          "rotationHours": 599.3501073727384,
+          "axialTilt": -0.16799692818894982,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 4005356096,
+            "color": "#945e50",
+            "accent": "#dcc29b",
+            "atmosphere": 0.22,
+            "atmosphereColor": "#df9777",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 79,
+            "Volatiles": 16
+          }
+        },
+        {
+          "id": "s-1bqyqp7-4-p5",
+          "name": "Cinder",
+          "kind": "crystalline",
+          "radiusEarth": 0.9635127681307495,
+          "orbit": {
+            "radiusAU": 6.59136684948509,
+            "periodDays": 6060.895276623138,
+            "phase": 1.903270743128001
+          },
+          "rotationHours": 618.3869786374271,
+          "axialTilt": 0.5074610288254916,
+          "moonCount": 0,
+          "appearance": {
+            "seed": 4022133715,
+            "color": "#32717e",
+            "accent": "#aae7e3",
+            "atmosphere": 0,
+            "atmosphereColor": "#a4d0de",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 49,
+            "Volatiles": 58
+          }
+        },
+        {
+          "id": "s-1bqyqp7-4-p6",
+          "name": "Pelagos",
+          "kind": "gas",
+          "radiusEarth": 7.975496440194547,
+          "orbit": {
+            "radiusAU": 10.514272296516456,
+            "periodDays": 12210.75127691104,
+            "phase": 3.9708603005103136
+          },
+          "rotationHours": 537.7880361676216,
+          "axialTilt": -0.12123785829171538,
+          "moonCount": 2,
+          "appearance": {
+            "seed": 4038911334,
+            "color": "#9c786f",
+            "accent": "#e6d3b9",
+            "atmosphere": 0.45,
+            "atmosphereColor": "#ebc3ad",
+            "rings": {
+              "innerRadius": 1.4,
+              "outerRadius": 2.5776508297538383,
+              "color": "#d8c5a1",
+              "opacity": 0.8331635221838951
+            }
+          },
+          "resources": {
+            "Metals": 0,
+            "Volatiles": 70
+          }
+        },
+        {
+          "id": "s-1bqyqp7-4-p7",
+          "name": "Serein",
+          "kind": "ice",
+          "radiusEarth": 1.1168349091894925,
+          "orbit": {
+            "radiusAU": 16.839718279227803,
+            "periodDays": 24750.033293120694,
+            "phase": 0.17813400205705676
+          },
+          "rotationHours": 384.7143442882225,
+          "axialTilt": 0.05472159963101148,
+          "moonCount": 0,
+          "appearance": {
+            "seed": 4055688953,
+            "color": "#96c8d0",
+            "accent": "#e6e8db",
+            "atmosphere": 0.16,
+            "atmosphereColor": "#91d8ea",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 32,
+            "Volatiles": 70
+          }
+        }
+      ]
+    },
+    {
+      "id": "s-1bqyqp7-5",
+      "name": "Cyrene",
+      "position": [
+        9.830358020099336,
+        0.6496673694570962,
+        -6.082835537059857
+      ],
+      "plane": {
+        "tilt": 0.019502866268157962,
+        "node": 5.011249825572777
+      },
+      "star": {
+        "id": "s-1bqyqp7-5-star",
+        "name": "Cyrene",
+        "spectralClass": "A",
+        "massSolar": 1.9,
+        "radiusSolar": 1.7,
+        "temperatureK": 8840,
+        "color": "#a8d8ff"
+      },
+      "planets": [
+        {
+          "id": "s-1bqyqp7-5-p0",
+          "name": "Cinder",
+          "kind": "volcanic",
+          "radiusEarth": 0.937308172788471,
+          "orbit": {
+            "radiusAU": 0.3369602573605254,
+            "periodDays": 51.8300282963567,
+            "phase": 2.0189224311419873
+          },
+          "rotationHours": 135.7561965752393,
+          "axialTilt": 0.5065677626989782,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 3889772847,
+            "color": "#252632",
+            "accent": "#f47732",
+            "atmosphere": 0,
+            "atmosphereColor": "#e77c59",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 57,
+            "Volatiles": 0
+          }
+        },
+        {
+          "id": "s-1bqyqp7-5-p1",
+          "name": "Pelagos",
+          "kind": "metallic",
+          "radiusEarth": 0.91782058570534,
+          "orbit": {
+            "radiusAU": 0.5305610675083934,
+            "periodDays": 102.40389877855716,
+            "phase": 4.38228701744783
+          },
+          "rotationHours": 306.18086248170584,
+          "axialTilt": 0.48160543078556656,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 3872995228,
+            "color": "#555968",
+            "accent": "#d7b78a",
+            "atmosphere": 0,
+            "atmosphereColor": "#a9abb1",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 85,
+            "Volatiles": 0
+          }
+        },
+        {
+          "id": "s-1bqyqp7-5-p2",
+          "name": "Serein",
+          "kind": "metallic",
+          "radiusEarth": 1.9474685047753155,
+          "orbit": {
+            "radiusAU": 0.7954023024813078,
+            "periodDays": 187.97222834429547,
+            "phase": 0.5989202923811812
+          },
+          "rotationHours": 513.7937438022345,
+          "axialTilt": 0.015720071364194153,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 3923328085,
+            "color": "#6c5655",
+            "accent": "#c9ab9b",
+            "atmosphere": 0,
+            "atmosphereColor": "#bcb0a3",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 86,
+            "Volatiles": 0
+          }
+        },
+        {
+          "id": "s-1bqyqp7-5-p3",
+          "name": "Aureole",
+          "kind": "ocean",
+          "radiusEarth": 0.8883188670501113,
+          "orbit": {
+            "radiusAU": 1.2420974729147927,
+            "periodDays": 366.81487724080193,
+            "phase": 2.943553812009304
+          },
+          "rotationHours": 313.77592974342406,
+          "axialTilt": -0.1409312236122787,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 3906550466,
+            "color": "#225869",
+            "accent": "#849975",
+            "atmosphere": 0.7,
+            "atmosphereColor": "#81d1cd",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 37,
+            "Volatiles": 75
+          }
+        },
+        {
+          "id": "s-1bqyqp7-5-p4",
+          "name": "Nivalis",
+          "kind": "gas",
+          "radiusEarth": 8.619673744775355,
+          "orbit": {
+            "radiusAU": 1.902068322359665,
+            "periodDays": 695.1084904497538,
+            "phase": 5.716379720788506
+          },
+          "rotationHours": 452.4387457687408,
+          "axialTilt": -0.2801353119313717,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 3822662371,
+            "color": "#9c786f",
+            "accent": "#e6d3b9",
+            "atmosphere": 0.45,
+            "atmosphereColor": "#ebc3ad",
+            "rings": {
+              "innerRadius": 1.4,
+              "outerRadius": 2.615093488432467,
+              "color": "#91b5c5",
+              "opacity": 0.8423435083124786
+            }
+          },
+          "resources": {
+            "Metals": 0,
+            "Volatiles": 69
+          }
+        },
+        {
+          "id": "s-1bqyqp7-5-p5",
+          "name": "Saffron",
+          "kind": "ice",
+          "radiusEarth": 1.8283570805564522,
+          "orbit": {
+            "radiusAU": 2.8781545324722537,
+            "periodDays": 1293.8519549594569,
+            "phase": 1.5112157090959073
+          },
+          "rotationHours": 336.4787041256204,
+          "axialTilt": -0.28892389219254255,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 3805884752,
+            "color": "#75afa7",
+            "accent": "#e3ece2",
+            "atmosphere": 0.16,
+            "atmosphereColor": "#a1ddd6",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 42,
+            "Volatiles": 88
+          }
+        }
+      ]
+    },
+    {
+      "id": "s-1bqyqp7-6",
+      "name": "Solenne",
+      "position": [
+        -9.511404234411868,
+        -1.7921307786848546,
+        6.956597177224121
+      ],
+      "plane": {
+        "tilt": 0.09814164857380094,
+        "node": 4.166684227191312
+      },
+      "star": {
+        "id": "s-1bqyqp7-6-star",
+        "name": "Solenne",
+        "spectralClass": "K",
+        "massSolar": 0.78,
+        "radiusSolar": 0.82,
+        "temperatureK": 4650,
+        "color": "#ffb98e"
+      },
+      "planets": [
+        {
+          "id": "s-1bqyqp7-6-p0",
+          "name": "Saffron",
+          "kind": "metallic",
+          "radiusEarth": 1.0035228801891207,
+          "orbit": {
+            "radiusAU": 0.9615305633846204,
+            "periodDays": 389.93082023619866,
+            "phase": 2.275427461395889
+          },
+          "rotationHours": 334.4125798949972,
+          "axialTilt": 0.5026415783911943,
+          "moonCount": 0,
+          "appearance": {
+            "seed": 823125306,
+            "color": "#555968",
+            "accent": "#d7b78a",
+            "atmosphere": 0,
+            "atmosphereColor": "#a9abb1",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 81,
+            "Volatiles": 0
+          }
+        },
+        {
+          "id": "s-1bqyqp7-6-p1",
+          "name": "Obsidian",
+          "kind": "ocean",
+          "radiusEarth": 0.8319750087335707,
+          "orbit": {
+            "radiusAU": 1.7238855257785404,
+            "periodDays": 936.064032374957,
+            "phase": 4.552833356527566
+          },
+          "rotationHours": 588.7013732036576,
+          "axialTilt": 0.028329774923622607,
+          "moonCount": 0,
+          "appearance": {
+            "seed": 839902925,
+            "color": "#225869",
+            "accent": "#849975",
+            "atmosphere": 0.7,
+            "atmosphereColor": "#81d1cd",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 47,
+            "Volatiles": 77
+          }
+        },
+        {
+          "id": "s-1bqyqp7-6-p2",
+          "name": "Thalassa",
+          "kind": "gas",
+          "radiusEarth": 8.359345331788063,
+          "orbit": {
+            "radiusAU": 2.966948754774495,
+            "periodDays": 2113.5279288531533,
+            "phase": 0.7995185990091249
+          },
+          "rotationHours": 203.51184451021254,
+          "axialTilt": -0.393235632777214,
+          "moonCount": 3,
+          "appearance": {
+            "seed": 789570068,
+            "color": "#bc8e62",
+            "accent": "#f4dbaf",
+            "atmosphere": 0.45,
+            "atmosphereColor": "#f9d0a0",
+            "rings": {
+              "innerRadius": 1.4,
+              "outerRadius": 2.531729432241991,
+              "color": "#d8c5a1",
+              "opacity": 0.7483745987061411
+            }
+          },
+          "resources": {
+            "Metals": 0,
+            "Volatiles": 65
+          }
+        },
+        {
+          "id": "s-1bqyqp7-6-p3",
+          "name": "Ivoire",
+          "kind": "ice",
+          "radiusEarth": 1.9662124186754226,
+          "orbit": {
+            "radiusAU": 5.244099270518888,
+            "periodDays": 4966.486732834488,
+            "phase": 3.3794977773903163
+          },
+          "rotationHours": 435.35063055343926,
+          "axialTilt": -0.08716689851135015,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 806347687,
+            "color": "#75afa7",
+            "accent": "#e3ece2",
+            "atmosphere": 0.16,
+            "atmosphereColor": "#a1ddd6",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 41,
+            "Volatiles": 65
+          }
+        },
+        {
+          "id": "s-1bqyqp7-6-p4",
+          "name": "Caldera",
+          "kind": "volcanic",
+          "radiusEarth": 1.174430752824992,
+          "orbit": {
+            "radiusAU": 8.570894437727569,
+            "periodDays": 10377.246727675754,
+            "phase": 5.576963825268731
+          },
+          "rotationHours": 377.4498864123598,
+          "axialTilt": -0.07861543502658605,
+          "moonCount": 2,
+          "appearance": {
+            "seed": 756014830,
+            "color": "#322c31",
+            "accent": "#ff7332",
+            "atmosphere": 0,
+            "atmosphereColor": "#d77b54",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 56,
+            "Volatiles": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "s-1bqyqp7-7",
+      "name": "Nacre",
+      "position": [
+        9.570884362623868,
+        2.5840912554121633,
+        0.47753815501909413
+      ],
+      "plane": {
+        "tilt": 0.03460826977388934,
+        "node": 4.110269562231216
+      },
+      "star": {
+        "id": "s-1bqyqp7-7-star",
+        "name": "Nacre",
+        "spectralClass": "F",
+        "massSolar": 1.3,
+        "radiusSolar": 1.25,
+        "temperatureK": 6710,
+        "color": "#e5edff"
+      },
+      "planets": [
+        {
+          "id": "s-1bqyqp7-7-p0",
+          "name": "Zephyr",
+          "kind": "gas",
+          "radiusEarth": 6.283059942536056,
+          "orbit": {
+            "radiusAU": 0.8600880474095,
+            "periodDays": 255.5247175894055,
+            "phase": 2.4833631206573097
+          },
+          "rotationHours": 157.41543495561928,
+          "axialTilt": 0.17281328821554778,
+          "moonCount": 4,
+          "appearance": {
+            "seed": 4062996621,
+            "color": "#557f96",
+            "accent": "#c1d5cd",
+            "atmosphere": 0.45,
+            "atmosphereColor": "#a5d4df",
+            "rings": {
+              "innerRadius": 1.4,
+              "outerRadius": 2.5742611734429373,
+              "color": "#91b5c5",
+              "opacity": 0.7986863634549081
+            }
+          },
+          "resources": {
+            "Metals": 0,
+            "Volatiles": 87
+          }
+        },
+        {
+          "id": "s-1bqyqp7-7-p1",
+          "name": "Solace",
+          "kind": "ice",
+          "radiusEarth": 1.6657077088020742,
+          "orbit": {
+            "radiusAU": 1.4219307009406825,
+            "periodDays": 543.1705252300819,
+            "phase": 4.400212723907039
+          },
+          "rotationHours": 245.3917693393305,
+          "axialTilt": 0.5213128245435655,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 4046219002,
+            "color": "#739cbc",
+            "accent": "#dae5f4",
+            "atmosphere": 0.16,
+            "atmosphereColor": "#95c8ed",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 19,
+            "Volatiles": 87
+          }
+        },
+        {
+          "id": "s-1bqyqp7-7-p2",
+          "name": "Rhea",
+          "kind": "volcanic",
+          "radiusEarth": 1.8651731111109258,
+          "orbit": {
+            "radiusAU": 2.4087341968891653,
+            "periodDays": 1197.5726415161068,
+            "phase": 0.9091844218987815
+          },
+          "rotationHours": 385.8034056657925,
+          "axialTilt": 0.5755579238757491,
+          "moonCount": 1,
+          "appearance": {
+            "seed": 4029441383,
+            "color": "#322c31",
+            "accent": "#ff7332",
+            "atmosphere": 0,
+            "atmosphereColor": "#d77b54",
+            "rings": {
+              "innerRadius": 1.4097772640734911,
+              "outerRadius": 2.271485286774114,
+              "color": "#c2a08b",
+              "opacity": 0.620603751228191
+            }
+          },
+          "resources": {
+            "Metals": 71,
+            "Volatiles": 12
+          }
+        },
+        {
+          "id": "s-1bqyqp7-7-p3",
+          "name": "Sable",
+          "kind": "rocky",
+          "radiusEarth": 0.8635991074726916,
+          "orbit": {
+            "radiusAU": 4.058554135926499,
+            "periodDays": 2619.241621581382,
+            "phase": 3.3457600123705546
+          },
+          "rotationHours": 481.35626258328557,
+          "axialTilt": 0.4371821005828678,
+          "moonCount": 0,
+          "appearance": {
+            "seed": 4012663764,
+            "color": "#886f66",
+            "accent": "#c6afa0",
+            "atmosphere": 0,
+            "atmosphereColor": "#a79691",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 67,
+            "Volatiles": 12
+          }
+        },
+        {
+          "id": "s-1bqyqp7-7-p4",
+          "name": "Halcyon",
+          "kind": "desert",
+          "radiusEarth": 1.7675808805041016,
+          "orbit": {
+            "radiusAU": 7.274157502283894,
+            "periodDays": 6284.816455731718,
+            "phase": 5.720311955014303
+          },
+          "rotationHours": 428.58787545002997,
+          "axialTilt": -0.016048034001141787,
+          "moonCount": 0,
+          "appearance": {
+            "seed": 3995886145,
+            "color": "#bd6241",
+            "accent": "#efbf83",
+            "atmosphere": 0.22,
+            "atmosphereColor": "#eab175",
+            "rings": null
+          },
+          "resources": {
+            "Metals": 79,
+            "Volatiles": 26
+          }
+        }
+      ]
+    }
+  ]
+}

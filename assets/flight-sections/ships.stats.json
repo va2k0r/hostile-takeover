@@ -1,0 +1,1268 @@
+{
+  "source": "public/assets/ship-sections/sections.glb",
+  "sourceSha256": "8eb54f0fa4d1ee3c65414a5d52bb58029d2ad59e846673dbc9e9b7080e6225bd",
+  "sha256": "2c9df25c614c0638c3f1509537443aed331771e7a57457f5e95c46f5e8bd52c6",
+  "bytes": 8154876,
+  "sections": [
+    {
+      "name": "fighter-bow-needle",
+      "sourceTriangles": 1803,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1197,
+          "error": 0.023557
+        },
+        {
+          "triangles": 203,
+          "error": 0.0844118
+        }
+      ]
+    },
+    {
+      "name": "fighter-bow-kite",
+      "sourceTriangles": 2847,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1213,
+          "error": 0.036399
+        },
+        {
+          "triangles": 217,
+          "error": 0.1555436
+        }
+      ]
+    },
+    {
+      "name": "fighter-bow-mandibles",
+      "sourceTriangles": 10612,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1292,
+          "error": 0.0397613
+        },
+        {
+          "triangles": 223,
+          "error": 0.153059
+        }
+      ]
+    },
+    {
+      "name": "fighter-bow-visor",
+      "sourceTriangles": 3816,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1236,
+          "error": 0.0390885
+        },
+        {
+          "triangles": 221,
+          "error": 0.1655185
+        }
+      ]
+    },
+    {
+      "name": "fighter-bow-wingswept",
+      "sourceTriangles": 4556,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1197,
+          "error": 0.0174604
+        },
+        {
+          "triangles": 215,
+          "error": 0.068871
+        }
+      ]
+    },
+    {
+      "name": "fighter-bow-orbital-eye",
+      "sourceTriangles": 3726,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1208,
+          "error": 0.0394359
+        },
+        {
+          "triangles": 208,
+          "error": 0.155941
+        }
+      ]
+    },
+    {
+      "name": "fighter-bow-berth-launch",
+      "sourceTriangles": 660,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 660,
+          "error": 0
+        },
+        {
+          "triangles": 197,
+          "error": 0.0339013
+        }
+      ]
+    },
+    {
+      "name": "fighter-mid-delta",
+      "sourceTriangles": 6156,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 1211,
+          "error": 0.0390898
+        },
+        {
+          "triangles": 227,
+          "error": 0.175929
+        }
+      ]
+    },
+    {
+      "name": "fighter-mid-coupled",
+      "sourceTriangles": 16398,
+      "draws": 5,
+      "levels": [
+        {
+          "triangles": 1462,
+          "error": 0.0397681
+        },
+        {
+          "triangles": 457,
+          "error": 0.1767243
+        }
+      ]
+    },
+    {
+      "name": "fighter-mid-blade",
+      "sourceTriangles": 6968,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1397,
+          "error": 0.03973
+        },
+        {
+          "triangles": 234,
+          "error": 0.1793742
+        }
+      ]
+    },
+    {
+      "name": "fighter-mid-dart",
+      "sourceTriangles": 1919,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1198,
+          "error": 0.0370657
+        },
+        {
+          "triangles": 217,
+          "error": 0.1755531
+        }
+      ]
+    },
+    {
+      "name": "fighter-mid-turbines",
+      "sourceTriangles": 27745,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1245,
+          "error": 0.0388059
+        },
+        {
+          "triangles": 230,
+          "error": 0.096212
+        }
+      ]
+    },
+    {
+      "name": "fighter-stern-jet",
+      "sourceTriangles": 2665,
+      "draws": 7,
+      "levels": [
+        {
+          "triangles": 1219,
+          "error": 0.0383824
+        },
+        {
+          "triangles": 214,
+          "error": 0.1702866
+        }
+      ]
+    },
+    {
+      "name": "fighter-stern-forked",
+      "sourceTriangles": 11429,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 1275,
+          "error": 0.0398283
+        },
+        {
+          "triangles": 220,
+          "error": 0.1772574
+        }
+      ]
+    },
+    {
+      "name": "fighter-stern-fan",
+      "sourceTriangles": 8596,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 1232,
+          "error": 0.0395737
+        },
+        {
+          "triangles": 214,
+          "error": 0.1360861
+        }
+      ]
+    },
+    {
+      "name": "fighter-stern-vertical",
+      "sourceTriangles": 2999,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 1275,
+          "error": 0.0397836
+        },
+        {
+          "triangles": 210,
+          "error": 0.1794731
+        }
+      ]
+    },
+    {
+      "name": "fighter-stern-thrust-frame",
+      "sourceTriangles": 3848,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 1196,
+          "error": 0.0397222
+        },
+        {
+          "triangles": 207,
+          "error": 0.1134198
+        }
+      ]
+    },
+    {
+      "name": "capital-bow-lance",
+      "sourceTriangles": 1842,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1842,
+          "error": 0
+        },
+        {
+          "triangles": 282,
+          "error": 0.1035104
+        }
+      ]
+    },
+    {
+      "name": "capital-bow-anvil",
+      "sourceTriangles": 1856,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1856,
+          "error": 0
+        },
+        {
+          "triangles": 279,
+          "error": 0.176758
+        }
+      ]
+    },
+    {
+      "name": "capital-bow-ram",
+      "sourceTriangles": 3612,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2029,
+          "error": 0.0389554
+        },
+        {
+          "triangles": 290,
+          "error": 0.1508666
+        }
+      ]
+    },
+    {
+      "name": "capital-bow-breach",
+      "sourceTriangles": 5185,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2012,
+          "error": 0.0395906
+        },
+        {
+          "triangles": 292,
+          "error": 0.1409965
+        }
+      ]
+    },
+    {
+      "name": "capital-bow-derelict-prow",
+      "sourceTriangles": 9463,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1996,
+          "error": 0.0257058
+        },
+        {
+          "triangles": 289,
+          "error": 0.1228864
+        }
+      ]
+    },
+    {
+      "name": "capital-bow-native-lance",
+      "sourceTriangles": 2215,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1997,
+          "error": 0.0056276
+        },
+        {
+          "triangles": 277,
+          "error": 0.0689818
+        }
+      ]
+    },
+    {
+      "name": "capital-mid-citadel",
+      "sourceTriangles": 3700,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2015,
+          "error": 0.0393421
+        },
+        {
+          "triangles": 298,
+          "error": 0.1726603
+        }
+      ]
+    },
+    {
+      "name": "capital-mid-broadside",
+      "sourceTriangles": 13648,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2112,
+          "error": 0.039959
+        },
+        {
+          "triangles": 306,
+          "error": 0.1638657
+        }
+      ]
+    },
+    {
+      "name": "capital-mid-cruciform",
+      "sourceTriangles": 9484,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2087,
+          "error": 0.0394502
+        },
+        {
+          "triangles": 312,
+          "error": 0.1787972
+        }
+      ]
+    },
+    {
+      "name": "capital-mid-monitor",
+      "sourceTriangles": 2180,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 1997,
+          "error": 0.022655
+        },
+        {
+          "triangles": 290,
+          "error": 0.137288
+        }
+      ]
+    },
+    {
+      "name": "capital-mid-derelict-vault",
+      "sourceTriangles": 9772,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1998,
+          "error": 0.0250196
+        },
+        {
+          "triangles": 292,
+          "error": 0.1589127
+        }
+      ]
+    },
+    {
+      "name": "capital-mid-native-broadside",
+      "sourceTriangles": 2196,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1997,
+          "error": 0.0198543
+        },
+        {
+          "triangles": 277,
+          "error": 0.0943943
+        }
+      ]
+    },
+    {
+      "name": "capital-stern-battery",
+      "sourceTriangles": 4164,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 1998,
+          "error": 0.0313672
+        },
+        {
+          "triangles": 273,
+          "error": 0.1482919
+        }
+      ]
+    },
+    {
+      "name": "capital-stern-bastion",
+      "sourceTriangles": 4436,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 2023,
+          "error": 0.0396166
+        },
+        {
+          "triangles": 293,
+          "error": 0.1715189
+        }
+      ]
+    },
+    {
+      "name": "capital-stern-booms",
+      "sourceTriangles": 11429,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 2051,
+          "error": 0.0391891
+        },
+        {
+          "triangles": 292,
+          "error": 0.1733504
+        }
+      ]
+    },
+    {
+      "name": "capital-stern-spires",
+      "sourceTriangles": 7259,
+      "draws": 7,
+      "levels": [
+        {
+          "triangles": 2116,
+          "error": 0.0389894
+        },
+        {
+          "triangles": 304,
+          "error": 0.1778331
+        }
+      ]
+    },
+    {
+      "name": "capital-stern-derelict-quarter",
+      "sourceTriangles": 9419,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1996,
+          "error": 0.0265424
+        },
+        {
+          "triangles": 292,
+          "error": 0.0922717
+        }
+      ]
+    },
+    {
+      "name": "capital-stern-native-engines",
+      "sourceTriangles": 845,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 845,
+          "error": 0
+        },
+        {
+          "triangles": 279,
+          "error": 0.0317517
+        }
+      ]
+    },
+    {
+      "name": "cargo-bow-tug",
+      "sourceTriangles": 1856,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1856,
+          "error": 0
+        },
+        {
+          "triangles": 282,
+          "error": 0.1704565
+        }
+      ]
+    },
+    {
+      "name": "cargo-bow-cab",
+      "sourceTriangles": 2484,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1999,
+          "error": 0.0210404
+        },
+        {
+          "triangles": 291,
+          "error": 0.1306504
+        }
+      ]
+    },
+    {
+      "name": "cargo-bow-forklift",
+      "sourceTriangles": 5302,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2011,
+          "error": 0.0390001
+        },
+        {
+          "triangles": 288,
+          "error": 0.1664863
+        }
+      ]
+    },
+    {
+      "name": "cargo-bow-observation",
+      "sourceTriangles": 3612,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2023,
+          "error": 0.0390252
+        },
+        {
+          "triangles": 293,
+          "error": 0.1682703
+        }
+      ]
+    },
+    {
+      "name": "cargo-bow-boxcab",
+      "sourceTriangles": 3351,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1995,
+          "error": 0.0186992
+        },
+        {
+          "triangles": 283,
+          "error": 0.1630223
+        }
+      ]
+    },
+    {
+      "name": "cargo-bow-observatory",
+      "sourceTriangles": 3726,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1991,
+          "error": 0.0227668
+        },
+        {
+          "triangles": 284,
+          "error": 0.1511493
+        }
+      ]
+    },
+    {
+      "name": "cargo-bow-berth-courier",
+      "sourceTriangles": 509,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 509,
+          "error": 0
+        },
+        {
+          "triangles": 276,
+          "error": 0.0348892
+        }
+      ]
+    },
+    {
+      "name": "cargo-mid-flatbed",
+      "sourceTriangles": 2079,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 2000,
+          "error": 0.0167958
+        },
+        {
+          "triangles": 286,
+          "error": 0.098589
+        }
+      ]
+    },
+    {
+      "name": "cargo-mid-sidecars",
+      "sourceTriangles": 7184,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 2038,
+          "error": 0.0373587
+        },
+        {
+          "triangles": 305,
+          "error": 0.1736042
+        }
+      ]
+    },
+    {
+      "name": "cargo-mid-tandem",
+      "sourceTriangles": 3652,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 2008,
+          "error": 0.0397421
+        },
+        {
+          "triangles": 288,
+          "error": 0.1101287
+        }
+      ]
+    },
+    {
+      "name": "cargo-mid-crossdock",
+      "sourceTriangles": 4248,
+      "draws": 5,
+      "levels": [
+        {
+          "triangles": 2005,
+          "error": 0.0389378
+        },
+        {
+          "triangles": 307,
+          "error": 0.1286601
+        }
+      ]
+    },
+    {
+      "name": "cargo-mid-container-frame",
+      "sourceTriangles": 3686,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 1974,
+          "error": 0.039296
+        },
+        {
+          "triangles": 284,
+          "error": 0.1247164
+        }
+      ]
+    },
+    {
+      "name": "cargo-stern-drive",
+      "sourceTriangles": 2353,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 1972,
+          "error": 0.0281654
+        },
+        {
+          "triangles": 285,
+          "error": 0.1678371
+        }
+      ]
+    },
+    {
+      "name": "cargo-stern-mules",
+      "sourceTriangles": 2999,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 1996,
+          "error": 0.0295735
+        },
+        {
+          "triangles": 273,
+          "error": 0.1504669
+        }
+      ]
+    },
+    {
+      "name": "cargo-stern-stacker",
+      "sourceTriangles": 11429,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 2133,
+          "error": 0.0391026
+        },
+        {
+          "triangles": 318,
+          "error": 0.1751493
+        }
+      ]
+    },
+    {
+      "name": "cargo-stern-flat",
+      "sourceTriangles": 5848,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 2008,
+          "error": 0.0388234
+        },
+        {
+          "triangles": 284,
+          "error": 0.1283977
+        }
+      ]
+    },
+    {
+      "name": "cargo-stern-carrier-tail",
+      "sourceTriangles": 4016,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1992,
+          "error": 0.0213551
+        },
+        {
+          "triangles": 290,
+          "error": 0.0869655
+        }
+      ]
+    },
+    {
+      "name": "freighter-bow-sounder",
+      "sourceTriangles": 1838,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1838,
+          "error": 0
+        },
+        {
+          "triangles": 280,
+          "error": 0.081628
+        }
+      ]
+    },
+    {
+      "name": "freighter-bow-breaker",
+      "sourceTriangles": 1842,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1842,
+          "error": 0
+        },
+        {
+          "triangles": 284,
+          "error": 0.129767
+        }
+      ]
+    },
+    {
+      "name": "freighter-bow-bonnet",
+      "sourceTriangles": 3816,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2005,
+          "error": 0.0395509
+        },
+        {
+          "triangles": 299,
+          "error": 0.1357795
+        }
+      ]
+    },
+    {
+      "name": "freighter-bow-pickets",
+      "sourceTriangles": 10612,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2075,
+          "error": 0.0399468
+        },
+        {
+          "triangles": 298,
+          "error": 0.1336571
+        }
+      ]
+    },
+    {
+      "name": "freighter-bow-disc-crescent",
+      "sourceTriangles": 14174,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1998,
+          "error": 0.0393746
+        },
+        {
+          "triangles": 280,
+          "error": 0.1563241
+        }
+      ]
+    },
+    {
+      "name": "freighter-mid-inductor",
+      "sourceTriangles": 11548,
+      "draws": 5,
+      "levels": [
+        {
+          "triangles": 2028,
+          "error": 0.0399797
+        },
+        {
+          "triangles": 310,
+          "error": 0.1633458
+        }
+      ]
+    },
+    {
+      "name": "freighter-mid-catamaran",
+      "sourceTriangles": 7116,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 2069,
+          "error": 0.0392941
+        },
+        {
+          "triangles": 309,
+          "error": 0.1794282
+        }
+      ]
+    },
+    {
+      "name": "freighter-mid-carrier",
+      "sourceTriangles": 2096,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 1999,
+          "error": 0.0313255
+        },
+        {
+          "triangles": 289,
+          "error": 0.0614307
+        }
+      ]
+    },
+    {
+      "name": "freighter-mid-keel",
+      "sourceTriangles": 2260,
+      "draws": 5,
+      "levels": [
+        {
+          "triangles": 1997,
+          "error": 0.031522
+        },
+        {
+          "triangles": 288,
+          "error": 0.157166
+        }
+      ]
+    },
+    {
+      "name": "freighter-mid-disc-belt",
+      "sourceTriangles": 29303,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 2063,
+          "error": 0.0387539
+        },
+        {
+          "triangles": 316,
+          "error": 0.1360616
+        }
+      ]
+    },
+    {
+      "name": "freighter-stern-funnel",
+      "sourceTriangles": 4436,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 2024,
+          "error": 0.0397645
+        },
+        {
+          "triangles": 301,
+          "error": 0.1708633
+        }
+      ]
+    },
+    {
+      "name": "freighter-stern-outriggers",
+      "sourceTriangles": 15578,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 2080,
+          "error": 0.0389575
+        },
+        {
+          "triangles": 319,
+          "error": 0.169833
+        }
+      ]
+    },
+    {
+      "name": "freighter-stern-trident",
+      "sourceTriangles": 15404,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 2082,
+          "error": 0.0397725
+        },
+        {
+          "triangles": 300,
+          "error": 0.176477
+        }
+      ]
+    },
+    {
+      "name": "freighter-stern-tower",
+      "sourceTriangles": 7259,
+      "draws": 7,
+      "levels": [
+        {
+          "triangles": 2091,
+          "error": 0.0394297
+        },
+        {
+          "triangles": 301,
+          "error": 0.1709874
+        }
+      ]
+    },
+    {
+      "name": "freighter-stern-disc-quarter",
+      "sourceTriangles": 14174,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2003,
+          "error": 0.0383134
+        },
+        {
+          "triangles": 298,
+          "error": 0.099627
+        }
+      ]
+    },
+    {
+      "name": "freighter-stern-orb-drive",
+      "sourceTriangles": 17623,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2056,
+          "error": 0.0393593
+        },
+        {
+          "triangles": 293,
+          "error": 0.1214986
+        }
+      ]
+    },
+    {
+      "name": "builder-bow-rake",
+      "sourceTriangles": 5290,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2002,
+          "error": 0.0378396
+        },
+        {
+          "triangles": 279,
+          "error": 0.1699366
+        }
+      ]
+    },
+    {
+      "name": "builder-bow-roller",
+      "sourceTriangles": 1856,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1856,
+          "error": 0
+        },
+        {
+          "triangles": 280,
+          "error": 0.1429533
+        }
+      ]
+    },
+    {
+      "name": "builder-bow-pilot",
+      "sourceTriangles": 3612,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 2026,
+          "error": 0.0362026
+        },
+        {
+          "triangles": 289,
+          "error": 0.1588717
+        }
+      ]
+    },
+    {
+      "name": "builder-bow-shear",
+      "sourceTriangles": 1803,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1803,
+          "error": 0
+        },
+        {
+          "triangles": 279,
+          "error": 0.0757023
+        }
+      ]
+    },
+    {
+      "name": "builder-bow-tender-prow",
+      "sourceTriangles": 4772,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1985,
+          "error": 0.0286204
+        },
+        {
+          "triangles": 276,
+          "error": 0.0766362
+        }
+      ]
+    },
+    {
+      "name": "builder-mid-crane",
+      "sourceTriangles": 6576,
+      "draws": 5,
+      "levels": [
+        {
+          "triangles": 2121,
+          "error": 0.0397134
+        },
+        {
+          "triangles": 303,
+          "error": 0.1655535
+        }
+      ]
+    },
+    {
+      "name": "builder-mid-bridge",
+      "sourceTriangles": 4216,
+      "draws": 5,
+      "levels": [
+        {
+          "triangles": 2037,
+          "error": 0.0397859
+        },
+        {
+          "triangles": 294,
+          "error": 0.1676161
+        }
+      ]
+    },
+    {
+      "name": "builder-mid-outrigger",
+      "sourceTriangles": 7568,
+      "draws": 5,
+      "levels": [
+        {
+          "triangles": 2101,
+          "error": 0.039548
+        },
+        {
+          "triangles": 305,
+          "error": 0.16795
+        }
+      ]
+    },
+    {
+      "name": "builder-mid-crawler",
+      "sourceTriangles": 16930,
+      "draws": 5,
+      "levels": [
+        {
+          "triangles": 2104,
+          "error": 0.0398127
+        },
+        {
+          "triangles": 324,
+          "error": 0.1740406
+        }
+      ]
+    },
+    {
+      "name": "builder-mid-tender-frame",
+      "sourceTriangles": 5512,
+      "draws": 5,
+      "levels": [
+        {
+          "triangles": 2044,
+          "error": 0.0382414
+        },
+        {
+          "triangles": 290,
+          "error": 0.1694044
+        }
+      ]
+    },
+    {
+      "name": "builder-mid-orb-chamber",
+      "sourceTriangles": 7136,
+      "draws": 5,
+      "levels": [
+        {
+          "triangles": 2085,
+          "error": 0.0391633
+        },
+        {
+          "triangles": 295,
+          "error": 0.1791164
+        }
+      ]
+    },
+    {
+      "name": "builder-stern-single",
+      "sourceTriangles": 1245,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 1245,
+          "error": 0
+        },
+        {
+          "triangles": 277,
+          "error": 0.1147536
+        }
+      ]
+    },
+    {
+      "name": "builder-stern-split",
+      "sourceTriangles": 6323,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 2000,
+          "error": 0.0397954
+        },
+        {
+          "triangles": 284,
+          "error": 0.1789279
+        }
+      ]
+    },
+    {
+      "name": "builder-stern-wall",
+      "sourceTriangles": 5848,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 2009,
+          "error": 0.0398491
+        },
+        {
+          "triangles": 283,
+          "error": 0.1534391
+        }
+      ]
+    },
+    {
+      "name": "builder-stern-cradle",
+      "sourceTriangles": 11429,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 2142,
+          "error": 0.0397454
+        },
+        {
+          "triangles": 321,
+          "error": 0.1789998
+        }
+      ]
+    },
+    {
+      "name": "builder-stern-tender-drive",
+      "sourceTriangles": 4803,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 1998,
+          "error": 0.0266222
+        },
+        {
+          "triangles": 288,
+          "error": 0.1525282
+        }
+      ]
+    }
+  ]
+}

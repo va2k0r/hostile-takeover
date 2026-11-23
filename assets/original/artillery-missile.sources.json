@@ -1,0 +1,28 @@
+{
+  "title": "Artillery missile",
+  "author": "Hostile Takeover",
+  "source": {
+    "title": "Cylinoid 005",
+    "author": "Gerardo Justel (re1monsen)",
+    "url": "https://www.fab.com/listings/c62f83ef-cc7b-44a3-86d5-e7b9eb4e1915",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sha256": "6363307c3c2ea8e4190ae1eeaf4650521fb81b3de09e619f0d3279a37dbb33c7",
+    "nodes": [
+      "Object_16",
+      "Object_22"
+    ]
+  },
+  "adaptation": "Two decimated and recoloured equipment sections form the rear propulsion jacket and forward collar. The ceramic casing, vanes and nozzle are original to Hostile Takeover.",
+  "axes": {
+    "nose": "+Z",
+    "exhaust": "−Z",
+    "length": 1,
+    "nozzle": [
+      0,
+      0,
+      -0.5
+    ]
+  },
+  "assetSha256": "d1a77d34a21df221c38122793619f5249849cf399f64d7700d61d55aebae1f51"
+}

@@ -1,0 +1,888 @@
+{
+  "name": "Machine sections",
+  "author": "Gerardo Justel (re1monsen)",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "mesh": "sections.glb",
+  "sha256": "692d6e6941f1f50c78feea4195553fea9f84067e0ffc4cb780d4e87945dec025",
+  "bytes": 4028708,
+  "sources": {
+    "drone": {
+      "title": "Drone Concept",
+      "source": "https://www.fab.com/listings/56eeffce-2423-42b8-9c4b-cf44078ad877",
+      "sha256": "1bc6257de85bc074e11c91de81e14da0881fc18c52b8ee2e42eaf081992db547"
+    },
+    "scout": {
+      "title": "Scout Drone Sketch",
+      "source": "https://www.fab.com/listings/d73bfa8e-d1e3-4f8e-b721-4671bb4c0fc7",
+      "sha256": "0f6b0e0a33bc7e0507a4080a8ca5a28c33230d67ab209757ab588d88e783977d"
+    },
+    "copper-guide": {
+      "title": "Copper - Robot Guide",
+      "source": "https://www.fab.com/listings/eaf76a1d-2a68-4bc9-8a32-53a5d9887548",
+      "sha256": "16a7ad35e19b2aebe1c628fc505f94637f9a1cae26acbcdffb053b4cfe23010e"
+    },
+    "dx2-rescue": {
+      "title": "First Aid DX2 - 300 Followers Celebration",
+      "source": "https://www.fab.com/listings/c3902c90-4041-45da-ba49-72661d9387fe",
+      "sha256": "331d3b2ef67964e1e721d2d31168a522619b67c71f6249a9146a705e2099fa30"
+    },
+    "irrigation-control": {
+      "title": "Irrigation control Robot",
+      "source": "https://www.fab.com/listings/4d2f7212-386c-4fd4-9d3a-082e58b1cc38",
+      "sha256": "b3e39ba3fb29b4ef7e6f5ce7e62244c7407ecf3d76465cfed8e9bf363d8a79e5"
+    },
+    "faired-chassis": {
+      "title": "Mixed Workflow 1 - Subd/Cad/Decals/Trims",
+      "source": "https://www.fab.com/listings/f3ad91ea-89ba-470c-8c61-e0b63c729fc8",
+      "sha256": "25fdbd704784fadf08683f5b561df1d99fd5541c334261ab8acf6f27bc2ba5cc",
+      "preparedSha256": "a4d2bec95a2e787f88d0d8b27167fe7a2ce76c2c6ca0be5265d3aa1aebcb559a"
+    }
+  },
+  "componentSources": {
+    "pump-vault": [
+      "irrigation-control"
+    ],
+    "induction-vessel": [
+      "drone"
+    ],
+    "counterflow-header": [
+      "drone",
+      "copper-guide"
+    ],
+    "gimballed-receiver": [
+      "scout"
+    ],
+    "optical-trunk": [
+      "drone"
+    ],
+    "transfer-bearing": [
+      "copper-guide"
+    ]
+  },
+  "sourceFamilies": {
+    "scout": "scout",
+    "receiver": "scout",
+    "rescue": "dx2-rescue",
+    "locker": "dx2-rescue",
+    "carrier": "dx2-rescue",
+    "copper": "copper-guide",
+    "irrigator": "irrigation-control",
+    "pressure": "drone",
+    "grapple": "drone",
+    "fairing": "faired-chassis"
+  },
+  "ships": [
+    {
+      "id": "fighter-bow-axial-optic",
+      "role": "fighter",
+      "slot": "bow",
+      "label": "Axial rangefinder",
+      "source": "scout",
+      "sourceNodes": [
+        "robot.001_low_Glass_0",
+        "robot.002_low_robot_0",
+        "robot.005_low_robot_0",
+        "robot.003_low_robot_0",
+        "robot.004_low_robot_0",
+        "robot_low_robot_0",
+        "robot.006_low_Glass_0",
+        "robot.007_low_Glass_0",
+        "robot.008_low_robot_0",
+        "robot.009_low_robot_0",
+        "robot.010_low_robot_0"
+      ],
+      "sourceAxisInterval": [
+        0.67,
+        0.994
+      ],
+      "rotation": [
+        0,
+        -1.5707963267948966,
+        0
+      ],
+      "donor": "scout-fore",
+      "length": 0.34,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "nativeCut": {
+        "uniformScale": 0.32232,
+        "cutPlanes": [
+          0.01768,
+          0.34
+        ]
+      },
+      "triangles": 6361,
+      "draws": 4
+    },
+    {
+      "id": "fighter-mid-rescue-rotors",
+      "role": "fighter",
+      "slot": "mid",
+      "label": "Four-rotor frame",
+      "source": "dx2-rescue",
+      "sourceNodes": [
+        "Object_16",
+        "Object_20",
+        "Object_22",
+        "Object_25",
+        "Object_27",
+        "Object_29",
+        "Object_31",
+        "Object_33",
+        "Object_35",
+        "Object_37",
+        "Object_39",
+        "Object_41"
+      ],
+      "sourceAxisInterval": [
+        0.035,
+        0.965
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "donor": "rescue-mid",
+      "length": 1.3,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "nativeCut": {
+        "uniformScale": 1.1648,
+        "cutPlanes": [
+          -0.5824,
+          0.5824
+        ]
+      },
+      "triangles": 5620,
+      "draws": 3
+    },
+    {
+      "id": "fighter-stern-turntable",
+      "role": "fighter",
+      "slot": "stern",
+      "label": "Capstan exhaust",
+      "source": "copper-guide",
+      "sourceNodes": [
+        "Object_10",
+        "Object_14",
+        "Object_18",
+        "Object_20",
+        "Object_22",
+        "Object_24",
+        "Object_26",
+        "Object_28",
+        "Object_30",
+        "Object_42",
+        "Object_62"
+      ],
+      "sourceAxisInterval": [
+        0.015,
+        0.292
+      ],
+      "rotation": [
+        1.5707963267948966,
+        0,
+        0
+      ],
+      "donor": "copper-aft",
+      "length": 0.31,
+      "junction": [
+        0.33,
+        0.135
+      ],
+      "nativeCut": {
+        "uniformScale": 0.29388,
+        "cutPlanes": [
+          -0.31,
+          -0.01612
+        ]
+      },
+      "triangles": 6292,
+      "draws": 3
+    },
+    {
+      "id": "capital-bow-recessed-prow",
+      "role": "capital",
+      "slot": "bow",
+      "label": "Recessed bulkhead",
+      "source": "faired-chassis",
+      "sourceNodes": [
+        "Subd_Crate_1.001",
+        "Subd_Crate_1.002",
+        "Subd_Crate_1.003",
+        "Subd_Crate_1.005",
+        "Subd_Crate_1.006",
+        "Subd_Crate_1.008",
+        "Subd_Crate_1.009",
+        "Subd_Crate_1.010",
+        "Subd_Crate_1.011",
+        "Subd_Crate_1.012",
+        "Subd_Crate_1.013",
+        "Subd_Crate_1.018",
+        "Subd_Crate_1.015",
+        "Subd_Crate_1.016",
+        "Subd_Crate_1.017",
+        "Subd_Crate_1.019"
+      ],
+      "sourceAxisInterval": [
+        0.57,
+        0.986
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "donor": "fairing-fore",
+      "length": 1.34,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "nativeCut": {
+        "uniformScale": 1.27032,
+        "cutPlanes": [
+          0.06968,
+          1.34
+        ]
+      },
+      "triangles": 8786,
+      "draws": 6
+    },
+    {
+      "id": "capital-mid-gimbal",
+      "role": "capital",
+      "slot": "mid",
+      "label": "Gimbal ring",
+      "source": "scout",
+      "sourceNodes": [
+        "robot.002_low_robot_0",
+        "robot.005_low_robot_0",
+        "robot.008_low_robot_0",
+        "robot.009_low_robot_0",
+        "robot.010_low_robot_0"
+      ],
+      "sourceAxisInterval": [
+        0.27,
+        0.73
+      ],
+      "rotation": [
+        0,
+        -1.5707963267948966,
+        0
+      ],
+      "donor": "scout-mid",
+      "length": 0.82,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "nativeCut": {
+        "uniformScale": 0.73472,
+        "cutPlanes": [
+          -0.36736,
+          0.36736
+        ]
+      },
+      "triangles": 6479,
+      "draws": 3
+    },
+    {
+      "id": "capital-stern-stator",
+      "role": "capital",
+      "slot": "stern",
+      "label": "Induction stator",
+      "source": "drone",
+      "sourceNodes": [
+        "Object_6",
+        "Object_8",
+        "Object_10",
+        "Object_18",
+        "Object_22",
+        "Object_30",
+        "Object_32",
+        "Object_35",
+        "Object_37",
+        "Object_39",
+        "Object_41",
+        "Object_63"
+      ],
+      "sourceAxisInterval": [
+        0.008,
+        0.295
+      ],
+      "rotation": [
+        1.5707963267948966,
+        0,
+        0
+      ],
+      "donor": "pressure-aft",
+      "length": 1.05,
+      "junction": [
+        0.53,
+        0.285
+      ],
+      "nativeCut": {
+        "uniformScale": 0.9954,
+        "cutPlanes": [
+          -1.05,
+          -0.0546
+        ]
+      },
+      "triangles": 6270,
+      "draws": 3
+    },
+    {
+      "id": "cargo-bow-loading-hatch",
+      "role": "cargo",
+      "slot": "bow",
+      "label": "Loading hatch",
+      "source": "dx2-rescue",
+      "sourceNodes": [
+        "Object_6",
+        "Object_8",
+        "Object_10",
+        "Object_12",
+        "Object_14",
+        "Object_18"
+      ],
+      "sourceAxisInterval": [
+        0.22,
+        0.986
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "donor": "locker-fore",
+      "length": 0.61,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "nativeCut": {
+        "uniformScale": 0.57828,
+        "cutPlanes": [
+          0.03172,
+          0.61
+        ]
+      },
+      "triangles": 2826,
+      "draws": 3
+    },
+    {
+      "id": "cargo-mid-roller-pallet",
+      "role": "cargo",
+      "slot": "mid",
+      "label": "Roller pallet",
+      "source": "dx2-rescue",
+      "sourceNodes": [
+        "Object_43",
+        "Object_45",
+        "Object_47",
+        "Object_55",
+        "Object_57",
+        "Object_63",
+        "Object_65",
+        "Object_67",
+        "Object_73",
+        "Object_75"
+      ],
+      "sourceAxisInterval": [
+        0.17,
+        0.77
+      ],
+      "rotation": [
+        0,
+        -1.5707963267948966,
+        0
+      ],
+      "donor": "carrier-mid",
+      "length": 1.04,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "nativeCut": {
+        "uniformScale": 0.93184,
+        "cutPlanes": [
+          -0.46592,
+          0.46592
+        ]
+      },
+      "cargo": [
+        {
+          "position": [
+            0,
+            -0.01674,
+            -0.2288
+          ],
+          "width": 0.42,
+          "depth": 0.3016
+        },
+        {
+          "position": [
+            0,
+            -0.01674,
+            0.2288
+          ],
+          "width": 0.42,
+          "depth": 0.3016
+        }
+      ],
+      "triangles": 6590,
+      "draws": 4
+    },
+    {
+      "id": "cargo-mid-keel-cage",
+      "role": "cargo",
+      "slot": "mid",
+      "label": "Recessed cargo keel",
+      "source": "faired-chassis",
+      "sourceNodes": [
+        "Subd_Crate_1.001",
+        "Subd_Crate_1.006",
+        "Subd_Crate_1.008",
+        "Subd_Crate_1.009",
+        "Subd_Crate_1.010",
+        "Subd_Crate_1.011",
+        "Subd_Crate_1.012",
+        "Subd_Crate_1.013",
+        "Subd_Crate_1.014",
+        "Subd_Crate_1.018",
+        "Subd_Crate_1.015",
+        "Subd_Crate_1.016",
+        "Subd_Crate_1.017",
+        "Subd_Crate_1.019"
+      ],
+      "sourceAxisInterval": [
+        0.22,
+        0.75
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "donor": "fairing-mid",
+      "length": 1.21,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "nativeCut": {
+        "uniformScale": 1.08416,
+        "cutPlanes": [
+          -0.54208,
+          0.54208
+        ]
+      },
+      "cargo": [
+        {
+          "position": [
+            0,
+            0.4884,
+            -0.2662
+          ],
+          "width": 0.42,
+          "depth": 0.3509
+        },
+        {
+          "position": [
+            0,
+            0.51407,
+            0.2662
+          ],
+          "width": 0.42,
+          "depth": 0.3509
+        }
+      ],
+      "triangles": 9097,
+      "draws": 9
+    },
+    {
+      "id": "cargo-stern-pump-cowl",
+      "role": "cargo",
+      "slot": "stern",
+      "label": "Louvered pump cowl",
+      "source": "irrigation-control",
+      "sourceNodes": [
+        "robot.010_low_robot_0",
+        "robot.004_low_robot_0",
+        "robot.005_low_robot_0",
+        "robot.007_low_robot_0",
+        "robot.009_low_robot_0",
+        "robot.011_low_robot_0",
+        "robot.012_low_robot_0",
+        "robot.015_low_robot_0",
+        "robot.0018__robot_0"
+      ],
+      "sourceAxisInterval": [
+        0.015,
+        0.31
+      ],
+      "rotation": [
+        1.5707963267948966,
+        0,
+        0
+      ],
+      "donor": "irrigator-aft",
+      "length": 0.59,
+      "junction": [
+        0.43,
+        0.2
+      ],
+      "nativeCut": {
+        "uniformScale": 0.55932,
+        "cutPlanes": [
+          -0.59,
+          -0.03068
+        ]
+      },
+      "triangles": 5303,
+      "draws": 3
+    },
+    {
+      "id": "freighter-bow-slant-hood",
+      "role": "freighter",
+      "slot": "bow",
+      "label": "Slant hood",
+      "source": "irrigation-control",
+      "sourceNodes": [
+        "robot.003_low_robot_0",
+        "robot.005_low_robot_0",
+        "robot.006_low_robot_0",
+        "robot.008_low_robot_0",
+        "robot.011_low_robot_0",
+        "robot.012_low_robot_0",
+        "robot.013_low_robot_0",
+        "robot.014_low_robot_0",
+        "robot.015_low_robot_0",
+        "robot_low_robot_0"
+      ],
+      "sourceAxisInterval": [
+        0.68,
+        0.992
+      ],
+      "rotation": [
+        1.5707963267948966,
+        0,
+        0
+      ],
+      "donor": "irrigator-fore",
+      "length": 0.72,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "nativeCut": {
+        "uniformScale": 0.68256,
+        "cutPlanes": [
+          0.03744,
+          0.72
+        ]
+      },
+      "triangles": 6274,
+      "draws": 3
+    },
+    {
+      "id": "freighter-mid-duplex-tanks",
+      "role": "freighter",
+      "slot": "mid",
+      "label": "Duplex pressure tanks",
+      "source": "drone",
+      "sourceNodes": [
+        "Object_6",
+        "Object_10",
+        "Object_12",
+        "Object_53",
+        "Object_63",
+        "Object_67"
+      ],
+      "sourceAxisInterval": [
+        0.29,
+        0.81
+      ],
+      "rotation": [
+        1.5707963267948966,
+        0,
+        0
+      ],
+      "donor": "pressure-mid",
+      "length": 1.61,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "nativeCut": {
+        "uniformScale": 1.44256,
+        "cutPlanes": [
+          -0.72128,
+          0.72128
+        ]
+      },
+      "cargo": [
+        {
+          "position": [
+            -0.49,
+            0.36986,
+            0
+          ],
+          "width": 0.36,
+          "depth": 0.41
+        },
+        {
+          "position": [
+            0.49,
+            0.36986,
+            0
+          ],
+          "width": 0.36,
+          "depth": 0.41
+        }
+      ],
+      "repeatedVessels": 2,
+      "triangles": 12876,
+      "draws": 4
+    },
+    {
+      "id": "freighter-stern-recessed-tail",
+      "role": "freighter",
+      "slot": "stern",
+      "label": "Recessed tailframe",
+      "source": "faired-chassis",
+      "sourceNodes": [
+        "Subd_Crate_1.001",
+        "Subd_Crate_1.002",
+        "Subd_Crate_1.003",
+        "Subd_Crate_1.005",
+        "Subd_Crate_1.006",
+        "Subd_Crate_1.008",
+        "Subd_Crate_1.009",
+        "Subd_Crate_1.010",
+        "Subd_Crate_1.011",
+        "Subd_Crate_1.012",
+        "Subd_Crate_1.013",
+        "Subd_Crate_1.014",
+        "Subd_Crate_1.018",
+        "Subd_Crate_1.015",
+        "Subd_Crate_1.016",
+        "Subd_Crate_1.017",
+        "Subd_Crate_1.019"
+      ],
+      "sourceAxisInterval": [
+        0.012,
+        0.45
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "donor": "fairing-aft",
+      "length": 1.13,
+      "junction": [
+        0.46,
+        0.23
+      ],
+      "nativeCut": {
+        "uniformScale": 1.07124,
+        "cutPlanes": [
+          -1.13,
+          -0.05876
+        ]
+      },
+      "triangles": 8816,
+      "draws": 7
+    },
+    {
+      "id": "builder-bow-capture-tines",
+      "role": "builder",
+      "slot": "bow",
+      "label": "Capture tines",
+      "source": "drone",
+      "sourceNodes": [
+        "Object_8",
+        "Object_18",
+        "Object_22",
+        "Object_30",
+        "Object_32",
+        "Object_35",
+        "Object_37",
+        "Object_39",
+        "Object_41",
+        "Object_43",
+        "Object_55",
+        "Object_57",
+        "Object_59",
+        "Object_61"
+      ],
+      "sourceAxisInterval": [
+        0.05,
+        0.971
+      ],
+      "rotation": [
+        -1.5707963267948966,
+        0,
+        0
+      ],
+      "donor": "grapple-fore",
+      "length": 1.28,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "nativeCut": {
+        "uniformScale": 1.21344,
+        "cutPlanes": [
+          0.06656,
+          1.28
+        ]
+      },
+      "triangles": 6687,
+      "draws": 3
+    },
+    {
+      "id": "builder-mid-service-drum",
+      "role": "builder",
+      "slot": "mid",
+      "label": "Service saddle",
+      "source": "copper-guide",
+      "sourceNodes": [
+        "Object_8",
+        "Object_10",
+        "Object_12",
+        "Object_16",
+        "Object_30",
+        "Object_32",
+        "Object_34",
+        "Object_44",
+        "Object_46",
+        "Object_48",
+        "Object_50",
+        "Object_52",
+        "Object_54",
+        "Object_56",
+        "Object_58",
+        "Object_60"
+      ],
+      "sourceAxisInterval": [
+        0.32,
+        0.965
+      ],
+      "rotation": [
+        1.5707963267948966,
+        0,
+        0
+      ],
+      "donor": "copper-mid",
+      "length": 1.03,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "nativeCut": {
+        "uniformScale": 0.92288,
+        "cutPlanes": [
+          -0.46144,
+          0.46144
+        ]
+      },
+      "arm": {
+        "position": [
+          0,
+          0.36826,
+          0.02575
+        ],
+        "width": 0.31,
+        "depth": 0.31,
+        "scale": 0.71,
+        "yaw": 0.79
+      },
+      "triangles": 7146,
+      "draws": 6
+    },
+    {
+      "id": "builder-stern-recovery-deck",
+      "role": "builder",
+      "slot": "stern",
+      "label": "Recovery deck",
+      "source": "dx2-rescue",
+      "sourceNodes": [
+        "Object_43",
+        "Object_45",
+        "Object_47",
+        "Object_55",
+        "Object_57",
+        "Object_59",
+        "Object_61",
+        "Object_63",
+        "Object_65",
+        "Object_67",
+        "Object_69",
+        "Object_73"
+      ],
+      "sourceAxisInterval": [
+        0.008,
+        0.43
+      ],
+      "rotation": [
+        0,
+        -1.5707963267948966,
+        0
+      ],
+      "donor": "carrier-aft",
+      "length": 0.7,
+      "junction": [
+        0.43,
+        0.22
+      ],
+      "nativeCut": {
+        "uniformScale": 0.6636,
+        "cutPlanes": [
+          -0.7,
+          -0.0364
+        ]
+      },
+      "triangles": 6349,
+      "draws": 3
+    }
+  ],
+  "stations": [
+    {
+      "role": "refinery",
+      "id": "refinery-counterflow",
+      "label": "Counterflow manifold",
+      "radius": 0.48,
+      "pack": "assets/machine-sections/sections.glb",
+      "components": [
+        "pump-vault",
+        "induction-vessel",
+        "counterflow-header"
+      ],
+      "triangles": 42034,
+      "draws": 7
+    },
+    {
+      "role": "subFtlStation",
+      "id": "base-parallax",
+      "label": "Parallax observatory",
+      "radius": 0.62,
+      "pack": "assets/machine-sections/sections.glb",
+      "components": [
+        "gimballed-receiver",
+        "optical-trunk",
+        "transfer-bearing"
+      ],
+      "triangles": 30035,
+      "draws": 5
+    }
+  ]
+}

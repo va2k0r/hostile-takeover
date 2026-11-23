@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="#101517">
+    <title>Fleet workshop · Hostile Takeover</title>
+    <link rel="icon" href="./icon.svg">
+    <script type="module" crossorigin src="./assets/factions-C1FqiNDX.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
+    <link rel="modulepreload" crossorigin href="./assets/three-DdulLeJh.js">
+    <link rel="modulepreload" crossorigin href="./assets/rings-C9wpa78s.js">
+    <link rel="modulepreload" crossorigin href="./assets/Viewer-BEFGLOqs.js">
+    <link rel="modulepreload" crossorigin href="./assets/roster-CBHFiLSm.js">
+    <link rel="modulepreload" crossorigin href="./assets/livery-DJKvQEfz.js">
+    <link rel="stylesheet" crossorigin href="./assets/roster-CDiM7bDn.css">
+    <link rel="stylesheet" crossorigin href="./assets/factions-Bh4wFA2Z.css">
+  </head>
+  <body>
+    <header class="mast">
+      <a class="game-mark" href="./"><img src="./icon.svg" alt=""><span>Hostile Takeover</span></a>
+      <h1>Fleet workshop</h1>
+      <form id="seed-form"><label for="seed">Universe seed</label><div class="seed-control"><input id="seed" required maxlength="100" spellcheck="false" autocomplete="off"><button type="submit">Apply</button></div><button type="button" id="new-seed">New seed</button></form>
+    </header>
+    <main class="foundry">
+      <nav class="directory" aria-labelledby="directory-title"><div class="section-head"><h2 id="directory-title">Factions</h2><span id="faction-count"></span></div><div id="actors"></div></nav>
+      <section class="fleet" aria-labelledby="fleet-title">
+        <div class="section-head"><h2 id="fleet-title">3D workshop</h2><span id="asset-count"></span></div>
+        <div class="workshop-tabs" role="group" aria-label="Model source">
+          <button type="button" id="show-study" aria-pressed="true">Section prototype</button>
+          <button type="button" id="show-canon" aria-pressed="false">In-game model</button>
+        </div>
+        <div class="model-plate">
+          <div class="plate-heading"><p id="class-category"></p><h3 id="class-name"></h3></div>
+          <div id="turntable"></div>
+          <p id="model-status" role="status"></p>
+          <div class="camera-buttons"><button id="fit" type="button">Fit view</button><button id="top" type="button">Top view</button><button id="rotate" type="button" aria-pressed="false">Rotate</button></div>
+        </div>
+        <div id="section-controls">
+          <div class="section-tools"><span id="design-count"></span><button type="button" id="explode" aria-pressed="false">Exploded view</button><button type="button" id="next-design">Next assembly</button></div>
+          <div id="section-selects"></div>
+          <a id="review-design" href="./models.html?tab=review">Review this design in the hangar</a>
+        </div>
+        <fieldset id="assembly" hidden><legend>Installation view</legend><label><input type="radio" name="assembly" value="module">Single sector</label><label><input type="radio" name="assembly" value="orbit" checked>Orbital layout</label></fieldset>
+        <fieldset id="payload" hidden><legend>Payload</legend><label><input type="radio" name="load" value="Metals" checked>Metals</label><label><input type="radio" name="load" value="Volatiles">Volatiles</label></fieldset>
+        <div id="role-list" aria-label="Asset class"></div>
+      </section>
+    </main>
+    <footer><a href="./">Return to game</a><a href="./credits.html#faction-kits">Art credits</a></footer>
+  </body>
+</html>

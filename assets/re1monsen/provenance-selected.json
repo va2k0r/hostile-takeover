@@ -1,0 +1,168 @@
+[
+  {
+    "id": "station06",
+    "title": "1300 Followers Celebration - Space Station",
+    "uid": "d25d7b7a20b9462791fdacc4972c60a9",
+    "fab": "a269ee78-9b9a-49ea-b925-3291de5c0496",
+    "source": "https://www.fab.com/listings/a269ee78-9b9a-49ea-b925-3291de5c0496",
+    "original": "https://sketchfab.com/3d-models/d25d7b7a20b9462791fdacc4972c60a9",
+    "author": "Gerardo Justel (re1monsen)",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "acquiredOn": "2026-11-17",
+    "acquisition": "Fab official anonymous Download, EULA accepted, GLB format",
+    "price": 0,
+    "currency": "EUR",
+    "sourceBytes": 81288152,
+    "sourceSha256": "028a74bd6d8f534e95adc260a7d93ada17847b0262407b44ddcb46bb4b8ae540",
+    "attributionRequired": true,
+    "derivatives": [
+      "station06"
+    ]
+  },
+  {
+    "id": "station13",
+    "title": "Spacestation 7 - Procedural",
+    "uid": "5e8cb801870f4cbc89246ba4f9c8e6b2",
+    "fab": "bf84b4bd-71d7-447d-96ba-9491646fd00f",
+    "source": "https://www.fab.com/listings/bf84b4bd-71d7-447d-96ba-9491646fd00f",
+    "original": "https://sketchfab.com/3d-models/5e8cb801870f4cbc89246ba4f9c8e6b2",
+    "author": "Gerardo Justel (re1monsen)",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "acquiredOn": "2026-11-17",
+    "acquisition": "Fab official anonymous Download, EULA accepted, GLB format",
+    "price": 0,
+    "currency": "EUR",
+    "sourceBytes": 75139704,
+    "sourceSha256": "55c29ae36d7b9a4d7f707866bd286a84ecc0673cf2c6bb7902d04f7a6e9339b5",
+    "attributionRequired": true,
+    "derivatives": [
+      "station13",
+      "mineHeadframe"
+    ]
+  },
+  {
+    "id": "ring3",
+    "title": "Space Station 3",
+    "uid": "a7a6ad10261149cab31aa394bfcf8940",
+    "fab": "192bc415-7e24-4515-993d-fc55dd8a4e53",
+    "source": "https://www.fab.com/listings/192bc415-7e24-4515-993d-fc55dd8a4e53",
+    "original": "https://sketchfab.com/3d-models/a7a6ad10261149cab31aa394bfcf8940",
+    "author": "Gerardo Justel (re1monsen)",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "acquiredOn": "2026-11-17",
+    "acquisition": "Fab official anonymous Download, EULA accepted, GLB format",
+    "price": 0,
+    "currency": "EUR",
+    "sourceBytes": 125948920,
+    "sourceSha256": "0957e148f9260e0829f08231a690cc21d22858dd8ec03f916f58a52db57fcae3",
+    "attributionRequired": true,
+    "derivatives": [
+      "ring3Sector",
+      "subFtlStation"
+    ]
+  },
+  {
+    "id": "ring4",
+    "title": "Space Station 4",
+    "uid": "cf80075368174bf9895f4fd266cf17e3",
+    "fab": "a50ebf13-2db6-49a2-8753-7cb9ffc09223",
+    "source": "https://www.fab.com/listings/a50ebf13-2db6-49a2-8753-7cb9ffc09223",
+    "original": "https://sketchfab.com/3d-models/cf80075368174bf9895f4fd266cf17e3",
+    "author": "Gerardo Justel (re1monsen)",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "acquiredOn": "2026-11-17",
+    "acquisition": "Fab official anonymous Download, EULA accepted, GLB format",
+    "price": 0,
+    "currency": "EUR",
+    "sourceBytes": 155105440,
+    "sourceSha256": "4cba44cc7adad9963b8efc201d24c69f01e861b99ff683c06fd37f484a8b2148",
+    "attributionRequired": true,
+    "derivatives": [
+      "refineryDeck",
+      "ring4Sector",
+      "twinDockSector"
+    ]
+  },
+  {
+    "id": "crate14",
+    "title": "100K Views - SciFi Crate Container",
+    "author": "Gerardo Justel (re1monsen)",
+    "source": "https://www.fab.com/listings/94a1f72d-cab7-4ecf-9b2e-7725ceab34cc",
+    "original": "https://sketchfab.com/3d-models/1c84ba72867243aca35eb6677e001fe3",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attributionRequired": true,
+    "acquiredOn": "2026-11-17",
+    "acquisition": "Fab official free Download, EULA accepted, GLB",
+    "price": 0,
+    "currency": "EUR",
+    "sourceBytes": 80693180,
+    "sourceSha256": "70602cfafea223ee9c4522c43f5ce8ee05d715d2ceeee4980d3cc125932c7fe0",
+    "derivatives": [
+      "crate14"
+    ]
+  },
+  {
+    "id": "crate27",
+    "title": "Scifi - Crate - Container",
+    "author": "Gerardo Justel (re1monsen)",
+    "source": "https://www.fab.com/listings/c896d238-1815-41bd-b05d-e9fb54c583d5",
+    "original": "https://sketchfab.com/3d-models/aca8a416e707402888461e158618889e",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attributionRequired": true,
+    "acquiredOn": "2026-11-17",
+    "acquisition": "Fab official free Download, EULA accepted, GLB",
+    "price": 0,
+    "currency": "EUR",
+    "sourceBytes": 94618948,
+    "sourceSha256": "c1733e2524e6954b4accbee2e53b39ffadee8293fcee9223a004c6f3ed0208d6",
+    "derivatives": [
+      "crate27"
+    ]
+  },
+  {
+    "id": "builder",
+    "title": "2.3K Followers Celebration - Spaceship",
+    "uid": "540d21017901420b81322270048c5454",
+    "author": "Gerardo Justel (re1monsen)",
+    "source": "https://www.fab.com/listings/9b89d5b9-507a-48d1-b72b-e7266cf72ca8",
+    "original": "https://sketchfab.com/3d-models/23k-followers-celebration-spaceship-540d21017901420b81322270048c5454",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attributionRequired": true,
+    "acquiredOn": "2026-11-20",
+    "acquisition": "Fab official free Download, GLB format",
+    "price": 0,
+    "currency": "EUR",
+    "sourceBytes": 72817388,
+    "sourceSha256": "69b692887c1e4eb099ca38787298fb38ed5d07c42c72dd2d609445f3c9c1efb3",
+    "derivatives": [
+      "builder"
+    ]
+  },
+  {
+    "id": "blackHoneyArm",
+    "title": "Black Honey - Robotic Arm",
+    "uid": "c50671f2a8e74de2a2e687103fdc93ab",
+    "author": "Gerardo Justel (re1monsen)",
+    "source": "https://www.fab.com/listings/846bc3b5-9d8c-445e-b305-6ed391d184f7",
+    "original": "https://sketchfab.com/3d-models/black-honey-robotic-arm-c50671f2a8e74de2a2e687103fdc93ab",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attributionRequired": true,
+    "acquiredOn": "2026-11-20",
+    "acquisition": "Fab official free Download, GLB format",
+    "price": 0,
+    "currency": "EUR",
+    "sourceBytes": 90693564,
+    "sourceSha256": "44ba0286b52afe6a397afe59fd0ff24238388afd8b0fc55995aba38e533445e1",
+    "derivatives": [
+      "blackHoneyArm"
+    ]
+  }
+]

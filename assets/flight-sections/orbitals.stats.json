@@ -1,0 +1,503 @@
+{
+  "source": "public/assets/design-foundry/orbital.glb",
+  "sourceSha256": "1b401aa7c8441c02ebe96d6e0e67c5b298fd743e37d074aa4bb3b478583d01dc",
+  "sha256": "9712847a31ecc51e707c3c3d1b003b1e9747bf1b3ec342fe19cb95acbc1525da",
+  "bytes": 8087992,
+  "sections": [
+    {
+      "name": "frame-arc",
+      "sourceTriangles": 23280,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 4425,
+          "error": 0.0397637
+        },
+        {
+          "triangles": 618,
+          "error": 0.1648552
+        }
+      ]
+    },
+    {
+      "name": "frame-rib",
+      "sourceTriangles": 45213,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 5249,
+          "error": 0.0398129
+        },
+        {
+          "triangles": 678,
+          "error": 0.1735346
+        }
+      ]
+    },
+    {
+      "name": "frame-terrace",
+      "sourceTriangles": 41915,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 5251,
+          "error": 0.0398986
+        },
+        {
+          "triangles": 727,
+          "error": 0.1735346
+        }
+      ]
+    },
+    {
+      "name": "service-umbilical",
+      "sourceTriangles": 52596,
+      "draws": 2,
+      "levels": [
+        {
+          "triangles": 4335,
+          "error": 0.0390744
+        },
+        {
+          "triangles": 738,
+          "error": 0.1798034
+        }
+      ]
+    },
+    {
+      "name": "service-cells",
+      "sourceTriangles": 41507,
+      "draws": 7,
+      "levels": [
+        {
+          "triangles": 4998,
+          "error": 0.0398238
+        },
+        {
+          "triangles": 658,
+          "error": 0.1798034
+        }
+      ]
+    },
+    {
+      "name": "service-comb",
+      "sourceTriangles": 26848,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 4147,
+          "error": 0.0380806
+        },
+        {
+          "triangles": 639,
+          "error": 0.1658465
+        }
+      ]
+    },
+    {
+      "name": "machine-mine-jaws",
+      "sourceTriangles": 34211,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 4303,
+          "error": 0.0392815
+        },
+        {
+          "triangles": 661,
+          "error": 0.1675711
+        }
+      ]
+    },
+    {
+      "name": "machine-mine-drum",
+      "sourceTriangles": 17696,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 4254,
+          "error": 0.0354304
+        },
+        {
+          "triangles": 616,
+          "error": 0.1606397
+        }
+      ]
+    },
+    {
+      "name": "machine-mine-shaft",
+      "sourceTriangles": 30856,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 4267,
+          "error": 0.0392815
+        },
+        {
+          "triangles": 656,
+          "error": 0.1675711
+        }
+      ]
+    },
+    {
+      "name": "machine-refinery-columns",
+      "sourceTriangles": 55512,
+      "draws": 5,
+      "levels": [
+        {
+          "triangles": 6952,
+          "error": 0.0399632
+        },
+        {
+          "triangles": 689,
+          "error": 0.1675711
+        }
+      ]
+    },
+    {
+      "name": "machine-refinery-kiln",
+      "sourceTriangles": 30046,
+      "draws": 7,
+      "levels": [
+        {
+          "triangles": 4272,
+          "error": 0.0397882
+        },
+        {
+          "triangles": 649,
+          "error": 0.1675711
+        }
+      ]
+    },
+    {
+      "name": "machine-refinery-reflux",
+      "sourceTriangles": 27150,
+      "draws": 5,
+      "levels": [
+        {
+          "triangles": 4653,
+          "error": 0.0399645
+        },
+        {
+          "triangles": 615,
+          "error": 0.1675711
+        }
+      ]
+    },
+    {
+      "name": "machine-shipyard-slip",
+      "sourceTriangles": 37813,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 4335,
+          "error": 0.0392815
+        },
+        {
+          "triangles": 666,
+          "error": 0.1675711
+        }
+      ]
+    },
+    {
+      "name": "machine-shipyard-portal",
+      "sourceTriangles": 21084,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 4252,
+          "error": 0.0397631
+        },
+        {
+          "triangles": 622,
+          "error": 0.1606397
+        }
+      ]
+    },
+    {
+      "name": "machine-shipyard-quay",
+      "sourceTriangles": 39192,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 4347,
+          "error": 0.0392815
+        },
+        {
+          "triangles": 705,
+          "error": 0.1675711
+        }
+      ]
+    },
+    {
+      "name": "machine-extractor-rotor",
+      "sourceTriangles": 32541,
+      "draws": 12,
+      "levels": [
+        {
+          "triangles": 4652,
+          "error": 0.0398409
+        },
+        {
+          "triangles": 645,
+          "error": 0.1743942
+        }
+      ]
+    },
+    {
+      "name": "machine-extractor-cascade",
+      "sourceTriangles": 47523,
+      "draws": 5,
+      "levels": [
+        {
+          "triangles": 5891,
+          "error": 0.0398515
+        },
+        {
+          "triangles": 680,
+          "error": 0.1783185
+        }
+      ]
+    },
+    {
+      "name": "machine-extractor-paired",
+      "sourceTriangles": 46473,
+      "draws": 10,
+      "levels": [
+        {
+          "triangles": 4936,
+          "error": 0.0399082
+        },
+        {
+          "triangles": 737,
+          "error": 0.1740439
+        }
+      ]
+    },
+    {
+      "name": "machine-harvester-tines",
+      "sourceTriangles": 34211,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 4306,
+          "error": 0.0392815
+        },
+        {
+          "triangles": 661,
+          "error": 0.1675711
+        }
+      ]
+    },
+    {
+      "name": "machine-harvester-fan",
+      "sourceTriangles": 45207,
+      "draws": 10,
+      "levels": [
+        {
+          "triangles": 4990,
+          "error": 0.0399431
+        },
+        {
+          "triangles": 966,
+          "error": 0.1782769
+        }
+      ]
+    },
+    {
+      "name": "machine-harvester-cradle",
+      "sourceTriangles": 22283,
+      "draws": 10,
+      "levels": [
+        {
+          "triangles": 4488,
+          "error": 0.0397597
+        },
+        {
+          "triangles": 765,
+          "error": 0.1690037
+        }
+      ]
+    },
+    {
+      "name": "machine-artillery-battery",
+      "sourceTriangles": 6934,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 4226,
+          "error": 0.0354304
+        },
+        {
+          "triangles": 641,
+          "error": 0.1686278
+        }
+      ]
+    },
+    {
+      "name": "machine-artillery-salvo",
+      "sourceTriangles": 11847,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 4252,
+          "error": 0.0354304
+        },
+        {
+          "triangles": 653,
+          "error": 0.1606397
+        }
+      ]
+    },
+    {
+      "name": "machine-artillery-rake",
+      "sourceTriangles": 21957,
+      "draws": 9,
+      "levels": [
+        {
+          "triangles": 4277,
+          "error": 0.039552
+        },
+        {
+          "triangles": 677,
+          "error": 0.1785783
+        }
+      ]
+    },
+    {
+      "name": "machine-subFtlStation-habitat",
+      "sourceTriangles": 30569,
+      "draws": 8,
+      "levels": [
+        {
+          "triangles": 4692,
+          "error": 0.039799
+        },
+        {
+          "triangles": 680,
+          "error": 0.1675711
+        }
+      ]
+    },
+    {
+      "name": "machine-subFtlStation-wheel",
+      "sourceTriangles": 14671,
+      "draws": 4,
+      "levels": [
+        {
+          "triangles": 4241,
+          "error": 0.0354304
+        },
+        {
+          "triangles": 634,
+          "error": 0.1606397
+        }
+      ]
+    },
+    {
+      "name": "machine-subFtlStation-locks",
+      "sourceTriangles": 26813,
+      "draws": 3,
+      "levels": [
+        {
+          "triangles": 4270,
+          "error": 0.0354304
+        },
+        {
+          "triangles": 650,
+          "error": 0.1675711
+        }
+      ]
+    },
+    {
+      "name": "machine-turret-cupola",
+      "sourceTriangles": 39516,
+      "draws": 10,
+      "levels": [
+        {
+          "triangles": 5349,
+          "error": 0.0399688
+        },
+        {
+          "triangles": 733,
+          "error": 0.1763358
+        }
+      ]
+    },
+    {
+      "name": "machine-turret-yoke",
+      "sourceTriangles": 76461,
+      "draws": 10,
+      "levels": [
+        {
+          "triangles": 7683,
+          "error": 0.0399351
+        },
+        {
+          "triangles": 962,
+          "error": 0.1796206
+        }
+      ]
+    },
+    {
+      "name": "machine-turret-mast",
+      "sourceTriangles": 51514,
+      "draws": 13,
+      "levels": [
+        {
+          "triangles": 5882,
+          "error": 0.0399683
+        },
+        {
+          "triangles": 795,
+          "error": 0.1789694
+        }
+      ]
+    },
+    {
+      "name": "machine-shield-lens",
+      "sourceTriangles": 16097,
+      "draws": 8,
+      "levels": [
+        {
+          "triangles": 4247,
+          "error": 0.0354304
+        },
+        {
+          "triangles": 623,
+          "error": 0.1606397
+        }
+      ]
+    },
+    {
+      "name": "machine-shield-fork",
+      "sourceTriangles": 19078,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 4258,
+          "error": 0.0354304
+        },
+        {
+          "triangles": 639,
+          "error": 0.1606397
+        }
+      ]
+    },
+    {
+      "name": "machine-shield-crown",
+      "sourceTriangles": 19092,
+      "draws": 6,
+      "levels": [
+        {
+          "triangles": 4255,
+          "error": 0.0354304
+        },
+        {
+          "triangles": 613,
+          "error": 0.1606397
+        }
+      ]
+    }
+  ]
+}

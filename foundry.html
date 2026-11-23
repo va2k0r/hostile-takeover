@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#171a19" />
+    <meta
+      name="description"
+      content="Review procedurally assembled ships and orbital structures in the Hostile Takeover design foundry."
+    />
+    <title>Design foundry · Hostile Takeover</title>
+    <link rel="icon" href="./icon.svg" />
+    <script type="module" crossorigin src="./assets/foundry-CNZeVjgP.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
+    <link rel="modulepreload" crossorigin href="./assets/three-DdulLeJh.js">
+    <link rel="modulepreload" crossorigin href="./assets/rings-C9wpa78s.js">
+    <link rel="modulepreload" crossorigin href="./assets/Viewer-BEFGLOqs.js">
+    <link rel="modulepreload" crossorigin href="./assets/positionLights-JFbEuLri.js">
+    <link rel="modulepreload" crossorigin href="./assets/livery-DJKvQEfz.js">
+    <link rel="stylesheet" crossorigin href="./assets/foundry-BA3h3Qpk.css">
+  </head>
+  <body>
+    <header class="mast">
+      <div>
+        <a class="back" href="./models.html">‹ &nbsp; Model hangar</a>
+        <h1>Design foundry</h1>
+      </div>
+      <a class="credits" href="./assets/design-foundry/credits.html"
+        >Model credits ↗</a
+      >
+    </header>
+    <main>
+      <div class="filters">
+        <nav aria-label="Collections" id="categories"></nav>
+        <nav aria-label="Model classes" id="classes"></nav>
+      </div>
+      <div class="desk">
+        <section class="bench" aria-labelledby="name">
+          <header class="model-id" aria-live="polite" aria-atomic="true">
+            <div>
+              <p id="kind">Loading catalogue</p>
+              <h2 id="name">Design foundry</h2>
+            </div>
+            <span id="serial" aria-label="Catalogue reference"></span>
+          </header>
+          <div class="stage" id="stage">
+            <div id="gesture" data-mode="swipe">
+              <div id="surface" data-ready="false"></div>
+            </div>
+            <span class="direction" id="swipe-hint" aria-hidden="true"></span>
+            <div class="load" id="loading" role="status" hidden>
+              <span id="load-message"></span
+              ><button id="retry" hidden>Retry</button>
+            </div>
+          </div>
+          <div class="camera-row">
+            <div class="mode" role="group" aria-label="Canvas controls">
+              <button id="swipe-mode" aria-pressed="true">Swipe</button
+              ><button id="orbit-mode" aria-pressed="false">Orbit</button>
+            </div>
+            <div class="view-opts">
+              <button id="single" aria-pressed="false" hidden>One sector</button
+              ><button id="explode" aria-pressed="false">Explode</button
+              ><button id="fit">Fit</button>
+            </div>
+          </div>
+          <div class="actions">
+            <button class="reject" id="reject" disabled>
+              <span class="arrow" aria-hidden="true">←</span> Reject</button
+            ><button class="skip" id="skip" disabled>Skip</button
+            ><button class="approve" id="approve" disabled>
+              Approve <span class="arrow" aria-hidden="true">→</span>
+            </button>
+          </div>
+          <div class="help">
+            <p id="gesture-help">
+              Swipe left to remove from play or right to approve.
+            </p>
+            <button id="undo" hidden>↶ Undo</button>
+          </div>
+        </section>
+        <aside class="inspector">
+          <section>
+            <h2>Assembly</h2>
+            <dl id="parts"></dl>
+          </section>
+          <section>
+            <div class="section-head">
+              <h2>Your preferences</h2>
+              <span id="total-votes">0 votes</span>
+            </div>
+            <p id="learning">Your votes guide the next design.</p>
+            <div id="balance" aria-hidden="true"><i></i><b></b></div>
+            <div class="counts">
+              <span id="likes">0 approved</span
+              ><span id="dislikes">0 rejected</span>
+            </div>
+            <p class="game-pool"><a href="./" id="game-count">Open game</a></p>
+            <p class="feedback" id="feedback" role="status"></p>
+          </section>
+          <details class="records">
+            <summary>Catalogue &amp; votes</summary>
+            <label for="catalog-number" id="catalog-size"
+              >Catalogue entry</label
+            >
+            <form id="jump">
+              <input
+                id="catalog-number"
+                type="number"
+                min="1"
+                step="1"
+                inputmode="numeric"
+                required
+              /><button>View</button>
+            </form>
+            <label for="history">Reviewed designs</label
+            ><select id="history">
+              <option>No votes yet</option>
+            </select>
+            <button id="export" disabled>Export votes</button>
+            <a href="./assets/design-foundry/catalog.json" download
+              >All recipes ↓</a
+            >
+            <p id="saved">Saved in this browser.</p>
+          </details>
+        </aside>
+      </div>
+    </main>
+  </body>
+</html>

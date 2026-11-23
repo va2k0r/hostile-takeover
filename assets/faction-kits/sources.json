@@ -1,0 +1,57 @@
+{
+  "author": "Gerardo Justel (re1monsen)",
+  "profile": "https://sketchfab.com/re1monsen",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "adaptation": "Hostile Takeover selected, separated, reoriented and simplified mechanical assemblies, retained the original UVs and PBR maps, and optimized textures for the game.",
+  "sources": [
+    {
+      "id": "scout",
+      "title": "Scout Drone Sketch",
+      "source": "https://www.fab.com/listings/d73bfa8e-d1e3-4f8e-b721-4671bb4c0fc7",
+      "original": "https://sketchfab.com/3d-models/6e58f9c825db44e39b17d1f539248bcf",
+      "filename": "700_followers_celebration_scout_drone_sketch.glb",
+      "sha256": "0f6b0e0a33bc7e0507a4080a8ca5a28c33230d67ab209757ab588d88e783977d"
+    },
+    {
+      "id": "drone",
+      "title": "Drone Concept",
+      "source": "https://www.fab.com/listings/56eeffce-2423-42b8-9c4b-cf44078ad877",
+      "original": "https://sketchfab.com/3d-models/49a01e710d9545ceb13dfd8c9fe11fea",
+      "filename": "drone_concept_500_followers_celebration.glb",
+      "sha256": "1bc6257de85bc074e11c91de81e14da0881fc18c52b8ee2e42eaf081992db547"
+    },
+    {
+      "id": "generator",
+      "title": "Sci fi Portable Generator",
+      "source": "https://www.fab.com/listings/b854cfdd-78f4-45e9-bf54-05f08e2f5196",
+      "original": "https://sketchfab.com/3d-models/87628b234b194bee9ed81a6815f96286",
+      "filename": "sci_fi_portable_generator.glb",
+      "sha256": "2286065cb5310927e75ff4f678465a56324632b873e49771f36593512f2598bf"
+    },
+    {
+      "id": "lift",
+      "title": "Rigged Sci-Fi Lift - Mobile Platform - Elevator",
+      "source": "https://www.fab.com/listings/23470cba-18b6-4383-98ad-0c2288dbfd2e",
+      "original": "https://sketchfab.com/3d-models/eb53f74f3a8942608925358cdc21ca3d",
+      "filename": "rigged_sci_fi_lift_mobile_platform_elevator.glb",
+      "sha256": "5a1d5a8fcf9af3cf531297905020df259b7a3ff58e9ac5e9a57d3fab254342f2"
+    },
+    {
+      "id": "ship4",
+      "title": "Spaceship 4",
+      "source": "https://www.fab.com/listings/f2bb6a86-c63c-499f-9d27-16a6bfbc0305",
+      "original": "https://sketchfab.com/3d-models/a202b7aeace74902aa006defa33c55f6",
+      "filename": "ship4.glb",
+      "sha256": "769ae39a6317bee6ac91735e76bc897f2333e86ea2a15b9db130f9449dad8f36"
+    },
+    {
+      "id": "ship5",
+      "title": "Spaceship 5",
+      "source": "https://www.fab.com/listings/47310bab-1e33-4f0a-ace9-0604274008ea",
+      "original": "https://sketchfab.com/3d-models/48a6d100860d4014baa2125c16744993",
+      "filename": "ship5.glb",
+      "sha256": "1923e8fbc3701a728a728a67467aca5d13282a3b777313b63f6fbe549b2f098e"
+    }
+  ]
+}
