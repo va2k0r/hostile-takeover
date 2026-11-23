@@ -1,4 +1,4 @@
-import{i as b,d1 as B}from"./rings-CJwPwNNY.js";import{C as k,l as c,c as F,B as z,V as C,ac as _}from"./three-CswhxQ6c.js";const K=`
+import{i as b,d1 as B}from"./rings-BD1WO_td.js";import{C as k,l as c,c as F,B as z,V as C,ac as _}from"./three-CswhxQ6c.js";const K=`
 varying vec3 htPlate;
 uniform vec3 htPaintColor;
 uniform float htMark;
