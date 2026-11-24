@@ -9,7 +9,6 @@
     "GateScramblers": { "Deflectors": 1, "WeaponsSystems": 1, "Fissiles": 12 },
     "WeaponsSystems": { "Fissiles": 12, "Volatiles": 12 },
     "Deflectors": { "Metals": 8, "Crystals": 12 },
-    "EnergyShields": { "Deflectors": 1, "Fissiles": 12 },
     "EnergyFieldModules": { "Deflectors": 1, "Crystals": 18 },
     "PlasmaModules": { "WeaponsSystems": 2, "Crystals": 18 }
   },
