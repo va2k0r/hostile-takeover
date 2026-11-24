@@ -6,6 +6,9 @@
   "fighter": { "Metals": 4, "Volatiles": 6 },
   "capital": { "Metals": 40, "Volatiles": 60 },
   "builders": {
+    "Armory": { "Metals": 8, "Volatiles": 3, "Fissiles": 3 },
+    "Foundry": { "Metals": 8, "Volatiles": 3, "Crystals": 3 },
+    "Assembler": { "Metals": 12, "Volatiles": 9 },
     "Mine":      { "Metals": 2,  "Volatiles": 3 },
     "Refinery":  { "Metals": 2,  "Volatiles": 3 },
     "Extractor": { "Metals": 2,  "Volatiles": 3 },
