@@ -1,0 +1,56 @@
+{
+  "sources": [
+    {
+      "title": "Cylinoid 001",
+      "author": "Gerardo Justel (re1monsen)",
+      "url": "https://www.fab.com/listings/09848fa8-29c1-41fc-bfd3-34ec50907c11",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceSha256": "900d6cfdc5714190967380faad11b9a094fd96cec447b7a21d8659b7aabe2454",
+      "part": "part-011-tech_03.011_low_tech_3_0",
+      "node": "Sleeve0"
+    },
+    {
+      "title": "Cylinoid 002",
+      "author": "Gerardo Justel (re1monsen)",
+      "url": "https://www.fab.com/listings/6748bcb2-1332-4d76-8a07-129fba8c58b2",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceSha256": "d726056c0d18b068bd9b46bd0d0e4c941c365c9ff05dddfee94aa1fa81e975b6",
+      "part": "part-001-tech_04_low_tech_4_0",
+      "node": "Sleeve1"
+    },
+    {
+      "title": "Cylinoid 003",
+      "author": "Gerardo Justel (re1monsen)",
+      "url": "https://www.fab.com/listings/49f8c81c-8cb5-449b-be31-c585dc719939",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceSha256": "95994cd93b0a89e083f7ee1d18f279e3df47fe88e595e1cb25260bea7da64ff3",
+      "part": "part-004-tech_07.003_low_maetal_2_0",
+      "node": "Sleeve2"
+    },
+    {
+      "title": "Cylinoid 004",
+      "author": "Gerardo Justel (re1monsen)",
+      "url": "https://www.fab.com/listings/39d4a25c-0ef4-4568-9593-a5178dea3366",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceSha256": "cdb5a7ff0502507692afeab6e2c37d15a5dfa4f77d9bfd32cdc1142e20e87ba4",
+      "part": "part-007-tech_09.006_low_mainshape_0",
+      "node": "Sleeve3"
+    },
+    {
+      "title": "Cylinoid 005",
+      "author": "Gerardo Justel (re1monsen)",
+      "url": "https://www.fab.com/listings/c62f83ef-cc7b-44a3-86d5-e7b9eb4e1915",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceSha256": "6363307c3c2ea8e4190ae1eeaf4650521fb81b3de09e619f0d3279a37dbb33c7",
+      "part": "part-013-cylinoid_04.012_low_12",
+      "node": "Sleeve4"
+    }
+  ],
+  "adaptation": "Equipment housings extracted, centered, simplified and resized. Original texture coordinates and finishes are retained. Hostile Takeover supplies the surrounding missile hulls.",
+  "assetSha256": "d4644ec2eb791ae1b3f0c20aa62a3068fbf5abcf1e38de1bf2c7adfbce97dddf"
+}
