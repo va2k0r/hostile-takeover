@@ -3,7 +3,7 @@
   "description": "Order prices and standard FTL holds in material units. A Capital needs one hold of ore and two of volatiles. Shipyards keep surplus freight for later orders.",
   "ftlLoads": { "Metals": 32, "Volatiles": 30, "Fissiles": 6, "Crystals": 6 },
   "cycleSeconds": 5,
-  "fighter": { "Metals": 1, "Volatiles": 1 },
+  "fighter": { "Metals": 40, "Volatiles": 10 },
   "capital": { "Metals": 32, "Volatiles": 60 },
   "builders": {
     "Mine":      { "Metals": 2,  "Volatiles": 3 },
