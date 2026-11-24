@@ -7,9 +7,10 @@
     <meta name="description" content="Ascolta e scarica otto brevi jingle tratti dalle musiche di Kevin MacLeod per Hostile Takeover.">
     <title>Jingle di bordo · Hostile Takeover</title>
     <link rel="icon" href="./icon.svg" type="image/svg+xml">
-    <script type="module" crossorigin src="./assets/jingles-B4VFxm7i.js"></script>
+    <script type="module" crossorigin src="./assets/jingles-C2Ent5o1.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
-    <link rel="stylesheet" crossorigin href="./assets/jingles-BixQZa5q.css">
+    <link rel="modulepreload" crossorigin href="./assets/jingles-BEVVi_tt.js">
+    <link rel="stylesheet" crossorigin href="./assets/jingles-BmC8Fjrb.css">
   </head>
   <body>
     <header class="masthead">
@@ -19,8 +20,8 @@
     <main>
       <section class="intro" aria-labelledby="title">
         <div><h1 id="title">Jingle di bordo<span>.</span></h1>
-          <p>Otto estratti dalle musiche di Kevin MacLeod scelte per il gioco. Ogni taglio accompagna un’azione della flotta.</p></div>
-        <a class="download-all" href="./audio/jingles/hostile-takeover-jingles.zip" download><span aria-hidden="true">↓</span> Scarica tutti i WAV <small>ZIP</small></a>
+          <p>Otto frasi di Kevin MacLeod per la flotta. Per il salto FTL e il lancio d’artiglieria puoi provare anche il loop a durata libera.</p></div>
+        <a class="download-all" href="./audio/jingles/hostile-takeover-jingles.zip?v=2" download><span aria-hidden="true">↓</span> Scarica tutti i WAV <small>ZIP</small></a>
       </section>
       <div class="workspace">
         <section class="deck" aria-labelledby="cue-action">
@@ -37,6 +38,10 @@
           <div class="transport">
             <button class="listen" id="listen" type="button"><i class="play-symbol" aria-hidden="true"></i><span>Ascolta</span></button>
             <a class="download" id="download" download>Scarica WAV <span aria-hidden="true">↓</span></a>
+          </div>
+          <div class="event-preview" id="event-preview" hidden>
+            <button id="event-trigger" type="button"></button>
+            <p id="event-state" role="status"></p>
           </div>
           <p class="edit-note" id="note"></p>
           <div class="source"><span id="source-time"></span><a id="source-link" target="_blank" rel="noreferrer">Brano originale ↗</a></div>
