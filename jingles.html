@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#101915">
+    <meta name="description" content="Ascolta e scarica otto brevi jingle tratti dalle musiche di Kevin MacLeod per Hostile Takeover.">
+    <title>Jingle di bordo · Hostile Takeover</title>
+    <link rel="icon" href="./icon.svg" type="image/svg+xml">
+    <script type="module" crossorigin src="./assets/jingles-B4VFxm7i.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
+    <link rel="stylesheet" crossorigin href="./assets/jingles-BixQZa5q.css">
+  </head>
+  <body>
+    <header class="masthead">
+      <a class="brand" href="./"><img src="./icon.svg" width="34" height="34" alt="">Hostile Takeover</a>
+      <a class="back" href="./">Torna al gioco <span aria-hidden="true">↗</span></a>
+    </header>
+    <main>
+      <section class="intro" aria-labelledby="title">
+        <div><h1 id="title">Jingle di bordo<span>.</span></h1>
+          <p>Otto estratti dalle musiche di Kevin MacLeod scelte per il gioco. Ogni taglio accompagna un’azione della flotta.</p></div>
+        <a class="download-all" href="./audio/jingles/hostile-takeover-jingles.zip" download><span aria-hidden="true">↓</span> Scarica tutti i WAV <small>ZIP</small></a>
+      </section>
+      <div class="workspace">
+        <section class="deck" aria-labelledby="cue-action">
+          <div class="deck-heading">
+            <p class="deck-index" id="deck-index"></p>
+            <h2 id="cue-action"></h2>
+            <p class="recording" id="recording"></p>
+          </div>
+          <div class="scope">
+            <canvas id="wave" aria-hidden="true"></canvas>
+            <input id="seek" type="range" min="0" max="3" step=".01" value="0" aria-label="Posizione nella clip">
+          </div>
+          <div class="ruler"><span id="position">0,00 s</span><span id="length"></span></div>
+          <div class="transport">
+            <button class="listen" id="listen" type="button"><i class="play-symbol" aria-hidden="true"></i><span>Ascolta</span></button>
+            <a class="download" id="download" download>Scarica WAV <span aria-hidden="true">↓</span></a>
+          </div>
+          <p class="edit-note" id="note"></p>
+          <div class="source"><span id="source-time"></span><a id="source-link" target="_blank" rel="noreferrer">Brano originale ↗</a></div>
+          <p id="error" role="alert" hidden></p>
+        </section>
+        <section class="library" aria-labelledby="library-heading">
+          <div class="library-head"><h2 id="library-heading">Le clip</h2><span>Durata</span></div>
+          <ol id="tracks"></ol>
+        </section>
+      </div>
+      <footer>
+        <p>Musiche di Kevin MacLeod, pubblicate su Incompetech. Tagli, livelli e dissolvenze adattati per Hostile Takeover.</p>
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank" rel="noreferrer">Licenza CC BY 4.0 ↗</a>
+      </footer>
+    </main>
+    <audio id="audio" preload="none"></audio>
+  </body>
+</html>
