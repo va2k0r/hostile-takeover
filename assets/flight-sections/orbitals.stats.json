@@ -1,186 +1,186 @@
 {
   "source": "public/assets/design-foundry/orbital.glb",
-  "sourceSha256": "1b401aa7c8441c02ebe96d6e0e67c5b298fd743e37d074aa4bb3b478583d01dc",
-  "sha256": "9712847a31ecc51e707c3c3d1b003b1e9747bf1b3ec342fe19cb95acbc1525da",
-  "bytes": 8087992,
+  "sourceSha256": "764ffe09a30f7eaf831ea2d0d2daf0554aace31d7d965161002b10c8bfcd7a45",
+  "sha256": "e8b6d765053d9075dc52d3a8a1230f85060455ce7bca2c2a517ff939d272b5ff",
+  "bytes": 8568120,
   "sections": [
     {
       "name": "frame-arc",
-      "sourceTriangles": 23280,
-      "draws": 3,
+      "sourceTriangles": 60934,
+      "draws": 6,
       "levels": [
         {
-          "triangles": 4425,
-          "error": 0.0397637
+          "triangles": 5644,
+          "error": 0.0398184
         },
         {
-          "triangles": 618,
-          "error": 0.1648552
+          "triangles": 632,
+          "error": 0.2574218
         }
       ]
     },
     {
       "name": "frame-rib",
-      "sourceTriangles": 45213,
-      "draws": 4,
+      "sourceTriangles": 71806,
+      "draws": 7,
       "levels": [
         {
-          "triangles": 5249,
-          "error": 0.0398129
+          "triangles": 5914,
+          "error": 0.0398184
         },
         {
-          "triangles": 678,
-          "error": 0.1735346
+          "triangles": 626,
+          "error": 0.2574218
         }
       ]
     },
     {
       "name": "frame-terrace",
-      "sourceTriangles": 41915,
+      "sourceTriangles": 65299,
       "draws": 6,
       "levels": [
         {
-          "triangles": 5251,
-          "error": 0.0398986
+          "triangles": 6302,
+          "error": 0.0399314
         },
         {
-          "triangles": 727,
-          "error": 0.1735346
+          "triangles": 639,
+          "error": 0.2764489
         }
       ]
     },
     {
       "name": "service-umbilical",
-      "sourceTriangles": 52596,
+      "sourceTriangles": 70574,
       "draws": 2,
       "levels": [
         {
-          "triangles": 4335,
-          "error": 0.0390744
+          "triangles": 4449,
+          "error": 0.0382893
         },
         {
-          "triangles": 738,
-          "error": 0.1798034
+          "triangles": 685,
+          "error": 0.2733485
         }
       ]
     },
     {
       "name": "service-cells",
-      "sourceTriangles": 41507,
+      "sourceTriangles": 79243,
       "draws": 7,
       "levels": [
         {
-          "triangles": 4998,
-          "error": 0.0398238
+          "triangles": 5985,
+          "error": 0.039919
         },
         {
-          "triangles": 658,
-          "error": 0.1798034
+          "triangles": 411,
+          "error": 0.2720675
         }
       ]
     },
     {
       "name": "service-comb",
-      "sourceTriangles": 26848,
-      "draws": 4,
+      "sourceTriangles": 75077,
+      "draws": 5,
       "levels": [
         {
-          "triangles": 4147,
-          "error": 0.0380806
+          "triangles": 4803,
+          "error": 0.0399476
         },
         {
-          "triangles": 639,
-          "error": 0.1658465
+          "triangles": 637,
+          "error": 0.2720675
         }
       ]
     },
     {
       "name": "machine-mine-jaws",
-      "sourceTriangles": 34211,
+      "sourceTriangles": 145067,
       "draws": 3,
       "levels": [
         {
-          "triangles": 4303,
-          "error": 0.0392815
+          "triangles": 4603,
+          "error": 0.0389441
         },
         {
-          "triangles": 661,
-          "error": 0.1675711
+          "triangles": 659,
+          "error": 0.2764338
         }
       ]
     },
     {
       "name": "machine-mine-drum",
-      "sourceTriangles": 17696,
+      "sourceTriangles": 32263,
       "draws": 4,
       "levels": [
         {
-          "triangles": 4254,
-          "error": 0.0354304
+          "triangles": 4349,
+          "error": 0.0389441
         },
         {
-          "triangles": 616,
-          "error": 0.1606397
+          "triangles": 644,
+          "error": 0.2059264
         }
       ]
     },
     {
       "name": "machine-mine-shaft",
-      "sourceTriangles": 30856,
+      "sourceTriangles": 98648,
       "draws": 4,
       "levels": [
         {
-          "triangles": 4267,
-          "error": 0.0392815
+          "triangles": 4820,
+          "error": 0.0398199
         },
         {
-          "triangles": 656,
-          "error": 0.1675711
+          "triangles": 649,
+          "error": 0.2605985
         }
       ]
     },
     {
       "name": "machine-refinery-columns",
-      "sourceTriangles": 55512,
+      "sourceTriangles": 133618,
       "draws": 5,
       "levels": [
         {
-          "triangles": 6952,
-          "error": 0.0399632
+          "triangles": 10247,
+          "error": 0.0398173
         },
         {
-          "triangles": 689,
-          "error": 0.1675711
+          "triangles": 638,
+          "error": 0.2764338
         }
       ]
     },
     {
       "name": "machine-refinery-kiln",
-      "sourceTriangles": 30046,
+      "sourceTriangles": 51219,
       "draws": 7,
       "levels": [
         {
-          "triangles": 4272,
-          "error": 0.0397882
+          "triangles": 4823,
+          "error": 0.0398195
         },
         {
-          "triangles": 649,
-          "error": 0.1675711
+          "triangles": 687,
+          "error": 0.2367291
         }
       ]
     },
     {
       "name": "machine-refinery-reflux",
-      "sourceTriangles": 27150,
+      "sourceTriangles": 60928,
       "draws": 5,
       "levels": [
         {
-          "triangles": 4653,
-          "error": 0.0399645
+          "triangles": 5851,
+          "error": 0.0398134
         },
         {
-          "triangles": 615,
-          "error": 0.1675711
+          "triangles": 614,
+          "error": 0.2440779
         }
       ]
     },
@@ -190,72 +190,72 @@
       "draws": 3,
       "levels": [
         {
-          "triangles": 4335,
-          "error": 0.0392815
+          "triangles": 4396,
+          "error": 0.0395043
         },
         {
-          "triangles": 666,
-          "error": 0.1675711
+          "triangles": 649,
+          "error": 0.2117217
         }
       ]
     },
     {
       "name": "machine-shipyard-portal",
-      "sourceTriangles": 21084,
+      "sourceTriangles": 43862,
       "draws": 4,
       "levels": [
         {
-          "triangles": 4252,
-          "error": 0.0397631
+          "triangles": 4539,
+          "error": 0.0398644
         },
         {
-          "triangles": 622,
-          "error": 0.1606397
+          "triangles": 632,
+          "error": 0.2196438
         }
       ]
     },
     {
       "name": "machine-shipyard-quay",
-      "sourceTriangles": 39192,
+      "sourceTriangles": 48181,
       "draws": 3,
       "levels": [
         {
-          "triangles": 4347,
-          "error": 0.0392815
+          "triangles": 4458,
+          "error": 0.0389441
         },
         {
-          "triangles": 705,
-          "error": 0.1675711
+          "triangles": 680,
+          "error": 0.2196438
         }
       ]
     },
     {
       "name": "machine-extractor-rotor",
-      "sourceTriangles": 32541,
+      "sourceTriangles": 43930,
       "draws": 12,
       "levels": [
         {
-          "triangles": 4652,
-          "error": 0.0398409
+          "triangles": 5126,
+          "error": 0.0399895
         },
         {
-          "triangles": 645,
-          "error": 0.1743942
+          "triangles": 649,
+          "error": 0.2196438
         }
       ]
     },
     {
       "name": "machine-extractor-cascade",
-      "sourceTriangles": 47523,
+      "sourceTriangles": 118782,
       "draws": 5,
       "levels": [
         {
-          "triangles": 5891,
-          "error": 0.0398515
+          "triangles": 8792,
+          "error": 0.0399029
         },
         {
-          "triangles": 680,
-          "error": 0.1783185
+          "triangles": 616,
+          "error": 0.2764338
         }
       ]
     },
@@ -265,27 +265,27 @@
       "draws": 10,
       "levels": [
         {
-          "triangles": 4936,
-          "error": 0.0399082
+          "triangles": 5761,
+          "error": 0.0398685
         },
         {
-          "triangles": 737,
-          "error": 0.1740439
+          "triangles": 635,
+          "error": 0.2587571
         }
       ]
     },
     {
       "name": "machine-harvester-tines",
-      "sourceTriangles": 34211,
+      "sourceTriangles": 145067,
       "draws": 3,
       "levels": [
         {
-          "triangles": 4306,
-          "error": 0.0392815
+          "triangles": 4597,
+          "error": 0.0389441
         },
         {
-          "triangles": 661,
-          "error": 0.1675711
+          "triangles": 660,
+          "error": 0.2764338
         }
       ]
     },
@@ -295,12 +295,12 @@
       "draws": 10,
       "levels": [
         {
-          "triangles": 4990,
-          "error": 0.0399431
+          "triangles": 5486,
+          "error": 0.0398355
         },
         {
-          "triangles": 966,
-          "error": 0.1782769
+          "triangles": 727,
+          "error": 0.2721906
         }
       ]
     },
@@ -310,12 +310,12 @@
       "draws": 10,
       "levels": [
         {
-          "triangles": 4488,
-          "error": 0.0397597
+          "triangles": 4736,
+          "error": 0.039795
         },
         {
-          "triangles": 765,
-          "error": 0.1690037
+          "triangles": 684,
+          "error": 0.2705767
         }
       ]
     },
@@ -326,11 +326,11 @@
       "levels": [
         {
           "triangles": 4226,
-          "error": 0.0354304
+          "error": 0.0354305
         },
         {
-          "triangles": 641,
-          "error": 0.1686278
+          "triangles": 626,
+          "error": 0.1618172
         }
       ]
     },
@@ -341,56 +341,56 @@
       "levels": [
         {
           "triangles": 4252,
-          "error": 0.0354304
+          "error": 0.0374066
         },
         {
-          "triangles": 653,
-          "error": 0.1606397
+          "triangles": 606,
+          "error": 0.1667977
         }
       ]
     },
     {
       "name": "machine-artillery-rake",
-      "sourceTriangles": 21957,
+      "sourceTriangles": 21956,
       "draws": 9,
       "levels": [
         {
-          "triangles": 4277,
-          "error": 0.039552
+          "triangles": 4408,
+          "error": 0.0397415
         },
         {
           "triangles": 677,
-          "error": 0.1785783
+          "error": 0.1780132
         }
       ]
     },
     {
       "name": "machine-subFtlStation-habitat",
-      "sourceTriangles": 30569,
+      "sourceTriangles": 51941,
       "draws": 8,
       "levels": [
         {
-          "triangles": 4692,
-          "error": 0.039799
+          "triangles": 5300,
+          "error": 0.0399596
         },
         {
-          "triangles": 680,
-          "error": 0.1675711
+          "triangles": 777,
+          "error": 0.2367291
         }
       ]
     },
     {
       "name": "machine-subFtlStation-wheel",
-      "sourceTriangles": 14671,
+      "sourceTriangles": 29238,
       "draws": 4,
       "levels": [
         {
-          "triangles": 4241,
-          "error": 0.0354304
+          "triangles": 4359,
+          "error": 0.0397481
         },
         {
-          "triangles": 634,
-          "error": 0.1606397
+          "triangles": 656,
+          "error": 0.1763835
         }
       ]
     },
@@ -400,72 +400,72 @@
       "draws": 3,
       "levels": [
         {
-          "triangles": 4270,
-          "error": 0.0354304
+          "triangles": 4280,
+          "error": 0.0389441
         },
         {
-          "triangles": 650,
-          "error": 0.1675711
+          "triangles": 654,
+          "error": 0.172173
         }
       ]
     },
     {
       "name": "machine-turret-cupola",
-      "sourceTriangles": 39516,
+      "sourceTriangles": 50905,
       "draws": 10,
       "levels": [
         {
-          "triangles": 5349,
-          "error": 0.0399688
+          "triangles": 5890,
+          "error": 0.0399908
         },
         {
-          "triangles": 733,
-          "error": 0.1763358
+          "triangles": 701,
+          "error": 0.2785144
         }
       ]
     },
     {
       "name": "machine-turret-yoke",
-      "sourceTriangles": 76461,
+      "sourceTriangles": 99239,
       "draws": 10,
       "levels": [
         {
-          "triangles": 7683,
-          "error": 0.0399351
+          "triangles": 9184,
+          "error": 0.0399151
         },
         {
-          "triangles": 962,
-          "error": 0.1796206
+          "triangles": 771,
+          "error": 0.2790071
         }
       ]
     },
     {
       "name": "machine-turret-mast",
-      "sourceTriangles": 51514,
+      "sourceTriangles": 62902,
       "draws": 13,
       "levels": [
         {
-          "triangles": 5882,
-          "error": 0.0399683
+          "triangles": 6592,
+          "error": 0.039991
         },
         {
-          "triangles": 795,
-          "error": 0.1789694
+          "triangles": 726,
+          "error": 0.2788181
         }
       ]
     },
     {
       "name": "machine-shield-lens",
-      "sourceTriangles": 16097,
+      "sourceTriangles": 27486,
       "draws": 8,
       "levels": [
         {
-          "triangles": 4247,
-          "error": 0.0354304
+          "triangles": 4286,
+          "error": 0.0389441
         },
         {
-          "triangles": 623,
-          "error": 0.1606397
+          "triangles": 638,
+          "error": 0.1747875
         }
       ]
     },
@@ -476,11 +476,11 @@
       "levels": [
         {
           "triangles": 4258,
-          "error": 0.0354304
+          "error": 0.0354305
         },
         {
-          "triangles": 639,
-          "error": 0.1606397
+          "triangles": 634,
+          "error": 0.1618172
         }
       ]
     },
@@ -490,12 +490,12 @@
       "draws": 6,
       "levels": [
         {
-          "triangles": 4255,
-          "error": 0.0354304
+          "triangles": 4254,
+          "error": 0.0354305
         },
         {
-          "triangles": 613,
-          "error": 0.1606397
+          "triangles": 620,
+          "error": 0.1618172
         }
       ]
     }

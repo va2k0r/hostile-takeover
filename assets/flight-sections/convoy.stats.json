@@ -1,8 +1,8 @@
 {
   "source": "public/assets/design-foundry/convoy.glb",
   "sourceSha256": "badc9e626783271f0ed3db5372e06b07cb56a829a131502ce911310125f8f2e3",
-  "sha256": "cd8ec4e570d6a7c4b0a01f291e89d830454d1f88657b64106a3ec84bc957d99a",
-  "bytes": 2588944,
+  "sha256": "0e05cd98e178b5bd4d662597a4697e4625fbc845e54e6010d67dddfafc54a368",
+  "bytes": 2549784,
   "sections": [
     {
       "name": "convoy-hull-lance-port",
@@ -10,12 +10,12 @@
       "draws": 12,
       "levels": [
         {
-          "triangles": 4230,
-          "error": 0.0368982
+          "triangles": 4231,
+          "error": 0.0374544
         },
         {
-          "triangles": 645,
-          "error": 0.1591211
+          "triangles": 644,
+          "error": 0.1594535
         }
       ]
     },
@@ -25,12 +25,12 @@
       "draws": 12,
       "levels": [
         {
-          "triangles": 4259,
-          "error": 0.0398334
+          "triangles": 4305,
+          "error": 0.0374544
         },
         {
-          "triangles": 645,
-          "error": 0.1692873
+          "triangles": 641,
+          "error": 0.2393404
         }
       ]
     },
@@ -40,12 +40,12 @@
       "draws": 12,
       "levels": [
         {
-          "triangles": 4237,
-          "error": 0.0368982
+          "triangles": 4236,
+          "error": 0.0374544
         },
         {
-          "triangles": 644,
-          "error": 0.1591211
+          "triangles": 642,
+          "error": 0.1594535
         }
       ]
     },
@@ -60,7 +60,7 @@
         },
         {
           "triangles": 634,
-          "error": 0.0320693
+          "error": 0.0500278
         }
       ]
     },
@@ -75,7 +75,7 @@
         },
         {
           "triangles": 634,
-          "error": 0.0249725
+          "error": 0.0386869
         }
       ]
     },
@@ -90,7 +90,7 @@
         },
         {
           "triangles": 634,
-          "error": 0.0399906
+          "error": 0.0532151
         }
       ]
     },
@@ -104,8 +104,8 @@
           "error": 0
         },
         {
-          "triangles": 636,
-          "error": 0.1354843
+          "triangles": 634,
+          "error": 0.1354999
         }
       ]
     },
@@ -120,7 +120,7 @@
         },
         {
           "triangles": 636,
-          "error": 0.0716884
+          "error": 0.0914302
         }
       ]
     },
@@ -134,8 +134,8 @@
           "error": 0.0277727
         },
         {
-          "triangles": 637,
-          "error": 0.0885877
+          "triangles": 626,
+          "error": 0.1208356
         }
       ]
     },
@@ -146,11 +146,11 @@
       "levels": [
         {
           "triangles": 4229,
-          "error": 0.0369992
+          "error": 0.0375482
         },
         {
-          "triangles": 644,
-          "error": 0.1721563
+          "triangles": 646,
+          "error": 0.1732336
         }
       ]
     },
@@ -160,12 +160,12 @@
       "draws": 12,
       "levels": [
         {
-          "triangles": 4291,
-          "error": 0.0392881
+          "triangles": 4302,
+          "error": 0.0375482
         },
         {
-          "triangles": 656,
-          "error": 0.1721563
+          "triangles": 640,
+          "error": 0.2163335
         }
       ]
     },
@@ -176,11 +176,11 @@
       "levels": [
         {
           "triangles": 4232,
-          "error": 0.0369992
+          "error": 0.0375482
         },
         {
-          "triangles": 644,
-          "error": 0.1721563
+          "triangles": 643,
+          "error": 0.1732336
         }
       ]
     },
@@ -195,7 +195,7 @@
         },
         {
           "triangles": 634,
-          "error": 0.0397156
+          "error": 0.0598137
         }
       ]
     },
@@ -210,7 +210,7 @@
         },
         {
           "triangles": 634,
-          "error": 0.0353666
+          "error": 0.0503663
         }
       ]
     },
@@ -225,7 +225,7 @@
         },
         {
           "triangles": 634,
-          "error": 0.0437159
+          "error": 0.0604087
         }
       ]
     },
@@ -239,8 +239,8 @@
           "error": 0
         },
         {
-          "triangles": 637,
-          "error": 0.1354843
+          "triangles": 635,
+          "error": 0.1354998
         }
       ]
     },
@@ -254,8 +254,8 @@
           "error": 0
         },
         {
-          "triangles": 637,
-          "error": 0.0716882
+          "triangles": 634,
+          "error": 0.1279448
         }
       ]
     },
@@ -266,11 +266,11 @@
       "levels": [
         {
           "triangles": 4195,
-          "error": 0.0277735
+          "error": 0.0277736
         },
         {
-          "triangles": 637,
-          "error": 0.0835138
+          "triangles": 626,
+          "error": 0.1523003
         }
       ]
     },
@@ -284,8 +284,8 @@
           "error": 0
         },
         {
-          "triangles": 651,
-          "error": 0.1726052
+          "triangles": 653,
+          "error": 0.1731381
         }
       ]
     },
@@ -299,8 +299,8 @@
           "error": 0
         },
         {
-          "triangles": 644,
-          "error": 0.1726052
+          "triangles": 642,
+          "error": 0.1731381
         }
       ]
     },
@@ -315,7 +315,7 @@
         },
         {
           "triangles": 653,
-          "error": 0.1726052
+          "error": 0.1731381
         }
       ]
     },
@@ -330,7 +330,7 @@
         },
         {
           "triangles": 640,
-          "error": 0.0050068
+          "error": 0.0050072
         }
       ]
     },
@@ -345,7 +345,7 @@
         },
         {
           "triangles": 640,
-          "error": 0.0050044
+          "error": 0.0050048
         }
       ]
     }

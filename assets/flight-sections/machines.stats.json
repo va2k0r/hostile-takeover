@@ -1,21 +1,21 @@
 {
   "source": "public/assets/machine-sections/sections.glb",
-  "sourceSha256": "692d6e6941f1f50c78feea4195553fea9f84067e0ffc4cb780d4e87945dec025",
-  "sha256": "5e5f367ce046a42ef0905a6e2b30a81bc8762c26bfb880e88a22af54b9966c25",
-  "bytes": 2866688,
+  "sourceSha256": "b9502ce13710d50d5362c0a9d42216c560e6ec843cb18d2d39b6f76f62b7e959",
+  "sha256": "9a070c058d7b69985d4f9cbe819d95340c8a6fa9c4861e0fb31fec229467b4eb",
+  "bytes": 2895692,
   "sections": [
     {
       "name": "fighter-bow-axial-optic",
-      "sourceTriangles": 6361,
+      "sourceTriangles": 7111,
       "draws": 4,
       "levels": [
         {
-          "triangles": 1223,
-          "error": 0.039369
+          "triangles": 1240,
+          "error": 0.0393766
         },
         {
-          "triangles": 216,
-          "error": 0.1196462
+          "triangles": 215,
+          "error": 0.2427697
         }
       ]
     },
@@ -26,71 +26,71 @@
       "levels": [
         {
           "triangles": 1198,
-          "error": 0.0373819
+          "error": 0.0395304
         },
         {
-          "triangles": 225,
-          "error": 0.1308074
+          "triangles": 219,
+          "error": 0.1276076
         }
       ]
     },
     {
       "name": "fighter-stern-turntable",
-      "sourceTriangles": 6292,
+      "sourceTriangles": 6295,
       "draws": 3,
       "levels": [
         {
-          "triangles": 1244,
-          "error": 0.0398195
+          "triangles": 1252,
+          "error": 0.0399323
         },
         {
           "triangles": 216,
-          "error": 0.1027995
+          "error": 0.1939598
         }
       ]
     },
     {
       "name": "capital-bow-recessed-prow",
-      "sourceTriangles": 8786,
+      "sourceTriangles": 8822,
       "draws": 6,
       "levels": [
         {
-          "triangles": 2031,
-          "error": 0.0396327
+          "triangles": 2033,
+          "error": 0.0398686
         },
         {
-          "triangles": 296,
-          "error": 0.1644715
+          "triangles": 294,
+          "error": 0.1655598
         }
       ]
     },
     {
       "name": "capital-mid-gimbal",
-      "sourceTriangles": 6479,
+      "sourceTriangles": 6478,
       "draws": 3,
       "levels": [
         {
-          "triangles": 2023,
-          "error": 0.0385379
+          "triangles": 2038,
+          "error": 0.0385749
         },
         {
-          "triangles": 290,
-          "error": 0.1706428
+          "triangles": 292,
+          "error": 0.2042198
         }
       ]
     },
     {
       "name": "capital-stern-stator",
-      "sourceTriangles": 6270,
+      "sourceTriangles": 7229,
       "draws": 3,
       "levels": [
         {
-          "triangles": 2007,
-          "error": 0.0399267
+          "triangles": 2026,
+          "error": 0.0399326
         },
         {
-          "triangles": 292,
-          "error": 0.1555093
+          "triangles": 295,
+          "error": 0.1659485
         }
       ]
     },
@@ -100,12 +100,12 @@
       "draws": 3,
       "levels": [
         {
-          "triangles": 1996,
-          "error": 0.0122134
+          "triangles": 1998,
+          "error": 0.0132091
         },
         {
-          "triangles": 279,
-          "error": 0.0931345
+          "triangles": 278,
+          "error": 0.1544475
         }
       ]
     },
@@ -116,26 +116,26 @@
       "levels": [
         {
           "triangles": 2020,
-          "error": 0.0303163
+          "error": 0.0348496
         },
         {
-          "triangles": 305,
-          "error": 0.1705577
+          "triangles": 302,
+          "error": 0.2609214
         }
       ]
     },
     {
       "name": "cargo-mid-keel-cage",
-      "sourceTriangles": 9097,
+      "sourceTriangles": 10686,
       "draws": 9,
       "levels": [
         {
-          "triangles": 2038,
-          "error": 0.0397708
+          "triangles": 2073,
+          "error": 0.0397371
         },
         {
-          "triangles": 307,
-          "error": 0.1470185
+          "triangles": 312,
+          "error": 0.2009382
         }
       ]
     },
@@ -146,26 +146,26 @@
       "levels": [
         {
           "triangles": 2003,
-          "error": 0.0378606
+          "error": 0.0378652
         },
         {
-          "triangles": 291,
-          "error": 0.0975142
+          "triangles": 289,
+          "error": 0.2299863
         }
       ]
     },
     {
       "name": "freighter-bow-slant-hood",
-      "sourceTriangles": 6274,
+      "sourceTriangles": 6502,
       "draws": 3,
       "levels": [
         {
-          "triangles": 2022,
-          "error": 0.0329526
+          "triangles": 2033,
+          "error": 0.0393744
         },
         {
-          "triangles": 291,
-          "error": 0.1359068
+          "triangles": 293,
+          "error": 0.1515272
         }
       ]
     },
@@ -175,102 +175,102 @@
       "draws": 4,
       "levels": [
         {
-          "triangles": 2016,
-          "error": 0.0392989
+          "triangles": 2062,
+          "error": 0.0389635
         },
         {
-          "triangles": 324,
-          "error": 0.1324336
+          "triangles": 320,
+          "error": 0.1557141
         }
       ]
     },
     {
       "name": "freighter-stern-recessed-tail",
-      "sourceTriangles": 8816,
+      "sourceTriangles": 8920,
       "draws": 7,
       "levels": [
         {
-          "triangles": 2037,
-          "error": 0.0393086
+          "triangles": 2050,
+          "error": 0.0393457
         },
         {
-          "triangles": 301,
-          "error": 0.0898289
+          "triangles": 304,
+          "error": 0.2276605
         }
       ]
     },
     {
       "name": "builder-bow-capture-tines",
-      "sourceTriangles": 6687,
+      "sourceTriangles": 7611,
       "draws": 3,
       "levels": [
         {
-          "triangles": 1996,
-          "error": 0.0241209
+          "triangles": 1997,
+          "error": 0.0368482
         },
         {
-          "triangles": 286,
-          "error": 0.1588057
+          "triangles": 280,
+          "error": 0.2550931
         }
       ]
     },
     {
       "name": "builder-mid-service-drum",
-      "sourceTriangles": 7146,
+      "sourceTriangles": 7652,
       "draws": 6,
       "levels": [
         {
-          "triangles": 2061,
-          "error": 0.0379277
+          "triangles": 2055,
+          "error": 0.0389721
         },
         {
-          "triangles": 295,
-          "error": 0.1496371
+          "triangles": 296,
+          "error": 0.1668222
         }
       ]
     },
     {
       "name": "builder-stern-recovery-deck",
-      "sourceTriangles": 6349,
+      "sourceTriangles": 6351,
       "draws": 3,
       "levels": [
         {
-          "triangles": 1998,
-          "error": 0.0363553
+          "triangles": 2008,
+          "error": 0.0360417
         },
         {
-          "triangles": 293,
-          "error": 0.0750998
+          "triangles": 294,
+          "error": 0.1888437
         }
       ]
     },
     {
       "name": "refinery-counterflow",
-      "sourceTriangles": 42034,
+      "sourceTriangles": 44186,
       "draws": 3,
       "levels": [
         {
-          "triangles": 4192,
-          "error": 0.0397101
+          "triangles": 4204,
+          "error": 0.0396983
         },
         {
-          "triangles": 658,
-          "error": 0.1776797
+          "triangles": 644,
+          "error": 0.1759616
         }
       ]
     },
     {
       "name": "base-parallax",
-      "sourceTriangles": 30035,
+      "sourceTriangles": 30041,
       "draws": 3,
       "levels": [
         {
-          "triangles": 4190,
-          "error": 0.0102605
+          "triangles": 4185,
+          "error": 0.0118319
         },
         {
-          "triangles": 631,
-          "error": 0.1071436
+          "triangles": 634,
+          "error": 0.1368168
         }
       ]
     }
