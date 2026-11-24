@@ -1,5 +1,5 @@
 {
-  "sha256": "5d0a401710855fc665f59891720663b6cfd8f6c7b2a0d11ae481692b89a823cd",
+  "sha256": "574e014658bdd0107170855c930c45ea65410580bc1d9567fa99ff924db0f459",
   "sectors": [
     {
       "role": "mine",
@@ -109,11 +109,19 @@
       "radius": 0.46,
       "components": [
         "condenser",
-        "hub",
         "condenser",
         "hub",
         "condenser",
+        "condenser",
+        "condenser",
         "hub",
+        "condenser",
+        "condenser",
+        "condenser",
+        "hub",
+        "condenser",
+        "condenser",
+        "condenser",
         "condenser",
         "hub",
         "reactor",
@@ -381,21 +389,21 @@
     {
       "component": "reference-mine",
       "source": "orbital-sectors.glb",
-      "sourceSha256": "70775752bf891a7425b1f938548c9a878eebac2de693aa1dae65d2f089bec448",
+      "sourceSha256": "b9e2f10e569fd6dc69658098eed0e3a27f82c39c12a657ea0e64a72677250c5c",
       "sourceNode": "mineHeadframe-lod0",
-      "triangles": 20973
+      "triangles": 38517
     },
     {
       "component": "reference-refinery",
       "source": "orbital-sectors.glb",
-      "sourceSha256": "70775752bf891a7425b1f938548c9a878eebac2de693aa1dae65d2f089bec448",
+      "sourceSha256": "b9e2f10e569fd6dc69658098eed0e3a27f82c39c12a657ea0e64a72677250c5c",
       "sourceNode": "refineryDeck-lod0",
-      "triangles": 26877
+      "triangles": 61502
     },
     {
       "component": "reference-yard",
       "source": "orbital-sectors.glb",
-      "sourceSha256": "70775752bf891a7425b1f938548c9a878eebac2de693aa1dae65d2f089bec448",
+      "sourceSha256": "b9e2f10e569fd6dc69658098eed0e3a27f82c39c12a657ea0e64a72677250c5c",
       "sourceNode": "twinDockSector-lod0",
       "triangles": 9949
     },
@@ -458,51 +466,51 @@
     {
       "component": "wheel-third",
       "source": "wheel-third.glb",
-      "sourceSha256": "9301dc72368f0175b0d39509c419a37a18d9b207023529bcd75e5749370f964f",
+      "sourceSha256": "ad9cbac3a49b7d3458048d199bc20400acc5a91074dd848c6212b071c7503f1f",
       "sourceNode": null,
-      "triangles": 7809
+      "triangles": 18870
     },
     {
       "component": "wheel-rim",
       "source": "wheel-rim.glb",
-      "sourceSha256": "b675b04f617f19f4c5e0f09cfb507ac4df2a1f1b45a5b3ad714edee86257bb6a",
+      "sourceSha256": "156079bb9cbae3c11ac8a0f21be9edc0d475d8dd063cfde5ecea638d5efda9e4",
       "sourceNode": null,
-      "triangles": 9625
+      "triangles": 24192
     },
     {
       "component": "drydock-collar",
       "source": "drydock-collar.glb",
-      "sourceSha256": "1b31b63f5a13f88dbd36decf9f35c7dd33b63cd2cabd650e9e3a6a3c580692e5",
+      "sourceSha256": "796a01bfc9797bdfd5d8089e4239fbb70cf85f8e01a87603c2013a9ec807f807",
       "sourceNode": null,
-      "triangles": 8019
+      "triangles": 19408
     },
     {
       "component": "gallery-arc",
       "source": "gallery-arc.glb",
-      "sourceSha256": "8f24405fc80e48de62a94fb590db619c4cd67b78afb4dc432c05c42be9c776e6",
+      "sourceSha256": "efcf518baaf5c9da0f51ad1c1e55fe7b8075bb6f065205801f696f1b4a92032a",
       "sourceNode": null,
-      "triangles": 2502
+      "triangles": 5709
     },
     {
       "component": "ore-jaw",
       "source": "ore-jaw.glb",
       "sourceSha256": "2b0803a22eb4cec304f5113e69cb9b7894c655b73a7b41c1eec164177cb594e9",
       "sourceNode": null,
-      "triangles": 15820
+      "triangles": 71248
     },
     {
       "component": "pressure-column",
       "source": "pressure-column.glb",
       "sourceSha256": "3f95624de380eb08f7368b5166120112adc860a80f68f0a6de2f6a723b6b657a",
       "sourceNode": null,
-      "triangles": 6965
+      "triangles": 19329
     },
     {
       "component": "condenser",
       "source": "condenser.glb",
       "sourceSha256": "dccfe6dd0bd14b17ebe3632202d52e4cdc09c2e2e8f28334c6b2eb75dbb752db",
       "sourceNode": null,
-      "triangles": 7989
+      "triangles": 14836
     },
     {
       "component": "cradle",
@@ -523,7 +531,7 @@
       "source": "new-cable-arc.glb",
       "sourceSha256": "37f05d3429a17007bc96bed625c7541659c6d65e9d5145368c63ef85b5257237",
       "sourceNode": null,
-      "triangles": 19000
+      "triangles": 27989
     },
     {
       "component": "new-hanging-quay",
@@ -537,14 +545,14 @@
       "source": "new-drive-shaft.glb",
       "sourceSha256": "b1d9b4ca4b4b93a4718611423daa62ea49cb74f27a3472f426d9ccbb5a16f7cd",
       "sourceNode": null,
-      "triangles": 11998
+      "triangles": 11997
     },
     {
       "component": "new-kiln-shell",
       "source": "new-kiln-shell.glb",
       "sourceSha256": "2700fc295708a9006353fa5e61f14c456d174b83e77f3507c3e0ccb5dfaed3ec",
       "sourceNode": null,
-      "triangles": 11497
+      "triangles": 18976
     }
   ]
 }

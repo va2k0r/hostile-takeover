@@ -4,112 +4,112 @@
     "lod": 0,
     "triangles": 35440,
     "file": "industrial-kit.glb",
-    "fileBytes": 16209908,
-    "sha256": "d3b5bee9f072ac3a303ec033656bdd1380efad26435868c9b6fbda46ad5cf373"
+    "fileBytes": 16205460,
+    "sha256": "4b901b2e6d22b7b2d4e8eb7e4a140b48a5e56023708f8a68631d07e2d622976c"
   },
   {
     "asset": "station06",
     "lod": 1,
     "triangles": 7928,
     "file": "industrial-kit.glb",
-    "fileBytes": 16209908,
-    "sha256": "d3b5bee9f072ac3a303ec033656bdd1380efad26435868c9b6fbda46ad5cf373"
+    "fileBytes": 16205460,
+    "sha256": "4b901b2e6d22b7b2d4e8eb7e4a140b48a5e56023708f8a68631d07e2d622976c"
   },
   {
     "asset": "station13",
     "lod": 0,
     "triangles": 31711,
     "file": "industrial-kit.glb",
-    "fileBytes": 16209908,
-    "sha256": "d3b5bee9f072ac3a303ec033656bdd1380efad26435868c9b6fbda46ad5cf373"
+    "fileBytes": 16205460,
+    "sha256": "4b901b2e6d22b7b2d4e8eb7e4a140b48a5e56023708f8a68631d07e2d622976c"
   },
   {
     "asset": "station13",
     "lod": 1,
     "triangles": 6976,
     "file": "industrial-kit.glb",
-    "fileBytes": 16209908,
-    "sha256": "d3b5bee9f072ac3a303ec033656bdd1380efad26435868c9b6fbda46ad5cf373"
+    "fileBytes": 16205460,
+    "sha256": "4b901b2e6d22b7b2d4e8eb7e4a140b48a5e56023708f8a68631d07e2d622976c"
   },
   {
     "asset": "mineHeadframe",
     "lod": 0,
-    "triangles": 32119,
+    "triangles": 38867,
     "file": "orbital-sectors.glb",
-    "fileBytes": 11152468,
-    "sha256": "70775752bf891a7425b1f938548c9a878eebac2de693aa1dae65d2f089bec448"
+    "fileBytes": 21279056,
+    "sha256": "b9e2f10e569fd6dc69658098eed0e3a27f82c39c12a657ea0e64a72677250c5c"
   },
   {
     "asset": "mineHeadframe",
     "lod": 1,
-    "triangles": 5649,
+    "triangles": 38815,
     "file": "orbital-sectors.glb",
-    "fileBytes": 11152468,
-    "sha256": "70775752bf891a7425b1f938548c9a878eebac2de693aa1dae65d2f089bec448"
+    "fileBytes": 21279056,
+    "sha256": "b9e2f10e569fd6dc69658098eed0e3a27f82c39c12a657ea0e64a72677250c5c"
   },
   {
     "asset": "ring3Sector",
     "lod": 0,
-    "triangles": 3589,
+    "triangles": 3629,
     "file": "industrial-kit.glb",
-    "fileBytes": 16209908,
-    "sha256": "d3b5bee9f072ac3a303ec033656bdd1380efad26435868c9b6fbda46ad5cf373"
+    "fileBytes": 16205460,
+    "sha256": "4b901b2e6d22b7b2d4e8eb7e4a140b48a5e56023708f8a68631d07e2d622976c"
   },
   {
     "asset": "ring3Sector",
     "lod": 1,
-    "triangles": 1972,
+    "triangles": 2133,
     "file": "industrial-kit.glb",
-    "fileBytes": 16209908,
-    "sha256": "d3b5bee9f072ac3a303ec033656bdd1380efad26435868c9b6fbda46ad5cf373"
+    "fileBytes": 16205460,
+    "sha256": "4b901b2e6d22b7b2d4e8eb7e4a140b48a5e56023708f8a68631d07e2d622976c"
   },
   {
     "asset": "refineryDeck",
     "lod": 0,
-    "triangles": 36871,
+    "triangles": 68150,
     "file": "orbital-sectors.glb",
-    "fileBytes": 11152468,
-    "sha256": "70775752bf891a7425b1f938548c9a878eebac2de693aa1dae65d2f089bec448"
+    "fileBytes": 21279056,
+    "sha256": "b9e2f10e569fd6dc69658098eed0e3a27f82c39c12a657ea0e64a72677250c5c"
   },
   {
     "asset": "refineryDeck",
     "lod": 1,
-    "triangles": 6990,
+    "triangles": 60824,
     "file": "orbital-sectors.glb",
-    "fileBytes": 11152468,
-    "sha256": "70775752bf891a7425b1f938548c9a878eebac2de693aa1dae65d2f089bec448"
+    "fileBytes": 21279056,
+    "sha256": "b9e2f10e569fd6dc69658098eed0e3a27f82c39c12a657ea0e64a72677250c5c"
   },
   {
     "asset": "ring4Sector",
     "lod": 0,
     "triangles": 1823,
     "file": "industrial-kit.glb",
-    "fileBytes": 16209908,
-    "sha256": "d3b5bee9f072ac3a303ec033656bdd1380efad26435868c9b6fbda46ad5cf373"
+    "fileBytes": 16205460,
+    "sha256": "4b901b2e6d22b7b2d4e8eb7e4a140b48a5e56023708f8a68631d07e2d622976c"
   },
   {
     "asset": "ring4Sector",
     "lod": 1,
     "triangles": 1002,
     "file": "industrial-kit.glb",
-    "fileBytes": 16209908,
-    "sha256": "d3b5bee9f072ac3a303ec033656bdd1380efad26435868c9b6fbda46ad5cf373"
+    "fileBytes": 16205460,
+    "sha256": "4b901b2e6d22b7b2d4e8eb7e4a140b48a5e56023708f8a68631d07e2d622976c"
   },
   {
     "asset": "twinDockSector",
     "lod": 0,
     "triangles": 9949,
     "file": "orbital-sectors.glb",
-    "fileBytes": 11152468,
-    "sha256": "70775752bf891a7425b1f938548c9a878eebac2de693aa1dae65d2f089bec448"
+    "fileBytes": 21279056,
+    "sha256": "b9e2f10e569fd6dc69658098eed0e3a27f82c39c12a657ea0e64a72677250c5c"
   },
   {
     "asset": "twinDockSector",
     "lod": 1,
-    "triangles": 4267,
+    "triangles": 5722,
     "file": "orbital-sectors.glb",
-    "fileBytes": 11152468,
-    "sha256": "70775752bf891a7425b1f938548c9a878eebac2de693aa1dae65d2f089bec448"
+    "fileBytes": 21279056,
+    "sha256": "b9e2f10e569fd6dc69658098eed0e3a27f82c39c12a657ea0e64a72677250c5c"
   },
   {
     "asset": "crate14",

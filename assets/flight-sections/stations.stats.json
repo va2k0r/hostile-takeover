@@ -1,36 +1,36 @@
 {
   "source": "public/assets/station-sections/sectors.glb",
-  "sourceSha256": "5d0a401710855fc665f59891720663b6cfd8f6c7b2a0d11ae481692b89a823cd",
-  "sha256": "5caf84965afeca9f97aec87c6897c8a7e715a5161abc7bfe34739b01d7b4f20b",
-  "bytes": 8188632,
+  "sourceSha256": "574e014658bdd0107170855c930c45ea65410580bc1d9567fa99ff924db0f459",
+  "sha256": "e0281629b36fbfabcc6d2ad6e0edf9b98b75f64d2b9fa856ab123c812781ecca",
+  "bytes": 8878684,
   "sections": [
     {
       "name": "mine-headframe",
-      "sourceTriangles": 20973,
+      "sourceTriangles": 38517,
       "draws": 1,
       "levels": [
         {
-          "triangles": 4175,
-          "error": 0.0065424
+          "triangles": 4186,
+          "error": 0.0080492
         },
         {
-          "triangles": 633,
-          "error": 0.0239739
+          "triangles": 639,
+          "error": 0.023429
         }
       ]
     },
     {
       "name": "mine-jaw",
-      "sourceTriangles": 21118,
+      "sourceTriangles": 76546,
       "draws": 3,
       "levels": [
         {
-          "triangles": 4598,
-          "error": 0.0394547
+          "triangles": 5665,
+          "error": 0.0398306
         },
         {
-          "triangles": 678,
-          "error": 0.1752521
+          "triangles": 674,
+          "error": 0.2746605
         }
       ]
     },
@@ -40,27 +40,27 @@
       "draws": 6,
       "levels": [
         {
-          "triangles": 4589,
-          "error": 0.0399909
+          "triangles": 5322,
+          "error": 0.0398258
         },
         {
-          "triangles": 923,
-          "error": 0.1792475
+          "triangles": 789,
+          "error": 0.2797944
         }
       ]
     },
     {
       "name": "mine-bucketwheel",
-      "sourceTriangles": 25772,
+      "sourceTriangles": 40339,
       "draws": 7,
       "levels": [
         {
-          "triangles": 6176,
-          "error": 0.0397432
+          "triangles": 8396,
+          "error": 0.0397911
         },
         {
-          "triangles": 890,
-          "error": 0.174141
+          "triangles": 613,
+          "error": 0.2787762
         }
       ]
     },
@@ -70,87 +70,87 @@
       "draws": 4,
       "levels": [
         {
-          "triangles": 5060,
-          "error": 0.0399151
+          "triangles": 7570,
+          "error": 0.0399317
         },
         {
-          "triangles": 724,
-          "error": 0.1786105
+          "triangles": 631,
+          "error": 0.2538728
         }
       ]
     },
     {
       "name": "refinery-columns",
-      "sourceTriangles": 26877,
+      "sourceTriangles": 61502,
       "draws": 2,
       "levels": [
         {
-          "triangles": 4127,
-          "error": 0.0234316
+          "triangles": 4128,
+          "error": 0.026461
         },
         {
-          "triangles": 627,
-          "error": 0.0560777
+          "triangles": 603,
+          "error": 0.0550309
         }
       ]
     },
     {
       "name": "refinery-bank",
-      "sourceTriangles": 41952,
+      "sourceTriangles": 188028,
       "draws": 4,
       "levels": [
         {
-          "triangles": 5793,
-          "error": 0.0398261
+          "triangles": 19173,
+          "error": 0.0398908
         },
         {
-          "triangles": 883,
-          "error": 0.1798204
+          "triangles": 782,
+          "error": 0.2656303
         }
       ]
     },
     {
       "name": "refinery-annulus",
-      "sourceTriangles": 24647,
+      "sourceTriangles": 53781,
       "draws": 3,
       "levels": [
         {
-          "triangles": 4258,
-          "error": 0.0397911
+          "triangles": 5529,
+          "error": 0.0399542
         },
         {
-          "triangles": 624,
-          "error": 0.1279972
+          "triangles": 612,
+          "error": 0.2756991
         }
       ]
     },
     {
       "name": "refinery-cascade",
-      "sourceTriangles": 49132,
+      "sourceTriangles": 82037,
       "draws": 3,
       "levels": [
         {
-          "triangles": 5339,
-          "error": 0.0398268
+          "triangles": 6692,
+          "error": 0.0399867
         },
         {
-          "triangles": 657,
-          "error": 0.1758452
+          "triangles": 618,
+          "error": 0.2779351
         }
       ]
     },
     {
       "name": "refinery-fan",
-      "sourceTriangles": 48883,
+      "sourceTriangles": 89965,
       "draws": 2,
       "levels": [
         {
-          "triangles": 4511,
-          "error": 0.0399206
+          "triangles": 5046,
+          "error": 0.0398807
         },
         {
-          "triangles": 645,
-          "error": 0.1701214
+          "triangles": 619,
+          "error": 0.1676071
         }
       ]
     },
@@ -160,42 +160,42 @@
       "draws": 2,
       "levels": [
         {
-          "triangles": 4119,
-          "error": 0.0089394
+          "triangles": 4187,
+          "error": 0.0098699
         },
         {
-          "triangles": 622,
-          "error": 0.0811004
+          "triangles": 627,
+          "error": 0.0825724
         }
       ]
     },
     {
       "name": "yard-slip",
-      "sourceTriangles": 18389,
+      "sourceTriangles": 25236,
       "draws": 4,
       "levels": [
         {
-          "triangles": 4331,
-          "error": 0.0398403
+          "triangles": 4542,
+          "error": 0.0397263
         },
         {
-          "triangles": 630,
-          "error": 0.1697163
+          "triangles": 619,
+          "error": 0.2568538
         }
       ]
     },
     {
       "name": "yard-collars",
-      "sourceTriangles": 25488,
+      "sourceTriangles": 48266,
       "draws": 4,
       "levels": [
         {
-          "triangles": 7611,
-          "error": 0.0397918
+          "triangles": 8420,
+          "error": 0.0396221
         },
         {
-          "triangles": 1075,
-          "error": 0.1775073
+          "triangles": 1062,
+          "error": 0.2708753
         }
       ]
     },
@@ -205,12 +205,12 @@
       "draws": 5,
       "levels": [
         {
-          "triangles": 5184,
-          "error": 0.0397308
+          "triangles": 6131,
+          "error": 0.0398941
         },
         {
-          "triangles": 822,
-          "error": 0.1691659
+          "triangles": 703,
+          "error": 0.2795634
         }
       ]
     },
@@ -220,117 +220,117 @@
       "draws": 3,
       "levels": [
         {
-          "triangles": 4193,
-          "error": 0.037908
+          "triangles": 4371,
+          "error": 0.0398258
         },
         {
-          "triangles": 634,
-          "error": 0.15747
+          "triangles": 625,
+          "error": 0.140288
         }
       ]
     },
     {
       "name": "base-twinwheel",
-      "sourceTriangles": 7809,
+      "sourceTriangles": 18870,
       "draws": 2,
       "levels": [
         {
           "triangles": 4198,
-          "error": 0.0129409
+          "error": 0.0173714
         },
         {
-          "triangles": 620,
-          "error": 0.0455216
+          "triangles": 632,
+          "error": 0.0403205
         }
       ]
     },
     {
       "name": "base-chord",
-      "sourceTriangles": 32181,
+      "sourceTriangles": 39028,
       "draws": 4,
       "levels": [
         {
-          "triangles": 4591,
-          "error": 0.0396326
+          "triangles": 5493,
+          "error": 0.0399525
         },
         {
-          "triangles": 620,
-          "error": 0.1609537
+          "triangles": 622,
+          "error": 0.2525599
         }
       ]
     },
     {
       "name": "base-petal",
-      "sourceTriangles": 6704,
+      "sourceTriangles": 13118,
       "draws": 3,
       "levels": [
         {
-          "triangles": 4194,
-          "error": 0.0318709
+          "triangles": 4697,
+          "error": 0.039804
         },
         {
-          "triangles": 630,
-          "error": 0.1618363
+          "triangles": 622,
+          "error": 0.2504788
         }
       ]
     },
     {
       "name": "base-spindle",
-      "sourceTriangles": 25785,
+      "sourceTriangles": 52716,
       "draws": 5,
       "levels": [
         {
-          "triangles": 4238,
-          "error": 0.0397457
+          "triangles": 4744,
+          "error": 0.0398253
         },
         {
-          "triangles": 616,
-          "error": 0.1425937
+          "triangles": 626,
+          "error": 0.2396258
         }
       ]
     },
     {
       "name": "base-weave",
-      "sourceTriangles": 45355,
+      "sourceTriangles": 72743,
       "draws": 4,
       "levels": [
         {
-          "triangles": 4823,
-          "error": 0.0397187
+          "triangles": 5843,
+          "error": 0.0398292
         },
         {
-          "triangles": 667,
-          "error": 0.1750394
+          "triangles": 640,
+          "error": 0.2792811
         }
       ]
     },
     {
       "name": "mine-tandem",
-      "sourceTriangles": 30644,
+      "sourceTriangles": 30642,
       "draws": 7,
       "levels": [
         {
-          "triangles": 4605,
-          "error": 0.0399098
+          "triangles": 5354,
+          "error": 0.0397957
         },
         {
-          "triangles": 713,
-          "error": 0.1733827
+          "triangles": 646,
+          "error": 0.2780217
         }
       ]
     },
     {
       "name": "refinery-kiln",
-      "sourceTriangles": 28144,
+      "sourceTriangles": 35623,
       "draws": 8,
       "levels": [
         {
-          "triangles": 4533,
-          "error": 0.0398017
+          "triangles": 5319,
+          "error": 0.0399597
         },
         {
-          "triangles": 723,
-          "error": 0.178112
+          "triangles": 670,
+          "error": 0.2762504
         }
       ]
     },
@@ -340,27 +340,27 @@
       "draws": 3,
       "levels": [
         {
-          "triangles": 4316,
-          "error": 0.0394005
+          "triangles": 4418,
+          "error": 0.0393083
         },
         {
-          "triangles": 659,
-          "error": 0.1501462
+          "triangles": 643,
+          "error": 0.1676072
         }
       ]
     },
     {
       "name": "base-suspended",
-      "sourceTriangles": 35647,
+      "sourceTriangles": 44636,
       "draws": 3,
       "levels": [
         {
-          "triangles": 4678,
-          "error": 0.0399862
+          "triangles": 5035,
+          "error": 0.0398521
         },
         {
-          "triangles": 884,
-          "error": 0.158171
+          "triangles": 784,
+          "error": 0.1768367
         }
       ]
     }

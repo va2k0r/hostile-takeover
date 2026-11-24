@@ -1,231 +1,231 @@
 {
   "source": "public/assets/design-foundry/axial.glb",
-  "sourceSha256": "a374e0c1f833b49a7b96ac8f8ff24d337b65a79fd25061e6fca5a6585d98210a",
-  "sha256": "0b8a82742dcc1912f0c429ba128f11f08bbe368c65321ddf87c604b01017aef5",
-  "bytes": 2386164,
+  "sourceSha256": "eac07051c6c65ed6640588bc649ba96b52a1dbabe11c0ccc33ab3d15b867f696",
+  "sha256": "52201f25acf11e279a9567ab09ded6dcba824261811e27d04527d71e5fac274a",
+  "bytes": 2454160,
   "sections": [
     {
       "name": "fighter-bow-adze",
-      "sourceTriangles": 1642,
+      "sourceTriangles": 1641,
       "draws": 3,
       "levels": [
         {
-          "triangles": 1196,
-          "error": 0.0177947
+          "triangles": 1197,
+          "error": 0.0206454
         },
         {
-          "triangles": 208,
-          "error": 0.1018607
+          "triangles": 207,
+          "error": 0.1565529
         }
       ]
     },
     {
       "name": "fighter-mid-flying-buttress",
-      "sourceTriangles": 6366,
+      "sourceTriangles": 7104,
       "draws": 4,
       "levels": [
         {
-          "triangles": 1242,
-          "error": 0.039786
+          "triangles": 1277,
+          "error": 0.0394686
         },
         {
-          "triangles": 223,
-          "error": 0.1347198
+          "triangles": 227,
+          "error": 0.1226552
         }
       ]
     },
     {
       "name": "fighter-stern-offset-jets",
-      "sourceTriangles": 7225,
+      "sourceTriangles": 7864,
       "draws": 7,
       "levels": [
         {
-          "triangles": 1418,
-          "error": 0.0394705
+          "triangles": 1441,
+          "error": 0.039683
         },
         {
-          "triangles": 245,
-          "error": 0.1762215
+          "triangles": 238,
+          "error": 0.1952795
         }
       ]
     },
     {
       "name": "capital-bow-wedge-ram",
-      "sourceTriangles": 2194,
+      "sourceTriangles": 4912,
       "draws": 4,
       "levels": [
         {
-          "triangles": 1998,
-          "error": 0.0250727
+          "triangles": 2045,
+          "error": 0.0396478
         },
         {
-          "triangles": 272,
-          "error": 0.163767
+          "triangles": 300,
+          "error": 0.1713507
         }
       ]
     },
     {
       "name": "capital-mid-citadel-vault",
-      "sourceTriangles": 4030,
+      "sourceTriangles": 7056,
       "draws": 4,
       "levels": [
         {
-          "triangles": 2018,
-          "error": 0.0399453
+          "triangles": 2086,
+          "error": 0.0381367
         },
         {
-          "triangles": 286,
-          "error": 0.1799814
+          "triangles": 311,
+          "error": 0.2171107
         }
       ]
     },
     {
       "name": "capital-stern-furnace-bank",
-      "sourceTriangles": 8812,
+      "sourceTriangles": 9684,
       "draws": 7,
       "levels": [
         {
-          "triangles": 2065,
-          "error": 0.0393905
+          "triangles": 2124,
+          "error": 0.0398134
         },
         {
-          "triangles": 284,
-          "error": 0.1765028
+          "triangles": 282,
+          "error": 0.2306964
         }
       ]
     },
     {
       "name": "cargo-bow-lock-gate",
-      "sourceTriangles": 1641,
+      "sourceTriangles": 10728,
       "draws": 3,
       "levels": [
         {
-          "triangles": 1641,
-          "error": 0
+          "triangles": 2079,
+          "error": 0.0377456
         },
         {
-          "triangles": 276,
-          "error": 0.1501673
+          "triangles": 306,
+          "error": 0.2068645
         }
       ]
     },
     {
       "name": "cargo-mid-girder-bed",
-      "sourceTriangles": 6376,
+      "sourceTriangles": 37644,
       "draws": 4,
       "levels": [
         {
-          "triangles": 2037,
-          "error": 0.0395992
+          "triangles": 2231,
+          "error": 0.0397566
         },
         {
-          "triangles": 310,
-          "error": 0.166945
+          "triangles": 126,
+          "error": 0.2739896
         }
       ]
     },
     {
       "name": "cargo-stern-paired-tug",
-      "sourceTriangles": 5723,
+      "sourceTriangles": 41522,
       "draws": 6,
       "levels": [
         {
-          "triangles": 2050,
-          "error": 0.0384231
+          "triangles": 2226,
+          "error": 0.039871
         },
         {
-          "triangles": 293,
-          "error": 0.1759118
+          "triangles": 314,
+          "error": 0.258486
         }
       ]
     },
     {
       "name": "freighter-bow-storm-hood",
-      "sourceTriangles": 1657,
+      "sourceTriangles": 10744,
       "draws": 3,
       "levels": [
         {
-          "triangles": 1657,
-          "error": 0
+          "triangles": 2104,
+          "error": 0.0379341
         },
         {
-          "triangles": 277,
-          "error": 0.1321366
+          "triangles": 305,
+          "error": 0.2701671
         }
       ]
     },
     {
       "name": "freighter-mid-gantry-saddle",
-      "sourceTriangles": 6376,
+      "sourceTriangles": 37644,
       "draws": 4,
       "levels": [
         {
-          "triangles": 2043,
-          "error": 0.0396508
+          "triangles": 2254,
+          "error": 0.0397674
         },
         {
-          "triangles": 311,
-          "error": 0.1730346
+          "triangles": 137,
+          "error": 0.2787339
         }
       ]
     },
     {
       "name": "freighter-stern-transit-bus",
-      "sourceTriangles": 3943,
+      "sourceTriangles": 4161,
       "draws": 7,
       "levels": [
         {
-          "triangles": 2011,
+          "triangles": 2019,
           "error": 0.0388288
         },
         {
-          "triangles": 286,
-          "error": 0.1753078
+          "triangles": 285,
+          "error": 0.1733815
         }
       ]
     },
     {
       "name": "builder-bow-shoe-fork",
-      "sourceTriangles": 4699,
+      "sourceTriangles": 31960,
       "draws": 3,
       "levels": [
         {
-          "triangles": 2008,
-          "error": 0.0390483
+          "triangles": 2161,
+          "error": 0.0380358
         },
         {
-          "triangles": 289,
-          "error": 0.1406012
+          "triangles": 300,
+          "error": 0.249311
         }
       ]
     },
     {
       "name": "builder-mid-workbench",
-      "sourceTriangles": 2266,
+      "sourceTriangles": 10083,
       "draws": 5,
       "levels": [
         {
-          "triangles": 1984,
-          "error": 0.0205381
+          "triangles": 2141,
+          "error": 0.0395252
         },
         {
-          "triangles": 287,
-          "error": 0.1517571
+          "triangles": 321,
+          "error": 0.1793154
         }
       ]
     },
     {
       "name": "builder-stern-tug-stacks",
-      "sourceTriangles": 7769,
+      "sourceTriangles": 8408,
       "draws": 7,
       "levels": [
         {
-          "triangles": 2171,
-          "error": 0.0386512
+          "triangles": 2182,
+          "error": 0.0395843
         },
         {
-          "triangles": 308,
-          "error": 0.1680852
+          "triangles": 307,
+          "error": 0.2695562
         }
       ]
     }

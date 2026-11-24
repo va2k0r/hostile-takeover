@@ -13,7 +13,7 @@
     "courier": "https://www.fab.com/listings/9042d765-4f32-4ef3-892a-aca6c14f8f60"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "sha256": "8eb54f0fa4d1ee3c65414a5d52bb58029d2ad59e846673dbc9e9b7080e6225bd",
+  "sha256": "6a97648b145251480e8bbb15d07b439780ec6a04774c56a2fa4440506e152982",
   "sections": [
     {
       "id": "fighter-bow-needle",
@@ -37,7 +37,7 @@
         0.33,
         0.135
       ],
-      "triangles": 2847
+      "triangles": 2849
     },
     {
       "id": "fighter-bow-mandibles",
@@ -49,7 +49,7 @@
         0.33,
         0.135
       ],
-      "triangles": 10612
+      "triangles": 46204
     },
     {
       "id": "fighter-bow-visor",
@@ -61,7 +61,7 @@
         0.33,
         0.135
       ],
-      "triangles": 3816
+      "triangles": 7096
     },
     {
       "id": "fighter-bow-wingswept",
@@ -130,7 +130,7 @@
         0.33,
         0.135
       ],
-      "triangles": 6156
+      "triangles": 6153
     },
     {
       "id": "fighter-mid-coupled",
@@ -142,7 +142,7 @@
         0.33,
         0.135
       ],
-      "triangles": 16398
+      "triangles": 25410
     },
     {
       "id": "fighter-mid-blade",
@@ -154,7 +154,7 @@
         0.33,
         0.135
       ],
-      "triangles": 6968
+      "triangles": 9240
     },
     {
       "id": "fighter-mid-dart",
@@ -166,7 +166,7 @@
         0.33,
         0.135
       ],
-      "triangles": 1919
+      "triangles": 2347
     },
     {
       "id": "fighter-mid-turbines",
@@ -178,7 +178,7 @@
         0.33,
         0.135
       ],
-      "triangles": 27745,
+      "triangles": 27744,
       "nativeCut": {
         "uniformScale": 0.96768,
         "cutPlanes": [
@@ -209,7 +209,7 @@
         0.33,
         0.135
       ],
-      "triangles": 11429
+      "triangles": 16208
     },
     {
       "id": "fighter-stern-fan",
@@ -221,7 +221,7 @@
         0.33,
         0.135
       ],
-      "triangles": 8596
+      "triangles": 12920
     },
     {
       "id": "fighter-stern-vertical",
@@ -264,7 +264,7 @@
         0.53,
         0.285
       ],
-      "triangles": 1842
+      "triangles": 1841
     },
     {
       "id": "capital-bow-anvil",
@@ -276,7 +276,7 @@
         0.53,
         0.285
       ],
-      "triangles": 1856
+      "triangles": 2363
     },
     {
       "id": "capital-bow-ram",
@@ -288,7 +288,7 @@
         0.53,
         0.285
       ],
-      "triangles": 3612
+      "triangles": 15476
     },
     {
       "id": "capital-bow-breach",
@@ -312,7 +312,7 @@
         0.53,
         0.285
       ],
-      "triangles": 9463,
+      "triangles": 16003,
       "nativeCut": {
         "uniformScale": 1.11864,
         "cutPlanes": [
@@ -362,7 +362,7 @@
         0.53,
         0.285
       ],
-      "triangles": 13648
+      "triangles": 18192
     },
     {
       "id": "capital-mid-cruciform",
@@ -374,7 +374,7 @@
         0.53,
         0.285
       ],
-      "triangles": 9484
+      "triangles": 18670
     },
     {
       "id": "capital-mid-monitor",
@@ -386,7 +386,7 @@
         0.53,
         0.285
       ],
-      "triangles": 2180
+      "triangles": 2179
     },
     {
       "id": "capital-mid-derelict-vault",
@@ -398,7 +398,7 @@
         0.53,
         0.285
       ],
-      "triangles": 9772,
+      "triangles": 9799,
       "nativeCut": {
         "uniformScale": 1.2544,
         "cutPlanes": [
@@ -448,7 +448,7 @@
         0.53,
         0.285
       ],
-      "triangles": 4436
+      "triangles": 4434
     },
     {
       "id": "capital-stern-booms",
@@ -460,7 +460,7 @@
         0.53,
         0.285
       ],
-      "triangles": 11429
+      "triangles": 16208
     },
     {
       "id": "capital-stern-spires",
@@ -484,7 +484,7 @@
         0.53,
         0.285
       ],
-      "triangles": 9419,
+      "triangles": 9431,
       "nativeCut": {
         "uniformScale": 1.2324,
         "cutPlanes": [
@@ -522,7 +522,7 @@
         0.43,
         0.2
       ],
-      "triangles": 1856
+      "triangles": 2363
     },
     {
       "id": "cargo-bow-cab",
@@ -534,7 +534,7 @@
         0.43,
         0.2
       ],
-      "triangles": 2484
+      "triangles": 2504
     },
     {
       "id": "cargo-bow-forklift",
@@ -546,7 +546,7 @@
         0.43,
         0.2
       ],
-      "triangles": 5302
+      "triangles": 5299
     },
     {
       "id": "cargo-bow-observation",
@@ -558,7 +558,7 @@
         0.43,
         0.2
       ],
-      "triangles": 3612
+      "triangles": 15476
     },
     {
       "id": "cargo-bow-boxcab",
@@ -627,7 +627,7 @@
         0.43,
         0.2
       ],
-      "triangles": 2079,
+      "triangles": 2507,
       "cargo": [
         {
           "position": [
@@ -650,7 +650,7 @@
         {
           "position": [
             -0.2604,
-            0.20937,
+            0.21273,
             0.2546
           ],
           "width": 0.3844,
@@ -659,7 +659,7 @@
         {
           "position": [
             0.2604,
-            0.20805,
+            0.21278,
             0.2546
           ],
           "width": 0.3844,
@@ -677,7 +677,7 @@
         0.43,
         0.2
       ],
-      "triangles": 7184,
+      "triangles": 7192,
       "cargo": [
         {
           "position": [
@@ -709,7 +709,7 @@
         0.43,
         0.2
       ],
-      "triangles": 3652,
+      "triangles": 4788,
       "cargo": [
         {
           "position": [
@@ -741,7 +741,7 @@
         0.43,
         0.2
       ],
-      "triangles": 4248,
+      "triangles": 4246,
       "cargo": [
         {
           "position": [
@@ -812,7 +812,7 @@
         0.43,
         0.2
       ],
-      "triangles": 2353
+      "triangles": 3434
     },
     {
       "id": "cargo-stern-mules",
@@ -836,7 +836,7 @@
         0.43,
         0.2
       ],
-      "triangles": 11429
+      "triangles": 16208
     },
     {
       "id": "cargo-stern-flat",
@@ -848,7 +848,7 @@
         0.43,
         0.2
       ],
-      "triangles": 5848
+      "triangles": 9130
     },
     {
       "id": "cargo-stern-carrier-tail",
@@ -879,7 +879,7 @@
         0.46,
         0.23
       ],
-      "triangles": 1838
+      "triangles": 10883
     },
     {
       "id": "freighter-bow-breaker",
@@ -891,7 +891,7 @@
         0.46,
         0.23
       ],
-      "triangles": 1842
+      "triangles": 1841
     },
     {
       "id": "freighter-bow-bonnet",
@@ -903,7 +903,7 @@
         0.46,
         0.23
       ],
-      "triangles": 3816
+      "triangles": 7096
     },
     {
       "id": "freighter-bow-pickets",
@@ -915,7 +915,7 @@
         0.46,
         0.23
       ],
-      "triangles": 10612
+      "triangles": 46204
     },
     {
       "id": "freighter-bow-disc-crescent",
@@ -946,7 +946,7 @@
         0.46,
         0.23
       ],
-      "triangles": 11548,
+      "triangles": 14956,
       "cargo": [
         {
           "position": [
@@ -978,7 +978,7 @@
         0.46,
         0.23
       ],
-      "triangles": 7116,
+      "triangles": 8828,
       "cargo": [
         {
           "position": [
@@ -1010,7 +1010,7 @@
         0.46,
         0.23
       ],
-      "triangles": 2096,
+      "triangles": 2098,
       "cargo": [
         {
           "position": [
@@ -1060,12 +1060,12 @@
         0.46,
         0.23
       ],
-      "triangles": 2260,
+      "triangles": 2259,
       "cargo": [
         {
           "position": [
             0,
-            0.49843,
+            0.50431,
             -0.4026
           ],
           "width": 0.36,
@@ -1131,7 +1131,7 @@
         0.46,
         0.23
       ],
-      "triangles": 4436
+      "triangles": 4434
     },
     {
       "id": "freighter-stern-outriggers",
@@ -1143,7 +1143,7 @@
         0.46,
         0.23
       ],
-      "triangles": 15578
+      "triangles": 23951
     },
     {
       "id": "freighter-stern-trident",
@@ -1155,7 +1155,7 @@
         0.46,
         0.23
       ],
-      "triangles": 15404
+      "triangles": 21776
     },
     {
       "id": "freighter-stern-tower",
@@ -1217,7 +1217,7 @@
         0.43,
         0.22
       ],
-      "triangles": 5290
+      "triangles": 32425
     },
     {
       "id": "builder-bow-roller",
@@ -1229,7 +1229,7 @@
         0.43,
         0.22
       ],
-      "triangles": 1856
+      "triangles": 2363
     },
     {
       "id": "builder-bow-pilot",
@@ -1241,7 +1241,7 @@
         0.43,
         0.22
       ],
-      "triangles": 3612
+      "triangles": 15476
     },
     {
       "id": "builder-bow-shear",
@@ -1265,7 +1265,7 @@
         0.43,
         0.22
       ],
-      "triangles": 4772,
+      "triangles": 12168,
       "nativeCut": {
         "uniformScale": 0.86268,
         "cutPlanes": [
@@ -1284,11 +1284,11 @@
         0.43,
         0.22
       ],
-      "triangles": 6576,
+      "triangles": 6580,
       "arm": {
         "position": [
           0,
-          0.54531,
+          0.55406,
           0.00565
         ],
         "width": 0.31,
@@ -1330,7 +1330,7 @@
         0.43,
         0.22
       ],
-      "triangles": 7568,
+      "triangles": 9280,
       "arm": {
         "position": [
           0.5696,
@@ -1353,7 +1353,7 @@
         0.43,
         0.22
       ],
-      "triangles": 16930,
+      "triangles": 25942,
       "arm": {
         "position": [
           0,
@@ -1448,7 +1448,7 @@
         0.43,
         0.22
       ],
-      "triangles": 6323
+      "triangles": 12833
     },
     {
       "id": "builder-stern-wall",
@@ -1460,7 +1460,7 @@
         0.43,
         0.22
       ],
-      "triangles": 5848
+      "triangles": 9130
     },
     {
       "id": "builder-stern-cradle",
@@ -1472,7 +1472,7 @@
         0.43,
         0.22
       ],
-      "triangles": 11429
+      "triangles": 16208
     },
     {
       "id": "builder-stern-tender-drive",
@@ -1484,7 +1484,7 @@
         0.43,
         0.22
       ],
-      "triangles": 4803,
+      "triangles": 4905,
       "nativeCut": {
         "uniformScale": 0.948,
         "cutPlanes": [

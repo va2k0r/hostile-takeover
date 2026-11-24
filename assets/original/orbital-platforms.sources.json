@@ -6,7 +6,7 @@
   "adaptation": "Hostile Takeover assembled licensed mesh sections, retained the source UVs and texture maps, and added the field loops, collars, crystals and navigation lights. Both detail levels of the turret preserve the cannon's PBR atlas and add local graphite, worn steel and oxide finishes.",
   "inputPacks": {
     "public/assets/faction-kits/donor-parts.glb": "8afad1a7ccdc0728c608b1648f54aab6a11fb00878eff76d1baa99a1b7cf851c",
-    "public/assets/re1monsen/sub-ftl-sector.glb": "583c60fdff549689b4bbf21738eb6c7ba90c75a704fc54518fa49e1a9db6611f",
+    "public/assets/re1monsen/sub-ftl-sector.glb": "3b69c9859b1eb29abd1ce379002f798160132ff2a759aabbe4757530f6daaddd",
     "public/assets/re1monsen/cannon.glb": "a906677735b5c92ecce82a061a211ca3f11f3996dbcb5910f890325075af9452"
   },
   "sources": [
@@ -68,7 +68,7 @@
     }
   ],
   "file": "orbital-platforms.glb",
-  "sha256": "9042f4e0161b6688ecb41bd9fbfa0883be73159879ac6a7221e73b3a5f146c9c",
+  "sha256": "ae01a121b7335720c88d05bfaf1dd0b50595ebe121706d4ac48182c917bee064",
   "models": {
     "autonomousTurretHull": {
       "sources": [
@@ -183,31 +183,31 @@
           "triangles": 25233,
           "materials": 7,
           "min": [
-            -0.23443,
+            -0.23444,
             -0.1079,
-            -0.25196
+            -0.25217
           ],
           "max": [
             0.2509,
             0.13481,
-            0.25284
+            0.25258
           ],
-          "reach": 0.25756
+          "reach": 0.25748
         },
         {
-          "triangles": 3816,
+          "triangles": 3852,
           "materials": 6,
           "min": [
-            -0.23443,
+            -0.23444,
             -0.1079,
-            -0.25196
+            -0.252
           ],
           "max": [
             0.2509,
             0.13481,
-            0.24485
+            0.24991
           ],
-          "reach": 0.25314
+          "reach": 0.25457
         }
       ]
     },
