@@ -1,10 +1,18 @@
 {
   "schemaVersion": 5,
-  "description": "Order prices and standard FTL holds in material units. One hold of ore and two of volatiles supply ten fighters or one standard Capital. Shipyards keep surplus freight for later orders.",
+  "description": "Order prices and standard FTL holds in material units. Two holds of ore and four of volatiles supply ten fighters or one standard Capital. Equipment recipes count physical units per completed module. Shipyards keep surplus freight for later orders.",
   "ftlLoads": { "Metals": 40, "Volatiles": 30, "Fissiles": 6, "Crystals": 6 },
   "cycleSeconds": 5,
-  "fighter": { "Metals": 4, "Volatiles": 6 },
-  "capital": { "Metals": 40, "Volatiles": 60 },
+  "fighter": { "Metals": 8, "Volatiles": 12 },
+  "capital": { "Metals": 80, "Volatiles": 120 },
+  "equipment": {
+    "GateScramblers": { "Deflectors": 1, "WeaponsSystems": 1, "Fissiles": 12 },
+    "WeaponsSystems": { "Fissiles": 12, "Volatiles": 12 },
+    "Deflectors": { "Metals": 8, "Crystals": 12 },
+    "EnergyShields": { "Deflectors": 1, "Fissiles": 12 },
+    "EnergyFieldModules": { "Deflectors": 1, "Crystals": 18 },
+    "PlasmaModules": { "WeaponsSystems": 2, "Crystals": 18 }
+  },
   "builders": {
     "Armory": { "Metals": 8, "Volatiles": 3, "Fissiles": 3 },
     "Foundry": { "Metals": 8, "Volatiles": 3, "Crystals": 3 },
