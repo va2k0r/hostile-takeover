@@ -9,6 +9,7 @@
     "Mine":      { "Metals": 2,  "Volatiles": 3 },
     "Refinery":  { "Metals": 2,  "Volatiles": 3 },
     "Extractor": { "Metals": 2,  "Volatiles": 3 },
+    "Gate": { "Metals": 8, "Volatiles": 3, "Crystals": 6 },
     "Harvester": { "Metals": 2, "Volatiles": 3 },
     "ShieldGenerator": { "Metals": 8, "Volatiles": 0, "Crystals": 6 },
     "Artillery": { "Metals": 8,  "Volatiles": 0, "Fissiles": 6 },

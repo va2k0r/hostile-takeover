@@ -1,0 +1,60 @@
+{
+  "source": "OpenAI ImageGen",
+  "commonPrompt": "Use case: stylized-concept. Original Hostile Takeover deep-space survey, rigorously photographic physical miniatures for a science-fiction industrial strategy game. One optical observation, precise textures, restrained cold key light from upper left, pale champagne glints with blue-grey shadow, features readable at a 320px small portrait. No lettering, text, symbols, HUD, watermark or logos.",
+  "plates": [
+    {
+      "file": "lens.webp",
+      "layer": "aperture",
+      "transparent": true,
+      "prompt": "Isolated transparent VFX plate of a large naturally occurring traversable gravitational caustic. One single broken irregular oblique elliptical loop made of hair-thin doubled arcs of pinprick starlight and a few beautiful sheets of clear fractured vitreous material at the fold, like a cosmic mirage seen by an optical telescope. Broad empty truly transparent opening. Highly asymmetrical, not a technological band or a flaming portal. Rim has enough visible thickness and deliberate irregular concentric arcs to read against black. Outer view cropped to the whole object with ample empty margin. Landscape 3:2 image, near-frontal orbit view, central opening around 50% x / 50% y. Transparent background and transparent center. No background, no stars beyond the arcs, no ground."
+    },
+    {
+      "file": "relic.webp",
+      "layer": "aperture",
+      "transparent": true,
+      "prompt": "Isolated cutout of a vast ancient abandoned open gate, one immense asymmetrical crescent of three broken dovetailing dark stone-metal ribs encompassing an empty circular aperture. Stacked erosion strata and hammered surfaces densely pocked with ancient craters, one polished lip, sections of broad broken arch missing, severe lonely archaeological relic, almost organic brutalist silhouette. Unique readable shape. Central opening around 50% x 50% y, slight three-quarter near-frontal view. Whole artefact, generous clear margin, 3:2 composition. Truly transparent background and transparent open aperture. No starfield, floor, pedestal, text or unrelated objects."
+    },
+    {
+      "file": "rig.webp",
+      "layer": "aperture",
+      "transparent": true,
+      "prompt": "Isolated cutout of an abandoned failed engineering experiment in space: two unequal skeletal instrument jaws locked around an open gap, one broken horseshoe coil with exposed copper windings, off-white ceramic collars, one burnt and peeled back, struts and collapsed cables. Asymmetrical late-industrial space research equipment; engineering hardware evokes a massive dismantled superconducting test bench, no heroic neon portal. Two cold amber pilot lights. Frame around the central open passage at 50% x 50% y, broad horizontal flattened silhouette, 3:2 near-frontal landscape view. Whole rig and clear margin. Transparent background and transparent center; no ground, sky or other ambient objects."
+    },
+    {
+      "file": "dust.webp",
+      "layer": "sky",
+      "transparent": false,
+      "prompt": "Wide 3:2 astrophotography backdrop of a distant amber dust bank seen from its own dark outskirts. Subtle oblique veil of suspended copper dust on the upper left and a luminous torn thin dust lane sweeping away into the right horizon. Small pinprick stars are sharp through the dark side. Leave the center sufficiently calm and dark to frame an artifact later. Beautiful realistic light in a restrained charcoal void. No planets, no portal, no macroscopic machines, no spectacle blooms."
+    },
+    {
+      "file": "ice.webp",
+      "layer": "sky",
+      "transparent": false,
+      "prompt": "Wide 3:2 astrophotography backdrop just above a loose field of slow blue-grey ice shards. A band of sparse individual translucent facets of varied scale recedes across lower third to an icy-blue milky horizon toward right. One angular ice chip soft at the extreme foreground, scattered cold stars. Center is quiet dark blue space to frame quite a large artifact later. Realistic, calm, visually clean astronomical plate; no planets, machinery, portals, snow falling or thick mountain ranges."
+    },
+    {
+      "file": "filament.webp",
+      "layer": "sky",
+      "transparent": false,
+      "prompt": "Wide 3:2 astronomical field photograph. Long fine copper-red and coral filaments of ionized gas stretch almost vertically through a deep black void. Lace-thin wavy strands, delicate reddish-bronze light, some bright tiny knots at upper right, a few points of blue-white starlight. Calm dark center reserved for a detected artifact to be composited later. Museum-grade scifi cosmic photo, restrained long-exposure realism. No planets, no machines, no ring, no thin connected drawn or straight lines."
+    },
+    {
+      "file": "bell.webp",
+      "layer": "witness",
+      "transparent": true,
+      "prompt": "Object plate, highly legible wreck fragment with human-scale detail. A single old orbital rescue bell, horizontal cylinder in three-quarter profile, scarred mustard-yellow and grey enamel, two circular portholes, four cast-metal handles and a heavy circular service hatch at the RIGHT end. Tiny inset amber indicator behind left porthole. Entire single object shown like a lost piece of industrial hardware floating freely. Long axis left to right. Landscape 3:2 frame, tightly center, no surrounding objects, no writing, no floor, no background, genuinely transparent."
+    },
+    {
+      "file": "tape.webp",
+      "layer": "witness",
+      "transparent": true,
+      "prompt": "Object plate for a technical archaeological portrait: an old long brass survey tape curling slack in microgravity in a loose, elegant broad horizontal S, unwinding from a blackened little mechanical reel at the LEFT end. The strip is broad enough to show a row of unevenly spaced punched round holes, tiny scratches, a single narrow folded kink near the RIGHT tip. Photographic physical prop, no text, numbers or symbols. Entire object, dominant horizontal sweep, 3:2 frame, truly transparent background."
+    },
+    {
+      "file": "branch.webp",
+      "layer": "witness",
+      "transparent": true,
+      "prompt": "Object plate. A single forked branching coral-like mineral specimen, flattened horizontally like a delicate pinned fossil but freely floating in space and in profile, for NASA-quality close-up documentation. Across one continuous specimen the LOW LEFT root is broad oxidized grey mineral and worn smooth, the RIGHT tips are fine ivory fingerlike branches with polished amber translucent tips. Readable silhouette like a long antler with at most 7 branches, exquisitely realistic physical texture. Entire slender specimen centered, landscape 3:2 format, naturally lit, no background, no text, true transparent alpha."
+    }
+  ]
+}
