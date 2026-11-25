@@ -1,12 +1,12 @@
 {
   "schemaVersion": 5,
-  "description": "Order prices and standard FTL holds in material units. Two holds of ore and four of volatiles supply ten fighters or a standard Capital hull. A cold Capital launch also pays local commissioning fuel. Equipment recipes count physical units per completed module. Shipyards keep surplus freight for later orders.",
+  "description": "Order prices and standard FTL holds in material units. One standard Capital, including each replacement, takes three holds of ore and nine of volatiles. Ten fighters take two holds of ore and four of volatiles. Equipment recipes count physical units per completed module. Shipyards keep surplus freight for later orders.",
   "ftlLoads": { "Metals": 40, "Volatiles": 30, "Fissiles": 30, "Crystals": 30 },
   "cycleSeconds": 5,
   "fabricationSeconds": 25,
-  "siegeEconomy": { "fissilesPerMissile": 6, "breachCharges": 5, "launchVolatiles": 120, "launchWindowSeconds": 60 },
+  "siegeEconomy": { "fissilesPerMissile": 6, "breachCharges": 5 },
   "fighter": { "Metals": 8, "Volatiles": 12 },
-  "capital": { "Metals": 80, "Volatiles": 120 },
+  "capital": { "Metals": 120, "Volatiles": 270 },
   "equipment": {
     "GateScramblers": { "Deflectors": 1, "WeaponsSystems": 1, "Fissiles": 60 },
     "WeaponsSystems": { "Fissiles": 60, "Volatiles": 60 },
