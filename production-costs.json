@@ -25,6 +25,6 @@
     "Harvester": { "Metals": 4, "Volatiles": 6 },
     "ShieldGenerator": { "Metals": 16, "Volatiles": 0, "Crystals": 12 },
     "Artillery": { "Metals": 16,  "Volatiles": 0, "Fissiles": 12 },
-    "Shipyard":  { "Metals": 40, "Volatiles": 60 }
+    "Shipyard":  { "Metals": 160, "Volatiles": 240 }
   }
 }
