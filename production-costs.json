@@ -13,16 +13,16 @@
     "PlasmaModules": { "WeaponsSystems": 2, "Crystals": 18 }
   },
   "builders": {
-    "Armory": { "Metals": 8, "Volatiles": 3, "Fissiles": 3 },
-    "Foundry": { "Metals": 8, "Volatiles": 3, "Crystals": 3 },
-    "Assembler": { "Metals": 12, "Volatiles": 9 },
-    "Mine":      { "Metals": 2,  "Volatiles": 3 },
-    "Refinery":  { "Metals": 2,  "Volatiles": 3 },
-    "Extractor": { "Metals": 2,  "Volatiles": 3 },
-    "Gate": { "Metals": 8, "Volatiles": 3, "Crystals": 6 },
-    "Harvester": { "Metals": 2, "Volatiles": 3 },
-    "ShieldGenerator": { "Metals": 8, "Volatiles": 0, "Crystals": 6 },
-    "Artillery": { "Metals": 8,  "Volatiles": 0, "Fissiles": 6 },
-    "Shipyard":  { "Metals": 20, "Volatiles": 30 }
+    "Armory": { "Metals": 16, "Volatiles": 6, "Fissiles": 6 },
+    "Foundry": { "Metals": 16, "Volatiles": 6, "Crystals": 6 },
+    "Assembler": { "Metals": 24, "Volatiles": 18 },
+    "Mine":      { "Metals": 4,  "Volatiles": 6 },
+    "Refinery":  { "Metals": 4,  "Volatiles": 6 },
+    "Extractor": { "Metals": 4,  "Volatiles": 6 },
+    "Gate": { "Metals": 16, "Volatiles": 6, "Crystals": 12 },
+    "Harvester": { "Metals": 4, "Volatiles": 6 },
+    "ShieldGenerator": { "Metals": 16, "Volatiles": 0, "Crystals": 12 },
+    "Artillery": { "Metals": 16,  "Volatiles": 0, "Fissiles": 12 },
+    "Shipyard":  { "Metals": 40, "Volatiles": 60 }
   }
 }
