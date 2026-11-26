@@ -1,6 +1,6 @@
 # Hostile Takeover
 
-**[Gioca a Hostile Takeover](https://va2k0r.github.io/hostile-takeover/)**
+**[Gioca a Hostile Takeover](https://va2k0r.github.io/hostile-takeover/)** · [Gioca con Sapphire Glass](https://va2k0r.github.io/hostile-takeover/?skin=zaffiro)
 
 Comanda un’industria spaziale, rifornisci i cantieri e guida la tua flotta contro le fazioni rivali. Il gioco si avvia nel browser e richiede WebGL 2.
 
