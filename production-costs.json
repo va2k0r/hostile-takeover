@@ -1,8 +1,8 @@
 {
   "schemaVersion": 5,
   "fleetScale": 1,
-  "description": "Each Shipyard supports 10 Fighters and one active Capital. The standard Capital recipe, including replacements, needs two FTL holds of ore and five of volatiles. Sector shuttles and interstellar freighters have separate holds.",
-  "ftlLoads": { "Metals": 40, "Volatiles": 30, "Fissiles": 30, "Crystals": 30 },
+  "description": "Each Shipyard supports 10 Fighters and one active Capital. The standard FTL hold carries 75 units. One unit of any material or finished product takes one unit of space.",
+  "unitFreight": true,
   "cycleSeconds": 5,
   "fabricationSeconds": 25,
   "siegeEconomy": { "fissilesPerMissile": 6, "breachCharges": 5 },
