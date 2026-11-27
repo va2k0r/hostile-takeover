@@ -1,8 +1,9 @@
 {
   "schemaVersion": 5,
   "fleetScale": 1,
-  "description": "Each Shipyard supports 10 Fighters and one active Capital. The standard FTL hold carries 75 units. One unit of any material or finished product takes one unit of space.",
+  "description": "Each Shipyard supports 10 Fighters and one active Capital. Each settled system shares one 180-unit FTL freighter per industrial faction. It can use the full hold in either direction. One unit of any material or finished product takes one unit of space.",
   "unitFreight": true,
+  "systemFreight": true,
   "cycleSeconds": 5,
   "fabricationSeconds": 25,
   "siegeEconomy": { "fissilesPerMissile": 6, "breachCharges": 5 },
